@@ -1,0 +1,1457 @@
+Age,Gender,O,C,E,A,N,Hassle,Severity
+21,Male,31,27,17,33,24,Misplacing or losing things,2
+21,Male,31,27,17,33,24,Silly practical mistakes,1
+21,Male,31,27,17,33,24,Trouble with pets,3
+21,Male,31,27,17,33,24,Difficulties with friends,4
+21,Male,31,27,17,33,24,Regrets over past decision/s,3
+21,Male,31,27,17,33,24,Concerned about the meaning of life,4
+21,Male,31,27,17,33,24,Being lonely,2
+21,Male,31,27,17,33,24,Inability to express oneself,3
+21,Male,31,27,17,33,24,Fear of rejection,4
+21,Male,31,27,17,33,24,Trouble making decisions,3
+21,Male,31,27,17,33,24,Physical appearance,2
+21,Male,31,27,17,33,24,Not seeing people,3
+21,Male,31,27,17,33,24,Troubling thoughts about one’s future,4
+21,Male,31,27,17,33,24,Not enough personal energy,3
+21,Male,31,27,17,33,24,Concerns about getting ahead,1
+21,Male,31,27,17,33,24,Fear of confrontation,2
+21,Male,31,27,17,33,24,Wasting time,3
+21,Male,31,27,17,33,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Male,31,27,17,33,24,Not enough money for wants (entertainment and recreation),3
+21,Male,31,27,17,33,24,Concerns about owing money,4
+21,Male,31,27,17,33,24,Concerns about money for emergencies,4
+21,Male,31,27,17,33,24,Financial security,4
+21,Male,31,27,17,33,24,Not enough time to do things one needs to,2
+21,Male,31,27,17,33,24,Too many responsibilities,4
+21,Male,31,27,17,33,24,Not getting enough rest,2
+21,Male,31,27,17,33,24,Too many interruptions,1
+21,Male,31,27,17,33,24,Not enough time for entertainment and recreation,3
+21,Male,31,27,17,33,24,Too many meetings,2
+21,Male,31,27,17,33,24,Social obligations,2
+21,Male,31,27,17,33,24,Concerns about meeting high standards,4
+21,Male,31,27,17,33,24,Noise,1
+21,Male,31,27,17,33,24,Pollution,2
+21,Male,31,27,17,33,24,Crime,4
+21,Male,31,27,17,33,24,Traffic,3
+21,Male,31,27,17,33,24,Concerns about news events,2
+21,Male,31,27,17,33,24,Rising prices of common goods,4
+21,Male,31,27,17,33,24,Concerns about accidents,3
+21,Male,31,27,17,33,24,Yardwork or outside home maintenance,1
+21,Male,31,27,17,33,24,Overloaded with family responsibilities,2
+21,Male,31,27,17,33,24,Home maintenance (inside),1
+21,Male,31,27,17,33,24,Concerns about medical treatment,4
+21,Male,31,27,17,33,24,Physical illness,3
+21,Male,31,27,17,33,24,Side effects of medication,1
+21,Male,31,27,17,33,24,Concerns about health in general,3
+21,Male,31,27,17,33,24,Concerns about bodily functions,3
+21,Male,31,27,17,33,24,Dissatisfaction with academic performance,3
+21,Male,31,27,17,33,24,Challenges with instructors,2
+21,Male,31,27,17,33,24,Discontent with current academic responsibilities,4
+21,Male,31,27,17,33,24,Concerns regarding academic transitions,2
+21,Male,31,27,17,33,24,Difficulties with peers or classmates,3
+21,Male,31,27,17,33,24,Challenges in managing group projects,3
+21,Male,31,27,17,33,24,Getting late to class,1
+21,Female,40,27,20,18,27,Misplacing or losing things,3
+21,Female,40,27,20,18,27,Silly practical mistakes,2
+21,Female,40,27,20,18,27,Trouble with pets,1
+21,Female,40,27,20,18,27,Difficulties with friends,2
+21,Female,40,27,20,18,27,Regrets over past decision/s,2
+21,Female,40,27,20,18,27,Concerned about the meaning of life,1
+21,Female,40,27,20,18,27,Being lonely,2
+21,Female,40,27,20,18,27,Inability to express oneself,1
+21,Female,40,27,20,18,27,Fear of rejection,2
+21,Female,40,27,20,18,27,Trouble making decisions,3
+21,Female,40,27,20,18,27,Physical appearance,3
+21,Female,40,27,20,18,27,Not seeing people,2
+21,Female,40,27,20,18,27,Troubling thoughts about one’s future,3
+21,Female,40,27,20,18,27,Not enough personal energy,1
+21,Female,40,27,20,18,27,Concerns about getting ahead,3
+21,Female,40,27,20,18,27,Fear of confrontation,1
+21,Female,40,27,20,18,27,Wasting time,1
+21,Female,40,27,20,18,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,40,27,20,18,27,Not enough money for wants (entertainment and recreation),1
+21,Female,40,27,20,18,27,Concerns about owing money,1
+21,Female,40,27,20,18,27,Concerns about money for emergencies,1
+21,Female,40,27,20,18,27,Financial security,1
+21,Female,40,27,20,18,27,Not enough time to do things one needs to,1
+21,Female,40,27,20,18,27,Too many responsibilities,2
+21,Female,40,27,20,18,27,Not getting enough rest,3
+21,Female,40,27,20,18,27,Too many interruptions,2
+21,Female,40,27,20,18,27,Not enough time for entertainment and recreation,1
+21,Female,40,27,20,18,27,Too many meetings,1
+21,Female,40,27,20,18,27,Social obligations,1
+21,Female,40,27,20,18,27,Concerns about meeting high standards,3
+21,Female,40,27,20,18,27,Noise,2
+21,Female,40,27,20,18,27,Pollution,1
+21,Female,40,27,20,18,27,Crime,2
+21,Female,40,27,20,18,27,Traffic,2
+21,Female,40,27,20,18,27,Concerns about news events,1
+21,Female,40,27,20,18,27,Rising prices of common goods,1
+21,Female,40,27,20,18,27,Concerns about accidents,1
+21,Female,40,27,20,18,27,Yardwork or outside home maintenance,1
+21,Female,40,27,20,18,27,Overloaded with family responsibilities,1
+21,Female,40,27,20,18,27,Home maintenance (inside),2
+21,Female,40,27,20,18,27,Concerns about medical treatment,1
+21,Female,40,27,20,18,27,Physical illness,1
+21,Female,40,27,20,18,27,Side effects of medication,1
+21,Female,40,27,20,18,27,Concerns about health in general,2
+21,Female,40,27,20,18,27,Concerns about bodily functions,1
+21,Female,40,27,20,18,27,Dissatisfaction with academic performance,1
+21,Female,40,27,20,18,27,Challenges with instructors,1
+21,Female,40,27,20,18,27,Discontent with current academic responsibilities,1
+21,Female,40,27,20,18,27,Concerns regarding academic transitions,1
+21,Female,40,27,20,18,27,Difficulties with peers or classmates,1
+21,Female,40,27,20,18,27,Challenges in managing group projects,1
+21,Female,40,27,20,18,27,Getting late to class,1
+19,Female,30,21,19,32,24,Misplacing or losing things,3
+19,Female,30,21,19,32,24,Silly practical mistakes,3
+19,Female,30,21,19,32,24,Trouble with pets,3
+19,Female,30,21,19,32,24,Difficulties with friends,4
+19,Female,30,21,19,32,24,Regrets over past decision/s,4
+19,Female,30,21,19,32,24,Concerned about the meaning of life,2
+19,Female,30,21,19,32,24,Being lonely,2
+19,Female,30,21,19,32,24,Inability to express oneself,2
+19,Female,30,21,19,32,24,Fear of rejection,5
+19,Female,30,21,19,32,24,Trouble making decisions,4
+19,Female,30,21,19,32,24,Physical appearance,4
+19,Female,30,21,19,32,24,Not seeing people,2
+19,Female,30,21,19,32,24,Troubling thoughts about one’s future,2
+19,Female,30,21,19,32,24,Not enough personal energy,3
+19,Female,30,21,19,32,24,Concerns about getting ahead,3
+19,Female,30,21,19,32,24,Fear of confrontation,3
+19,Female,30,21,19,32,24,Wasting time,2
+19,Female,30,21,19,32,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+19,Female,30,21,19,32,24,Not enough money for wants (entertainment and recreation),4
+19,Female,30,21,19,32,24,Concerns about owing money,4
+19,Female,30,21,19,32,24,Concerns about money for emergencies,5
+19,Female,30,21,19,32,24,Financial security,4
+19,Female,30,21,19,32,24,Not enough time to do things one needs to,5
+19,Female,30,21,19,32,24,Too many responsibilities,5
+19,Female,30,21,19,32,24,Not getting enough rest,4
+19,Female,30,21,19,32,24,Too many interruptions,4
+19,Female,30,21,19,32,24,Not enough time for entertainment and recreation,4
+19,Female,30,21,19,32,24,Too many meetings,4
+19,Female,30,21,19,32,24,Social obligations,4
+19,Female,30,21,19,32,24,Concerns about meeting high standards,4
+19,Female,30,21,19,32,24,Noise,3
+19,Female,30,21,19,32,24,Pollution,3
+19,Female,30,21,19,32,24,Crime,3
+19,Female,30,21,19,32,24,Traffic,3
+19,Female,30,21,19,32,24,Concerns about news events,3
+19,Female,30,21,19,32,24,Rising prices of common goods,3
+19,Female,30,21,19,32,24,Concerns about accidents,3
+19,Female,30,21,19,32,24,Yardwork or outside home maintenance,3
+19,Female,30,21,19,32,24,Overloaded with family responsibilities,4
+19,Female,30,21,19,32,24,Home maintenance (inside),3
+19,Female,30,21,19,32,24,Concerns about medical treatment,4
+19,Female,30,21,19,32,24,Physical illness,5
+19,Female,30,21,19,32,24,Side effects of medication,4
+19,Female,30,21,19,32,24,Concerns about health in general,4
+19,Female,30,21,19,32,24,Concerns about bodily functions,4
+19,Female,30,21,19,32,24,Dissatisfaction with academic performance,4
+19,Female,30,21,19,32,24,Challenges with instructors,4
+19,Female,30,21,19,32,24,Discontent with current academic responsibilities,4
+19,Female,30,21,19,32,24,Concerns regarding academic transitions,3
+19,Female,30,21,19,32,24,Difficulties with peers or classmates,3
+19,Female,30,21,19,32,24,Challenges in managing group projects,3
+19,Female,30,21,19,32,24,Getting late to class,3
+20,Female,34,25,13,26,26,Misplacing or losing things,2
+20,Female,34,25,13,26,26,Silly practical mistakes,1
+20,Female,34,25,13,26,26,Trouble with pets,1
+20,Female,34,25,13,26,26,Difficulties with friends,4
+20,Female,34,25,13,26,26,Regrets over past decision/s,3
+20,Female,34,25,13,26,26,Concerned about the meaning of life,4
+20,Female,34,25,13,26,26,Being lonely,2
+20,Female,34,25,13,26,26,Inability to express oneself,3
+20,Female,34,25,13,26,26,Fear of rejection,4
+20,Female,34,25,13,26,26,Trouble making decisions,2
+20,Female,34,25,13,26,26,Physical appearance,3
+20,Female,34,25,13,26,26,Not seeing people,1
+20,Female,34,25,13,26,26,Troubling thoughts about one’s future,2
+20,Female,34,25,13,26,26,Not enough personal energy,1
+20,Female,34,25,13,26,26,Concerns about getting ahead,2
+20,Female,34,25,13,26,26,Fear of confrontation,4
+20,Female,34,25,13,26,26,Wasting time,1
+20,Female,34,25,13,26,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+20,Female,34,25,13,26,26,Not enough money for wants (entertainment and recreation),3
+20,Female,34,25,13,26,26,Concerns about owing money,4
+20,Female,34,25,13,26,26,Concerns about money for emergencies,4
+20,Female,34,25,13,26,26,Financial security,4
+20,Female,34,25,13,26,26,Not enough time to do things one needs to,3
+20,Female,34,25,13,26,26,Too many responsibilities,4
+20,Female,34,25,13,26,26,Not getting enough rest,3
+20,Female,34,25,13,26,26,Too many interruptions,4
+20,Female,34,25,13,26,26,Not enough time for entertainment and recreation,3
+20,Female,34,25,13,26,26,Too many meetings,4
+20,Female,34,25,13,26,26,Social obligations,4
+20,Female,34,25,13,26,26,Concerns about meeting high standards,4
+20,Female,34,25,13,26,26,Noise,2
+20,Female,34,25,13,26,26,Pollution,3
+20,Female,34,25,13,26,26,Crime,5
+20,Female,34,25,13,26,26,Traffic,2
+20,Female,34,25,13,26,26,Concerns about news events,4
+20,Female,34,25,13,26,26,Rising prices of common goods,4
+20,Female,34,25,13,26,26,Concerns about accidents,4
+20,Female,34,25,13,26,26,Yardwork or outside home maintenance,3
+20,Female,34,25,13,26,26,Overloaded with family responsibilities,4
+20,Female,34,25,13,26,26,Home maintenance (inside),2
+20,Female,34,25,13,26,26,Concerns about medical treatment,3
+20,Female,34,25,13,26,26,Physical illness,4
+20,Female,34,25,13,26,26,Side effects of medication,2
+20,Female,34,25,13,26,26,Concerns about health in general,2
+20,Female,34,25,13,26,26,Concerns about bodily functions,2
+20,Female,34,25,13,26,26,Dissatisfaction with academic performance,2
+20,Female,34,25,13,26,26,Challenges with instructors,3
+20,Female,34,25,13,26,26,Discontent with current academic responsibilities,3
+20,Female,34,25,13,26,26,Concerns regarding academic transitions,3
+20,Female,34,25,13,26,26,Difficulties with peers or classmates,2
+20,Female,34,25,13,26,26,Challenges in managing group projects,3
+20,Female,34,25,13,26,26,Getting late to class,3
+22,Female,31,29,30,34,25,Misplacing or losing things,4
+22,Female,31,29,30,34,25,Silly practical mistakes,3
+22,Female,31,29,30,34,25,Trouble with pets,4
+22,Female,31,29,30,34,25,Difficulties with friends,5
+22,Female,31,29,30,34,25,Regrets over past decision/s,5
+22,Female,31,29,30,34,25,Concerned about the meaning of life,5
+22,Female,31,29,30,34,25,Being lonely,5
+22,Female,31,29,30,34,25,Inability to express oneself,4
+22,Female,31,29,30,34,25,Fear of rejection,5
+22,Female,31,29,30,34,25,Trouble making decisions,5
+22,Female,31,29,30,34,25,Physical appearance,4
+22,Female,31,29,30,34,25,Not seeing people,4
+22,Female,31,29,30,34,25,Troubling thoughts about one’s future,4
+22,Female,31,29,30,34,25,Not enough personal energy,3
+22,Female,31,29,30,34,25,Concerns about getting ahead,4
+22,Female,31,29,30,34,25,Fear of confrontation,4
+22,Female,31,29,30,34,25,Wasting time,4
+22,Female,31,29,30,34,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+22,Female,31,29,30,34,25,Not enough money for wants (entertainment and recreation),3
+22,Female,31,29,30,34,25,Concerns about owing money,3
+22,Female,31,29,30,34,25,Concerns about money for emergencies,5
+22,Female,31,29,30,34,25,Financial security,5
+22,Female,31,29,30,34,25,Not enough time to do things one needs to,5
+22,Female,31,29,30,34,25,Too many responsibilities,5
+22,Female,31,29,30,34,25,Not getting enough rest,4
+22,Female,31,29,30,34,25,Too many interruptions,5
+22,Female,31,29,30,34,25,Not enough time for entertainment and recreation,3
+22,Female,31,29,30,34,25,Too many meetings,4
+22,Female,31,29,30,34,25,Social obligations,1
+22,Female,31,29,30,34,25,Concerns about meeting high standards,5
+22,Female,31,29,30,34,25,Noise,3
+22,Female,31,29,30,34,25,Pollution,4
+22,Female,31,29,30,34,25,Crime,5
+22,Female,31,29,30,34,25,Traffic,5
+22,Female,31,29,30,34,25,Concerns about news events,4
+22,Female,31,29,30,34,25,Rising prices of common goods,4
+22,Female,31,29,30,34,25,Concerns about accidents,4
+22,Female,31,29,30,34,25,Yardwork or outside home maintenance,4
+22,Female,31,29,30,34,25,Overloaded with family responsibilities,4
+22,Female,31,29,30,34,25,Home maintenance (inside),4
+22,Female,31,29,30,34,25,Concerns about medical treatment,5
+22,Female,31,29,30,34,25,Physical illness,5
+22,Female,31,29,30,34,25,Side effects of medication,4
+22,Female,31,29,30,34,25,Concerns about health in general,4
+22,Female,31,29,30,34,25,Concerns about bodily functions,4
+22,Female,31,29,30,34,25,Dissatisfaction with academic performance,5
+22,Female,31,29,30,34,25,Challenges with instructors,5
+22,Female,31,29,30,34,25,Discontent with current academic responsibilities,5
+22,Female,31,29,30,34,25,Concerns regarding academic transitions,3
+22,Female,31,29,30,34,25,Difficulties with peers or classmates,5
+22,Female,31,29,30,34,25,Challenges in managing group projects,5
+22,Female,31,29,30,34,25,Getting late to class,4
+21,Female,39,33,31,31,26,Misplacing or losing things,2
+21,Female,39,33,31,31,26,Silly practical mistakes,2
+21,Female,39,33,31,31,26,Trouble with pets,1
+21,Female,39,33,31,31,26,Difficulties with friends,1
+21,Female,39,33,31,31,26,Regrets over past decision/s,2
+21,Female,39,33,31,31,26,Concerned about the meaning of life,1
+21,Female,39,33,31,31,26,Being lonely,1
+21,Female,39,33,31,31,26,Inability to express oneself,1
+21,Female,39,33,31,31,26,Fear of rejection,2
+21,Female,39,33,31,31,26,Trouble making decisions,1
+21,Female,39,33,31,31,26,Physical appearance,2
+21,Female,39,33,31,31,26,Not seeing people,2
+21,Female,39,33,31,31,26,Troubling thoughts about one’s future,1
+21,Female,39,33,31,31,26,Not enough personal energy,1
+21,Female,39,33,31,31,26,Concerns about getting ahead,1
+21,Female,39,33,31,31,26,Fear of confrontation,1
+21,Female,39,33,31,31,26,Wasting time,2
+21,Female,39,33,31,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,39,33,31,31,26,Not enough money for wants (entertainment and recreation),1
+21,Female,39,33,31,31,26,Concerns about owing money,1
+21,Female,39,33,31,31,26,Concerns about money for emergencies,1
+21,Female,39,33,31,31,26,Financial security,1
+21,Female,39,33,31,31,26,Not enough time to do things one needs to,3
+21,Female,39,33,31,31,26,Too many responsibilities,2
+21,Female,39,33,31,31,26,Not getting enough rest,2
+21,Female,39,33,31,31,26,Too many interruptions,1
+21,Female,39,33,31,31,26,Not enough time for entertainment and recreation,3
+21,Female,39,33,31,31,26,Too many meetings,2
+21,Female,39,33,31,31,26,Social obligations,1
+21,Female,39,33,31,31,26,Concerns about meeting high standards,1
+21,Female,39,33,31,31,26,Noise,2
+21,Female,39,33,31,31,26,Pollution,4
+21,Female,39,33,31,31,26,Crime,4
+21,Female,39,33,31,31,26,Traffic,5
+21,Female,39,33,31,31,26,Concerns about news events,3
+21,Female,39,33,31,31,26,Rising prices of common goods,2
+21,Female,39,33,31,31,26,Concerns about accidents,2
+21,Female,39,33,31,31,26,Yardwork or outside home maintenance,1
+21,Female,39,33,31,31,26,Overloaded with family responsibilities,1
+21,Female,39,33,31,31,26,Home maintenance (inside),1
+21,Female,39,33,31,31,26,Concerns about medical treatment,1
+21,Female,39,33,31,31,26,Physical illness,1
+21,Female,39,33,31,31,26,Side effects of medication,1
+21,Female,39,33,31,31,26,Concerns about health in general,1
+21,Female,39,33,31,31,26,Concerns about bodily functions,1
+21,Female,39,33,31,31,26,Dissatisfaction with academic performance,2
+21,Female,39,33,31,31,26,Challenges with instructors,2
+21,Female,39,33,31,31,26,Discontent with current academic responsibilities,1
+21,Female,39,33,31,31,26,Concerns regarding academic transitions,1
+21,Female,39,33,31,31,26,Difficulties with peers or classmates,1
+21,Female,39,33,31,31,26,Challenges in managing group projects,1
+21,Female,39,33,31,31,26,Getting late to class,1
+20,Female,40,26,23,25,28,Misplacing or losing things,1
+20,Female,40,26,23,25,28,Silly practical mistakes,2
+20,Female,40,26,23,25,28,Trouble with pets,5
+20,Female,40,26,23,25,28,Difficulties with friends,3
+20,Female,40,26,23,25,28,Regrets over past decision/s,5
+20,Female,40,26,23,25,28,Concerned about the meaning of life,3
+20,Female,40,26,23,25,28,Being lonely,2
+20,Female,40,26,23,25,28,Inability to express oneself,5
+20,Female,40,26,23,25,28,Fear of rejection,5
+20,Female,40,26,23,25,28,Trouble making decisions,4
+20,Female,40,26,23,25,28,Physical appearance,3
+20,Female,40,26,23,25,28,Not seeing people,2
+20,Female,40,26,23,25,28,Troubling thoughts about one’s future,5
+20,Female,40,26,23,25,28,Not enough personal energy,3
+20,Female,40,26,23,25,28,Concerns about getting ahead,5
+20,Female,40,26,23,25,28,Fear of confrontation,2
+20,Female,40,26,23,25,28,Wasting time,2
+20,Female,40,26,23,25,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Female,40,26,23,25,28,Not enough money for wants (entertainment and recreation),2
+20,Female,40,26,23,25,28,Concerns about owing money,1
+20,Female,40,26,23,25,28,Concerns about money for emergencies,1
+20,Female,40,26,23,25,28,Financial security,2
+20,Female,40,26,23,25,28,Not enough time to do things one needs to,3
+20,Female,40,26,23,25,28,Too many responsibilities,3
+20,Female,40,26,23,25,28,Not getting enough rest,4
+20,Female,40,26,23,25,28,Too many interruptions,3
+20,Female,40,26,23,25,28,Not enough time for entertainment and recreation,2
+20,Female,40,26,23,25,28,Too many meetings,2
+20,Female,40,26,23,25,28,Social obligations,3
+20,Female,40,26,23,25,28,Concerns about meeting high standards,5
+20,Female,40,26,23,25,28,Noise,1
+20,Female,40,26,23,25,28,Pollution,2
+20,Female,40,26,23,25,28,Crime,2
+20,Female,40,26,23,25,28,Traffic,3
+20,Female,40,26,23,25,28,Concerns about news events,2
+20,Female,40,26,23,25,28,Rising prices of common goods,3
+20,Female,40,26,23,25,28,Concerns about accidents,3
+20,Female,40,26,23,25,28,Yardwork or outside home maintenance,1
+20,Female,40,26,23,25,28,Overloaded with family responsibilities,1
+20,Female,40,26,23,25,28,Home maintenance (inside),1
+20,Female,40,26,23,25,28,Concerns about medical treatment,1
+20,Female,40,26,23,25,28,Physical illness,1
+20,Female,40,26,23,25,28,Side effects of medication,2
+20,Female,40,26,23,25,28,Concerns about health in general,2
+20,Female,40,26,23,25,28,Concerns about bodily functions,2
+20,Female,40,26,23,25,28,Dissatisfaction with academic performance,5
+20,Female,40,26,23,25,28,Challenges with instructors,3
+20,Female,40,26,23,25,28,Discontent with current academic responsibilities,5
+20,Female,40,26,23,25,28,Concerns regarding academic transitions,4
+20,Female,40,26,23,25,28,Difficulties with peers or classmates,3
+20,Female,40,26,23,25,28,Challenges in managing group projects,3
+20,Female,40,26,23,25,28,Getting late to class,1
+21,Female,34,31,20,28,26,Misplacing or losing things,2
+21,Female,34,31,20,28,26,Silly practical mistakes,3
+21,Female,34,31,20,28,26,Trouble with pets,3
+21,Female,34,31,20,28,26,Difficulties with friends,3
+21,Female,34,31,20,28,26,Regrets over past decision/s,4
+21,Female,34,31,20,28,26,Concerned about the meaning of life,2
+21,Female,34,31,20,28,26,Being lonely,2
+21,Female,34,31,20,28,26,Inability to express oneself,3
+21,Female,34,31,20,28,26,Fear of rejection,3
+21,Female,34,31,20,28,26,Trouble making decisions,3
+21,Female,34,31,20,28,26,Physical appearance,3
+21,Female,34,31,20,28,26,Not seeing people,2
+21,Female,34,31,20,28,26,Troubling thoughts about one’s future,3
+21,Female,34,31,20,28,26,Not enough personal energy,3
+21,Female,34,31,20,28,26,Concerns about getting ahead,3
+21,Female,34,31,20,28,26,Fear of confrontation,4
+21,Female,34,31,20,28,26,Wasting time,3
+21,Female,34,31,20,28,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+21,Female,34,31,20,28,26,Not enough money for wants (entertainment and recreation),2
+21,Female,34,31,20,28,26,Concerns about owing money,3
+21,Female,34,31,20,28,26,Concerns about money for emergencies,5
+21,Female,34,31,20,28,26,Financial security,3
+21,Female,34,31,20,28,26,Not enough time to do things one needs to,3
+21,Female,34,31,20,28,26,Too many responsibilities,4
+21,Female,34,31,20,28,26,Not getting enough rest,3
+21,Female,34,31,20,28,26,Too many interruptions,3
+21,Female,34,31,20,28,26,Not enough time for entertainment and recreation,2
+21,Female,34,31,20,28,26,Too many meetings,3
+21,Female,34,31,20,28,26,Social obligations,3
+21,Female,34,31,20,28,26,Concerns about meeting high standards,4
+21,Female,34,31,20,28,26,Noise,2
+21,Female,34,31,20,28,26,Pollution,3
+21,Female,34,31,20,28,26,Crime,4
+21,Female,34,31,20,28,26,Traffic,3
+21,Female,34,31,20,28,26,Concerns about news events,3
+21,Female,34,31,20,28,26,Rising prices of common goods,3
+21,Female,34,31,20,28,26,Concerns about accidents,4
+21,Female,34,31,20,28,26,Yardwork or outside home maintenance,3
+21,Female,34,31,20,28,26,Overloaded with family responsibilities,4
+21,Female,34,31,20,28,26,Home maintenance (inside),3
+21,Female,34,31,20,28,26,Concerns about medical treatment,4
+21,Female,34,31,20,28,26,Physical illness,4
+21,Female,34,31,20,28,26,Side effects of medication,4
+21,Female,34,31,20,28,26,Concerns about health in general,4
+21,Female,34,31,20,28,26,Concerns about bodily functions,4
+21,Female,34,31,20,28,26,Dissatisfaction with academic performance,4
+21,Female,34,31,20,28,26,Challenges with instructors,3
+21,Female,34,31,20,28,26,Discontent with current academic responsibilities,4
+21,Female,34,31,20,28,26,Concerns regarding academic transitions,3
+21,Female,34,31,20,28,26,Difficulties with peers or classmates,4
+21,Female,34,31,20,28,26,Challenges in managing group projects,3
+21,Female,34,31,20,28,26,Getting late to class,3
+18,Female,43,39,21,31,25,Misplacing or losing things,2
+18,Female,43,39,21,31,25,Silly practical mistakes,2
+18,Female,43,39,21,31,25,Trouble with pets,1
+18,Female,43,39,21,31,25,Difficulties with friends,1
+18,Female,43,39,21,31,25,Regrets over past decision/s,3
+18,Female,43,39,21,31,25,Concerned about the meaning of life,5
+18,Female,43,39,21,31,25,Being lonely,2
+18,Female,43,39,21,31,25,Inability to express oneself,3
+18,Female,43,39,21,31,25,Fear of rejection,4
+18,Female,43,39,21,31,25,Trouble making decisions,3
+18,Female,43,39,21,31,25,Physical appearance,3
+18,Female,43,39,21,31,25,Not seeing people,2
+18,Female,43,39,21,31,25,Troubling thoughts about one’s future,5
+18,Female,43,39,21,31,25,Not enough personal energy,3
+18,Female,43,39,21,31,25,Concerns about getting ahead,3
+18,Female,43,39,21,31,25,Fear of confrontation,1
+18,Female,43,39,21,31,25,Wasting time,5
+18,Female,43,39,21,31,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+18,Female,43,39,21,31,25,Not enough money for wants (entertainment and recreation),2
+18,Female,43,39,21,31,25,Concerns about owing money,1
+18,Female,43,39,21,31,25,Concerns about money for emergencies,2
+18,Female,43,39,21,31,25,Financial security,2
+18,Female,43,39,21,31,25,Not enough time to do things one needs to,2
+18,Female,43,39,21,31,25,Too many responsibilities,3
+18,Female,43,39,21,31,25,Not getting enough rest,3
+18,Female,43,39,21,31,25,Too many interruptions,2
+18,Female,43,39,21,31,25,Not enough time for entertainment and recreation,2
+18,Female,43,39,21,31,25,Too many meetings,2
+18,Female,43,39,21,31,25,Social obligations,2
+18,Female,43,39,21,31,25,Concerns about meeting high standards,4
+18,Female,43,39,21,31,25,Noise,3
+18,Female,43,39,21,31,25,Pollution,3
+18,Female,43,39,21,31,25,Crime,1
+18,Female,43,39,21,31,25,Traffic,5
+18,Female,43,39,21,31,25,Concerns about news events,3
+18,Female,43,39,21,31,25,Rising prices of common goods,4
+18,Female,43,39,21,31,25,Concerns about accidents,3
+18,Female,43,39,21,31,25,Yardwork or outside home maintenance,1
+18,Female,43,39,21,31,25,Overloaded with family responsibilities,1
+18,Female,43,39,21,31,25,Home maintenance (inside),2
+18,Female,43,39,21,31,25,Concerns about medical treatment,1
+18,Female,43,39,21,31,25,Physical illness,3
+18,Female,43,39,21,31,25,Side effects of medication,3
+18,Female,43,39,21,31,25,Concerns about health in general,4
+18,Female,43,39,21,31,25,Concerns about bodily functions,3
+18,Female,43,39,21,31,25,Dissatisfaction with academic performance,1
+18,Female,43,39,21,31,25,Challenges with instructors,2
+18,Female,43,39,21,31,25,Discontent with current academic responsibilities,1
+18,Female,43,39,21,31,25,Concerns regarding academic transitions,3
+18,Female,43,39,21,31,25,Difficulties with peers or classmates,1
+18,Female,43,39,21,31,25,Challenges in managing group projects,1
+18,Female,43,39,21,31,25,Getting late to class,3
+21,Male,38,25,24,36,19,Misplacing or losing things,1
+21,Male,38,25,24,36,19,Silly practical mistakes,1
+21,Male,38,25,24,36,19,Trouble with pets,1
+21,Male,38,25,24,36,19,Difficulties with friends,2
+21,Male,38,25,24,36,19,Regrets over past decision/s,1
+21,Male,38,25,24,36,19,Concerned about the meaning of life,1
+21,Male,38,25,24,36,19,Being lonely,1
+21,Male,38,25,24,36,19,Inability to express oneself,1
+21,Male,38,25,24,36,19,Fear of rejection,1
+21,Male,38,25,24,36,19,Trouble making decisions,1
+21,Male,38,25,24,36,19,Physical appearance,2
+21,Male,38,25,24,36,19,Not seeing people,1
+21,Male,38,25,24,36,19,Troubling thoughts about one’s future,2
+21,Male,38,25,24,36,19,Not enough personal energy,2
+21,Male,38,25,24,36,19,Concerns about getting ahead,2
+21,Male,38,25,24,36,19,Fear of confrontation,1
+21,Male,38,25,24,36,19,Wasting time,1
+21,Male,38,25,24,36,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,38,25,24,36,19,Not enough money for wants (entertainment and recreation),1
+21,Male,38,25,24,36,19,Concerns about owing money,2
+21,Male,38,25,24,36,19,Concerns about money for emergencies,1
+21,Male,38,25,24,36,19,Financial security,2
+21,Male,38,25,24,36,19,Not enough time to do things one needs to,3
+21,Male,38,25,24,36,19,Too many responsibilities,4
+21,Male,38,25,24,36,19,Not getting enough rest,3
+21,Male,38,25,24,36,19,Too many interruptions,2
+21,Male,38,25,24,36,19,Not enough time for entertainment and recreation,4
+21,Male,38,25,24,36,19,Too many meetings,2
+21,Male,38,25,24,36,19,Social obligations,1
+21,Male,38,25,24,36,19,Concerns about meeting high standards,1
+21,Male,38,25,24,36,19,Noise,3
+21,Male,38,25,24,36,19,Pollution,4
+21,Male,38,25,24,36,19,Crime,2
+21,Male,38,25,24,36,19,Traffic,1
+21,Male,38,25,24,36,19,Concerns about news events,1
+21,Male,38,25,24,36,19,Rising prices of common goods,1
+21,Male,38,25,24,36,19,Concerns about accidents,2
+21,Male,38,25,24,36,19,Yardwork or outside home maintenance,1
+21,Male,38,25,24,36,19,Overloaded with family responsibilities,1
+21,Male,38,25,24,36,19,Home maintenance (inside),1
+21,Male,38,25,24,36,19,Concerns about medical treatment,1
+21,Male,38,25,24,36,19,Physical illness,2
+21,Male,38,25,24,36,19,Side effects of medication,1
+21,Male,38,25,24,36,19,Concerns about health in general,2
+21,Male,38,25,24,36,19,Concerns about bodily functions,1
+21,Male,38,25,24,36,19,Dissatisfaction with academic performance,2
+21,Male,38,25,24,36,19,Challenges with instructors,2
+21,Male,38,25,24,36,19,Discontent with current academic responsibilities,3
+21,Male,38,25,24,36,19,Concerns regarding academic transitions,1
+21,Male,38,25,24,36,19,Difficulties with peers or classmates,2
+21,Male,38,25,24,36,19,Challenges in managing group projects,2
+21,Male,38,25,24,36,19,Getting late to class,1
+22,Male,31,26,21,26,30,Misplacing or losing things,3
+22,Male,31,26,21,26,30,Silly practical mistakes,2
+22,Male,31,26,21,26,30,Trouble with pets,1
+22,Male,31,26,21,26,30,Difficulties with friends,2
+22,Male,31,26,21,26,30,Regrets over past decision/s,3
+22,Male,31,26,21,26,30,Concerned about the meaning of life,3
+22,Male,31,26,21,26,30,Being lonely,1
+22,Male,31,26,21,26,30,Inability to express oneself,2
+22,Male,31,26,21,26,30,Fear of rejection,2
+22,Male,31,26,21,26,30,Trouble making decisions,3
+22,Male,31,26,21,26,30,Physical appearance,1
+22,Male,31,26,21,26,30,Not seeing people,1
+22,Male,31,26,21,26,30,Troubling thoughts about one’s future,3
+22,Male,31,26,21,26,30,Not enough personal energy,3
+22,Male,31,26,21,26,30,Concerns about getting ahead,2
+22,Male,31,26,21,26,30,Fear of confrontation,1
+22,Male,31,26,21,26,30,Wasting time,1
+22,Male,31,26,21,26,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+22,Male,31,26,21,26,30,Not enough money for wants (entertainment and recreation),1
+22,Male,31,26,21,26,30,Concerns about owing money,1
+22,Male,31,26,21,26,30,Concerns about money for emergencies,1
+22,Male,31,26,21,26,30,Financial security,1
+22,Male,31,26,21,26,30,Not enough time to do things one needs to,2
+22,Male,31,26,21,26,30,Too many responsibilities,3
+22,Male,31,26,21,26,30,Not getting enough rest,2
+22,Male,31,26,21,26,30,Too many interruptions,3
+22,Male,31,26,21,26,30,Not enough time for entertainment and recreation,1
+22,Male,31,26,21,26,30,Too many meetings,2
+22,Male,31,26,21,26,30,Social obligations,2
+22,Male,31,26,21,26,30,Concerns about meeting high standards,2
+22,Male,31,26,21,26,30,Noise,1
+22,Male,31,26,21,26,30,Pollution,3
+22,Male,31,26,21,26,30,Crime,2
+22,Male,31,26,21,26,30,Traffic,1
+22,Male,31,26,21,26,30,Concerns about news events,3
+22,Male,31,26,21,26,30,Rising prices of common goods,3
+22,Male,31,26,21,26,30,Concerns about accidents,2
+22,Male,31,26,21,26,30,Yardwork or outside home maintenance,1
+22,Male,31,26,21,26,30,Overloaded with family responsibilities,1
+22,Male,31,26,21,26,30,Home maintenance (inside),1
+22,Male,31,26,21,26,30,Concerns about medical treatment,1
+22,Male,31,26,21,26,30,Physical illness,1
+22,Male,31,26,21,26,30,Side effects of medication,1
+22,Male,31,26,21,26,30,Concerns about health in general,2
+22,Male,31,26,21,26,30,Concerns about bodily functions,1
+22,Male,31,26,21,26,30,Dissatisfaction with academic performance,3
+22,Male,31,26,21,26,30,Challenges with instructors,2
+22,Male,31,26,21,26,30,Discontent with current academic responsibilities,2
+22,Male,31,26,21,26,30,Concerns regarding academic transitions,2
+22,Male,31,26,21,26,30,Difficulties with peers or classmates,2
+22,Male,31,26,21,26,30,Challenges in managing group projects,2
+22,Male,31,26,21,26,30,Getting late to class,1
+21,Female,28,32,28,34,20,Misplacing or losing things,2
+21,Female,28,32,28,34,20,Silly practical mistakes,2
+21,Female,28,32,28,34,20,Trouble with pets,1
+21,Female,28,32,28,34,20,Difficulties with friends,3
+21,Female,28,32,28,34,20,Regrets over past decision/s,2
+21,Female,28,32,28,34,20,Concerned about the meaning of life,2
+21,Female,28,32,28,34,20,Being lonely,3
+21,Female,28,32,28,34,20,Inability to express oneself,3
+21,Female,28,32,28,34,20,Fear of rejection,4
+21,Female,28,32,28,34,20,Trouble making decisions,4
+21,Female,28,32,28,34,20,Physical appearance,2
+21,Female,28,32,28,34,20,Not seeing people,3
+21,Female,28,32,28,34,20,Troubling thoughts about one’s future,5
+21,Female,28,32,28,34,20,Not enough personal energy,4
+21,Female,28,32,28,34,20,Concerns about getting ahead,3
+21,Female,28,32,28,34,20,Fear of confrontation,3
+21,Female,28,32,28,34,20,Wasting time,3
+21,Female,28,32,28,34,20,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Female,28,32,28,34,20,Not enough money for wants (entertainment and recreation),3
+21,Female,28,32,28,34,20,Concerns about owing money,4
+21,Female,28,32,28,34,20,Concerns about money for emergencies,3
+21,Female,28,32,28,34,20,Financial security,5
+21,Female,28,32,28,34,20,Not enough time to do things one needs to,5
+21,Female,28,32,28,34,20,Too many responsibilities,5
+21,Female,28,32,28,34,20,Not getting enough rest,5
+21,Female,28,32,28,34,20,Too many interruptions,4
+21,Female,28,32,28,34,20,Not enough time for entertainment and recreation,4
+21,Female,28,32,28,34,20,Too many meetings,4
+21,Female,28,32,28,34,20,Social obligations,4
+21,Female,28,32,28,34,20,Concerns about meeting high standards,4
+21,Female,28,32,28,34,20,Noise,4
+21,Female,28,32,28,34,20,Pollution,3
+21,Female,28,32,28,34,20,Crime,3
+21,Female,28,32,28,34,20,Traffic,3
+21,Female,28,32,28,34,20,Concerns about news events,3
+21,Female,28,32,28,34,20,Rising prices of common goods,4
+21,Female,28,32,28,34,20,Concerns about accidents,3
+21,Female,28,32,28,34,20,Yardwork or outside home maintenance,3
+21,Female,28,32,28,34,20,Overloaded with family responsibilities,4
+21,Female,28,32,28,34,20,Home maintenance (inside),3
+21,Female,28,32,28,34,20,Concerns about medical treatment,4
+21,Female,28,32,28,34,20,Physical illness,4
+21,Female,28,32,28,34,20,Side effects of medication,3
+21,Female,28,32,28,34,20,Concerns about health in general,3
+21,Female,28,32,28,34,20,Concerns about bodily functions,3
+21,Female,28,32,28,34,20,Dissatisfaction with academic performance,4
+21,Female,28,32,28,34,20,Challenges with instructors,3
+21,Female,28,32,28,34,20,Discontent with current academic responsibilities,3
+21,Female,28,32,28,34,20,Concerns regarding academic transitions,3
+21,Female,28,32,28,34,20,Difficulties with peers or classmates,3
+21,Female,28,32,28,34,20,Challenges in managing group projects,3
+21,Female,28,32,28,34,20,Getting late to class,2
+21,Female,42,28,20,39,19,Misplacing or losing things,3
+21,Female,42,28,20,39,19,Silly practical mistakes,3
+21,Female,42,28,20,39,19,Trouble with pets,1
+21,Female,42,28,20,39,19,Difficulties with friends,2
+21,Female,42,28,20,39,19,Regrets over past decision/s,1
+21,Female,42,28,20,39,19,Concerned about the meaning of life,2
+21,Female,42,28,20,39,19,Being lonely,2
+21,Female,42,28,20,39,19,Inability to express oneself,2
+21,Female,42,28,20,39,19,Fear of rejection,2
+21,Female,42,28,20,39,19,Trouble making decisions,3
+21,Female,42,28,20,39,19,Physical appearance,1
+21,Female,42,28,20,39,19,Not seeing people,2
+21,Female,42,28,20,39,19,Troubling thoughts about one’s future,2
+21,Female,42,28,20,39,19,Not enough personal energy,3
+21,Female,42,28,20,39,19,Concerns about getting ahead,3
+21,Female,42,28,20,39,19,Fear of confrontation,3
+21,Female,42,28,20,39,19,Wasting time,4
+21,Female,42,28,20,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,42,28,20,39,19,Not enough money for wants (entertainment and recreation),1
+21,Female,42,28,20,39,19,Concerns about owing money,1
+21,Female,42,28,20,39,19,Concerns about money for emergencies,1
+21,Female,42,28,20,39,19,Financial security,1
+21,Female,42,28,20,39,19,Not enough time to do things one needs to,3
+21,Female,42,28,20,39,19,Too many responsibilities,2
+21,Female,42,28,20,39,19,Not getting enough rest,3
+21,Female,42,28,20,39,19,Too many interruptions,3
+21,Female,42,28,20,39,19,Not enough time for entertainment and recreation,2
+21,Female,42,28,20,39,19,Too many meetings,2
+21,Female,42,28,20,39,19,Social obligations,2
+21,Female,42,28,20,39,19,Concerns about meeting high standards,3
+21,Female,42,28,20,39,19,Noise,3
+21,Female,42,28,20,39,19,Pollution,5
+21,Female,42,28,20,39,19,Crime,3
+21,Female,42,28,20,39,19,Traffic,3
+21,Female,42,28,20,39,19,Concerns about news events,2
+21,Female,42,28,20,39,19,Rising prices of common goods,5
+21,Female,42,28,20,39,19,Concerns about accidents,3
+21,Female,42,28,20,39,19,Yardwork or outside home maintenance,2
+21,Female,42,28,20,39,19,Overloaded with family responsibilities,1
+21,Female,42,28,20,39,19,Home maintenance (inside),1
+21,Female,42,28,20,39,19,Concerns about medical treatment,3
+21,Female,42,28,20,39,19,Physical illness,1
+21,Female,42,28,20,39,19,Side effects of medication,1
+21,Female,42,28,20,39,19,Concerns about health in general,3
+21,Female,42,28,20,39,19,Concerns about bodily functions,1
+21,Female,42,28,20,39,19,Dissatisfaction with academic performance,4
+21,Female,42,28,20,39,19,Challenges with instructors,2
+21,Female,42,28,20,39,19,Discontent with current academic responsibilities,2
+21,Female,42,28,20,39,19,Concerns regarding academic transitions,2
+21,Female,42,28,20,39,19,Difficulties with peers or classmates,2
+21,Female,42,28,20,39,19,Challenges in managing group projects,2
+21,Female,42,28,20,39,19,Getting late to class,1
+21,Male,43,37,29,27,30,Misplacing or losing things,3
+21,Male,43,37,29,27,30,Silly practical mistakes,1
+21,Male,43,37,29,27,30,Trouble with pets,3
+21,Male,43,37,29,27,30,Difficulties with friends,5
+21,Male,43,37,29,27,30,Regrets over past decision/s,2
+21,Male,43,37,29,27,30,Concerned about the meaning of life,1
+21,Male,43,37,29,27,30,Being lonely,3
+21,Male,43,37,29,27,30,Inability to express oneself,3
+21,Male,43,37,29,27,30,Fear of rejection,5
+21,Male,43,37,29,27,30,Trouble making decisions,3
+21,Male,43,37,29,27,30,Physical appearance,3
+21,Male,43,37,29,27,30,Not seeing people,3
+21,Male,43,37,29,27,30,Troubling thoughts about one’s future,5
+21,Male,43,37,29,27,30,Not enough personal energy,2
+21,Male,43,37,29,27,30,Concerns about getting ahead,5
+21,Male,43,37,29,27,30,Fear of confrontation,1
+21,Male,43,37,29,27,30,Wasting time,2
+21,Male,43,37,29,27,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Male,43,37,29,27,30,Not enough money for wants (entertainment and recreation),2
+21,Male,43,37,29,27,30,Concerns about owing money,5
+21,Male,43,37,29,27,30,Concerns about money for emergencies,5
+21,Male,43,37,29,27,30,Financial security,5
+21,Male,43,37,29,27,30,Not enough time to do things one needs to,5
+21,Male,43,37,29,27,30,Too many responsibilities,5
+21,Male,43,37,29,27,30,Not getting enough rest,2
+21,Male,43,37,29,27,30,Too many interruptions,5
+21,Male,43,37,29,27,30,Not enough time for entertainment and recreation,5
+21,Male,43,37,29,27,30,Too many meetings,5
+21,Male,43,37,29,27,30,Social obligations,2
+21,Male,43,37,29,27,30,Concerns about meeting high standards,5
+21,Male,43,37,29,27,30,Noise,1
+21,Male,43,37,29,27,30,Pollution,5
+21,Male,43,37,29,27,30,Crime,5
+21,Male,43,37,29,27,30,Traffic,3
+21,Male,43,37,29,27,30,Concerns about news events,2
+21,Male,43,37,29,27,30,Rising prices of common goods,5
+21,Male,43,37,29,27,30,Concerns about accidents,1
+21,Male,43,37,29,27,30,Yardwork or outside home maintenance,1
+21,Male,43,37,29,27,30,Overloaded with family responsibilities,3
+21,Male,43,37,29,27,30,Home maintenance (inside),2
+21,Male,43,37,29,27,30,Concerns about medical treatment,3
+21,Male,43,37,29,27,30,Physical illness,5
+21,Male,43,37,29,27,30,Side effects of medication,5
+21,Male,43,37,29,27,30,Concerns about health in general,4
+21,Male,43,37,29,27,30,Concerns about bodily functions,5
+21,Male,43,37,29,27,30,Dissatisfaction with academic performance,5
+21,Male,43,37,29,27,30,Challenges with instructors,4
+21,Male,43,37,29,27,30,Discontent with current academic responsibilities,5
+21,Male,43,37,29,27,30,Concerns regarding academic transitions,5
+21,Male,43,37,29,27,30,Difficulties with peers or classmates,3
+21,Male,43,37,29,27,30,Challenges in managing group projects,1
+21,Male,43,37,29,27,30,Getting late to class,3
+22,Female,33,37,21,35,24,Misplacing or losing things,3
+22,Female,33,37,21,35,24,Silly practical mistakes,2
+22,Female,33,37,21,35,24,Trouble with pets,2
+22,Female,33,37,21,35,24,Difficulties with friends,3
+22,Female,33,37,21,35,24,Regrets over past decision/s,1
+22,Female,33,37,21,35,24,Concerned about the meaning of life,1
+22,Female,33,37,21,35,24,Being lonely,2
+22,Female,33,37,21,35,24,Inability to express oneself,2
+22,Female,33,37,21,35,24,Fear of rejection,3
+22,Female,33,37,21,35,24,Trouble making decisions,2
+22,Female,33,37,21,35,24,Physical appearance,2
+22,Female,33,37,21,35,24,Not seeing people,1
+22,Female,33,37,21,35,24,Troubling thoughts about one’s future,3
+22,Female,33,37,21,35,24,Not enough personal energy,3
+22,Female,33,37,21,35,24,Concerns about getting ahead,3
+22,Female,33,37,21,35,24,Fear of confrontation,3
+22,Female,33,37,21,35,24,Wasting time,2
+22,Female,33,37,21,35,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+22,Female,33,37,21,35,24,Not enough money for wants (entertainment and recreation),2
+22,Female,33,37,21,35,24,Concerns about owing money,3
+22,Female,33,37,21,35,24,Concerns about money for emergencies,3
+22,Female,33,37,21,35,24,Financial security,3
+22,Female,33,37,21,35,24,Not enough time to do things one needs to,4
+22,Female,33,37,21,35,24,Too many responsibilities,3
+22,Female,33,37,21,35,24,Not getting enough rest,3
+22,Female,33,37,21,35,24,Too many interruptions,3
+22,Female,33,37,21,35,24,Not enough time for entertainment and recreation,3
+22,Female,33,37,21,35,24,Too many meetings,3
+22,Female,33,37,21,35,24,Social obligations,2
+22,Female,33,37,21,35,24,Concerns about meeting high standards,4
+22,Female,33,37,21,35,24,Noise,3
+22,Female,33,37,21,35,24,Pollution,3
+22,Female,33,37,21,35,24,Crime,4
+22,Female,33,37,21,35,24,Traffic,3
+22,Female,33,37,21,35,24,Concerns about news events,3
+22,Female,33,37,21,35,24,Rising prices of common goods,3
+22,Female,33,37,21,35,24,Concerns about accidents,3
+22,Female,33,37,21,35,24,Yardwork or outside home maintenance,1
+22,Female,33,37,21,35,24,Overloaded with family responsibilities,3
+22,Female,33,37,21,35,24,Home maintenance (inside),2
+22,Female,33,37,21,35,24,Concerns about medical treatment,3
+22,Female,33,37,21,35,24,Physical illness,3
+22,Female,33,37,21,35,24,Side effects of medication,3
+22,Female,33,37,21,35,24,Concerns about health in general,3
+22,Female,33,37,21,35,24,Concerns about bodily functions,4
+22,Female,33,37,21,35,24,Dissatisfaction with academic performance,3
+22,Female,33,37,21,35,24,Challenges with instructors,2
+22,Female,33,37,21,35,24,Discontent with current academic responsibilities,2
+22,Female,33,37,21,35,24,Concerns regarding academic transitions,2
+22,Female,33,37,21,35,24,Difficulties with peers or classmates,2
+22,Female,33,37,21,35,24,Challenges in managing group projects,2
+22,Female,33,37,21,35,24,Getting late to class,1
+21,Female,39,31,22,30,32,Misplacing or losing things,5
+21,Female,39,31,22,30,32,Silly practical mistakes,4
+21,Female,39,31,22,30,32,Trouble with pets,5
+21,Female,39,31,22,30,32,Difficulties with friends,5
+21,Female,39,31,22,30,32,Regrets over past decision/s,4
+21,Female,39,31,22,30,32,Concerned about the meaning of life,3
+21,Female,39,31,22,30,32,Being lonely,5
+21,Female,39,31,22,30,32,Inability to express oneself,5
+21,Female,39,31,22,30,32,Fear of rejection,5
+21,Female,39,31,22,30,32,Trouble making decisions,4
+21,Female,39,31,22,30,32,Physical appearance,5
+21,Female,39,31,22,30,32,Not seeing people,5
+21,Female,39,31,22,30,32,Troubling thoughts about one’s future,4
+21,Female,39,31,22,30,32,Not enough personal energy,5
+21,Female,39,31,22,30,32,Concerns about getting ahead,5
+21,Female,39,31,22,30,32,Fear of confrontation,4
+21,Female,39,31,22,30,32,Wasting time,5
+21,Female,39,31,22,30,32,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Female,39,31,22,30,32,Not enough money for wants (entertainment and recreation),5
+21,Female,39,31,22,30,32,Concerns about owing money,5
+21,Female,39,31,22,30,32,Concerns about money for emergencies,5
+21,Female,39,31,22,30,32,Financial security,5
+21,Female,39,31,22,30,32,Not enough time to do things one needs to,5
+21,Female,39,31,22,30,32,Too many responsibilities,5
+21,Female,39,31,22,30,32,Not getting enough rest,5
+21,Female,39,31,22,30,32,Too many interruptions,5
+21,Female,39,31,22,30,32,Not enough time for entertainment and recreation,5
+21,Female,39,31,22,30,32,Too many meetings,5
+21,Female,39,31,22,30,32,Social obligations,4
+21,Female,39,31,22,30,32,Concerns about meeting high standards,5
+21,Female,39,31,22,30,32,Noise,5
+21,Female,39,31,22,30,32,Pollution,3
+21,Female,39,31,22,30,32,Crime,5
+21,Female,39,31,22,30,32,Traffic,5
+21,Female,39,31,22,30,32,Concerns about news events,3
+21,Female,39,31,22,30,32,Rising prices of common goods,3
+21,Female,39,31,22,30,32,Concerns about accidents,4
+21,Female,39,31,22,30,32,Yardwork or outside home maintenance,3
+21,Female,39,31,22,30,32,Overloaded with family responsibilities,5
+21,Female,39,31,22,30,32,Home maintenance (inside),5
+21,Female,39,31,22,30,32,Concerns about medical treatment,5
+21,Female,39,31,22,30,32,Physical illness,5
+21,Female,39,31,22,30,32,Side effects of medication,5
+21,Female,39,31,22,30,32,Concerns about health in general,5
+21,Female,39,31,22,30,32,Concerns about bodily functions,5
+21,Female,39,31,22,30,32,Dissatisfaction with academic performance,5
+21,Female,39,31,22,30,32,Challenges with instructors,5
+21,Female,39,31,22,30,32,Discontent with current academic responsibilities,5
+21,Female,39,31,22,30,32,Concerns regarding academic transitions,5
+21,Female,39,31,22,30,32,Difficulties with peers or classmates,5
+21,Female,39,31,22,30,32,Challenges in managing group projects,5
+21,Female,39,31,22,30,32,Getting late to class,5
+20,Male,48,27,23,33,28,Misplacing or losing things,5
+20,Male,48,27,23,33,28,Silly practical mistakes,4
+20,Male,48,27,23,33,28,Trouble with pets,3
+20,Male,48,27,23,33,28,Difficulties with friends,3
+20,Male,48,27,23,33,28,Regrets over past decision/s,4
+20,Male,48,27,23,33,28,Concerned about the meaning of life,5
+20,Male,48,27,23,33,28,Being lonely,5
+20,Male,48,27,23,33,28,Inability to express oneself,4
+20,Male,48,27,23,33,28,Fear of rejection,4
+20,Male,48,27,23,33,28,Trouble making decisions,5
+20,Male,48,27,23,33,28,Physical appearance,3
+20,Male,48,27,23,33,28,Not seeing people,3
+20,Male,48,27,23,33,28,Troubling thoughts about one’s future,4
+20,Male,48,27,23,33,28,Not enough personal energy,4
+20,Male,48,27,23,33,28,Concerns about getting ahead,4
+20,Male,48,27,23,33,28,Fear of confrontation,3
+20,Male,48,27,23,33,28,Wasting time,5
+20,Male,48,27,23,33,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+20,Male,48,27,23,33,28,Not enough money for wants (entertainment and recreation),4
+20,Male,48,27,23,33,28,Concerns about owing money,2
+20,Male,48,27,23,33,28,Concerns about money for emergencies,3
+20,Male,48,27,23,33,28,Financial security,3
+20,Male,48,27,23,33,28,Not enough time to do things one needs to,4
+20,Male,48,27,23,33,28,Too many responsibilities,3
+20,Male,48,27,23,33,28,Not getting enough rest,3
+20,Male,48,27,23,33,28,Too many interruptions,4
+20,Male,48,27,23,33,28,Not enough time for entertainment and recreation,5
+20,Male,48,27,23,33,28,Too many meetings,3
+20,Male,48,27,23,33,28,Social obligations,3
+20,Male,48,27,23,33,28,Concerns about meeting high standards,5
+20,Male,48,27,23,33,28,Noise,4
+20,Male,48,27,23,33,28,Pollution,5
+20,Male,48,27,23,33,28,Crime,4
+20,Male,48,27,23,33,28,Traffic,4
+20,Male,48,27,23,33,28,Concerns about news events,3
+20,Male,48,27,23,33,28,Rising prices of common goods,5
+20,Male,48,27,23,33,28,Concerns about accidents,3
+20,Male,48,27,23,33,28,Yardwork or outside home maintenance,2
+20,Male,48,27,23,33,28,Overloaded with family responsibilities,2
+20,Male,48,27,23,33,28,Home maintenance (inside),2
+20,Male,48,27,23,33,28,Concerns about medical treatment,3
+20,Male,48,27,23,33,28,Physical illness,3
+20,Male,48,27,23,33,28,Side effects of medication,3
+20,Male,48,27,23,33,28,Concerns about health in general,3
+20,Male,48,27,23,33,28,Concerns about bodily functions,4
+20,Male,48,27,23,33,28,Dissatisfaction with academic performance,5
+20,Male,48,27,23,33,28,Challenges with instructors,4
+20,Male,48,27,23,33,28,Discontent with current academic responsibilities,4
+20,Male,48,27,23,33,28,Concerns regarding academic transitions,2
+20,Male,48,27,23,33,28,Difficulties with peers or classmates,3
+20,Male,48,27,23,33,28,Challenges in managing group projects,2
+20,Male,48,27,23,33,28,Getting late to class,1
+19,Female,38,32,30,33,25,Misplacing or losing things,4
+19,Female,38,32,30,33,25,Silly practical mistakes,3
+19,Female,38,32,30,33,25,Trouble with pets,3
+19,Female,38,32,30,33,25,Difficulties with friends,2
+19,Female,38,32,30,33,25,Regrets over past decision/s,3
+19,Female,38,32,30,33,25,Concerned about the meaning of life,4
+19,Female,38,32,30,33,25,Being lonely,3
+19,Female,38,32,30,33,25,Inability to express oneself,3
+19,Female,38,32,30,33,25,Fear of rejection,4
+19,Female,38,32,30,33,25,Trouble making decisions,4
+19,Female,38,32,30,33,25,Physical appearance,3
+19,Female,38,32,30,33,25,Not seeing people,2
+19,Female,38,32,30,33,25,Troubling thoughts about one’s future,4
+19,Female,38,32,30,33,25,Not enough personal energy,3
+19,Female,38,32,30,33,25,Concerns about getting ahead,3
+19,Female,38,32,30,33,25,Fear of confrontation,3
+19,Female,38,32,30,33,25,Wasting time,3
+19,Female,38,32,30,33,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+19,Female,38,32,30,33,25,Not enough money for wants (entertainment and recreation),3
+19,Female,38,32,30,33,25,Concerns about owing money,3
+19,Female,38,32,30,33,25,Concerns about money for emergencies,3
+19,Female,38,32,30,33,25,Financial security,3
+19,Female,38,32,30,33,25,Not enough time to do things one needs to,4
+19,Female,38,32,30,33,25,Too many responsibilities,4
+19,Female,38,32,30,33,25,Not getting enough rest,4
+19,Female,38,32,30,33,25,Too many interruptions,4
+19,Female,38,32,30,33,25,Not enough time for entertainment and recreation,3
+19,Female,38,32,30,33,25,Too many meetings,4
+19,Female,38,32,30,33,25,Social obligations,4
+19,Female,38,32,30,33,25,Concerns about meeting high standards,4
+19,Female,38,32,30,33,25,Noise,3
+19,Female,38,32,30,33,25,Pollution,4
+19,Female,38,32,30,33,25,Crime,4
+19,Female,38,32,30,33,25,Traffic,4
+19,Female,38,32,30,33,25,Concerns about news events,4
+19,Female,38,32,30,33,25,Rising prices of common goods,4
+19,Female,38,32,30,33,25,Concerns about accidents,4
+19,Female,38,32,30,33,25,Yardwork or outside home maintenance,3
+19,Female,38,32,30,33,25,Overloaded with family responsibilities,3
+19,Female,38,32,30,33,25,Home maintenance (inside),3
+19,Female,38,32,30,33,25,Concerns about medical treatment,2
+19,Female,38,32,30,33,25,Physical illness,2
+19,Female,38,32,30,33,25,Side effects of medication,2
+19,Female,38,32,30,33,25,Concerns about health in general,2
+19,Female,38,32,30,33,25,Concerns about bodily functions,2
+19,Female,38,32,30,33,25,Dissatisfaction with academic performance,4
+19,Female,38,32,30,33,25,Challenges with instructors,4
+19,Female,38,32,30,33,25,Discontent with current academic responsibilities,4
+19,Female,38,32,30,33,25,Concerns regarding academic transitions,4
+19,Female,38,32,30,33,25,Difficulties with peers or classmates,4
+19,Female,38,32,30,33,25,Challenges in managing group projects,4
+19,Female,38,32,30,33,25,Getting late to class,3
+21,Male,33,25,20,28,19,Misplacing or losing things,1
+21,Male,33,25,20,28,19,Silly practical mistakes,2
+21,Male,33,25,20,28,19,Trouble with pets,1
+21,Male,33,25,20,28,19,Difficulties with friends,3
+21,Male,33,25,20,28,19,Regrets over past decision/s,3
+21,Male,33,25,20,28,19,Concerned about the meaning of life,2
+21,Male,33,25,20,28,19,Being lonely,1
+21,Male,33,25,20,28,19,Inability to express oneself,2
+21,Male,33,25,20,28,19,Fear of rejection,2
+21,Male,33,25,20,28,19,Trouble making decisions,2
+21,Male,33,25,20,28,19,Physical appearance,1
+21,Male,33,25,20,28,19,Not seeing people,1
+21,Male,33,25,20,28,19,Troubling thoughts about one’s future,2
+21,Male,33,25,20,28,19,Not enough personal energy,1
+21,Male,33,25,20,28,19,Concerns about getting ahead,1
+21,Male,33,25,20,28,19,Fear of confrontation,2
+21,Male,33,25,20,28,19,Wasting time,2
+21,Male,33,25,20,28,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,33,25,20,28,19,Not enough money for wants (entertainment and recreation),1
+21,Male,33,25,20,28,19,Concerns about owing money,1
+21,Male,33,25,20,28,19,Concerns about money for emergencies,1
+21,Male,33,25,20,28,19,Financial security,2
+21,Male,33,25,20,28,19,Not enough time to do things one needs to,3
+21,Male,33,25,20,28,19,Too many responsibilities,2
+21,Male,33,25,20,28,19,Not getting enough rest,2
+21,Male,33,25,20,28,19,Too many interruptions,2
+21,Male,33,25,20,28,19,Not enough time for entertainment and recreation,1
+21,Male,33,25,20,28,19,Too many meetings,1
+21,Male,33,25,20,28,19,Social obligations,2
+21,Male,33,25,20,28,19,Concerns about meeting high standards,2
+21,Male,33,25,20,28,19,Noise,1
+21,Male,33,25,20,28,19,Pollution,3
+21,Male,33,25,20,28,19,Crime,2
+21,Male,33,25,20,28,19,Traffic,2
+21,Male,33,25,20,28,19,Concerns about news events,1
+21,Male,33,25,20,28,19,Rising prices of common goods,3
+21,Male,33,25,20,28,19,Concerns about accidents,2
+21,Male,33,25,20,28,19,Yardwork or outside home maintenance,1
+21,Male,33,25,20,28,19,Overloaded with family responsibilities,1
+21,Male,33,25,20,28,19,Home maintenance (inside),2
+21,Male,33,25,20,28,19,Concerns about medical treatment,1
+21,Male,33,25,20,28,19,Physical illness,1
+21,Male,33,25,20,28,19,Side effects of medication,1
+21,Male,33,25,20,28,19,Concerns about health in general,2
+21,Male,33,25,20,28,19,Concerns about bodily functions,2
+21,Male,33,25,20,28,19,Dissatisfaction with academic performance,3
+21,Male,33,25,20,28,19,Challenges with instructors,2
+21,Male,33,25,20,28,19,Discontent with current academic responsibilities,2
+21,Male,33,25,20,28,19,Concerns regarding academic transitions,2
+21,Male,33,25,20,28,19,Difficulties with peers or classmates,2
+21,Male,33,25,20,28,19,Challenges in managing group projects,1
+21,Male,33,25,20,28,19,Getting late to class,2
+22,Male,32,31,27,35,23,Misplacing or losing things,2
+22,Male,32,31,27,35,23,Silly practical mistakes,1
+22,Male,32,31,27,35,23,Trouble with pets,1
+22,Male,32,31,27,35,23,Difficulties with friends,1
+22,Male,32,31,27,35,23,Regrets over past decision/s,3
+22,Male,32,31,27,35,23,Concerned about the meaning of life,4
+22,Male,32,31,27,35,23,Being lonely,1
+22,Male,32,31,27,35,23,Inability to express oneself,2
+22,Male,32,31,27,35,23,Fear of rejection,2
+22,Male,32,31,27,35,23,Trouble making decisions,1
+22,Male,32,31,27,35,23,Physical appearance,3
+22,Male,32,31,27,35,23,Not seeing people,1
+22,Male,32,31,27,35,23,Troubling thoughts about one’s future,3
+22,Male,32,31,27,35,23,Not enough personal energy,1
+22,Male,32,31,27,35,23,Concerns about getting ahead,2
+22,Male,32,31,27,35,23,Fear of confrontation,2
+22,Male,32,31,27,35,23,Wasting time,1
+22,Male,32,31,27,35,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+22,Male,32,31,27,35,23,Not enough money for wants (entertainment and recreation),5
+22,Male,32,31,27,35,23,Concerns about owing money,1
+22,Male,32,31,27,35,23,Concerns about money for emergencies,1
+22,Male,32,31,27,35,23,Financial security,4
+22,Male,32,31,27,35,23,Not enough time to do things one needs to,4
+22,Male,32,31,27,35,23,Too many responsibilities,2
+22,Male,32,31,27,35,23,Not getting enough rest,4
+22,Male,32,31,27,35,23,Too many interruptions,2
+22,Male,32,31,27,35,23,Not enough time for entertainment and recreation,4
+22,Male,32,31,27,35,23,Too many meetings,2
+22,Male,32,31,27,35,23,Social obligations,1
+22,Male,32,31,27,35,23,Concerns about meeting high standards,5
+22,Male,32,31,27,35,23,Noise,1
+22,Male,32,31,27,35,23,Pollution,4
+22,Male,32,31,27,35,23,Crime,3
+22,Male,32,31,27,35,23,Traffic,5
+22,Male,32,31,27,35,23,Concerns about news events,4
+22,Male,32,31,27,35,23,Rising prices of common goods,4
+22,Male,32,31,27,35,23,Concerns about accidents,2
+22,Male,32,31,27,35,23,Yardwork or outside home maintenance,1
+22,Male,32,31,27,35,23,Overloaded with family responsibilities,1
+22,Male,32,31,27,35,23,Home maintenance (inside),1
+22,Male,32,31,27,35,23,Concerns about medical treatment,2
+22,Male,32,31,27,35,23,Physical illness,1
+22,Male,32,31,27,35,23,Side effects of medication,1
+22,Male,32,31,27,35,23,Concerns about health in general,2
+22,Male,32,31,27,35,23,Concerns about bodily functions,2
+22,Male,32,31,27,35,23,Dissatisfaction with academic performance,2
+22,Male,32,31,27,35,23,Challenges with instructors,1
+22,Male,32,31,27,35,23,Discontent with current academic responsibilities,3
+22,Male,32,31,27,35,23,Concerns regarding academic transitions,2
+22,Male,32,31,27,35,23,Difficulties with peers or classmates,1
+22,Male,32,31,27,35,23,Challenges in managing group projects,1
+22,Male,32,31,27,35,23,Getting late to class,1
+21,Male,38,29,22,27,27,Misplacing or losing things,2
+21,Male,38,29,22,27,27,Silly practical mistakes,2
+21,Male,38,29,22,27,27,Trouble with pets,1
+21,Male,38,29,22,27,27,Difficulties with friends,2
+21,Male,38,29,22,27,27,Regrets over past decision/s,3
+21,Male,38,29,22,27,27,Concerned about the meaning of life,3
+21,Male,38,29,22,27,27,Being lonely,4
+21,Male,38,29,22,27,27,Inability to express oneself,2
+21,Male,38,29,22,27,27,Fear of rejection,2
+21,Male,38,29,22,27,27,Trouble making decisions,3
+21,Male,38,29,22,27,27,Physical appearance,4
+21,Male,38,29,22,27,27,Not seeing people,4
+21,Male,38,29,22,27,27,Troubling thoughts about one’s future,4
+21,Male,38,29,22,27,27,Not enough personal energy,2
+21,Male,38,29,22,27,27,Concerns about getting ahead,3
+21,Male,38,29,22,27,27,Fear of confrontation,3
+21,Male,38,29,22,27,27,Wasting time,3
+21,Male,38,29,22,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,38,29,22,27,27,Not enough money for wants (entertainment and recreation),1
+21,Male,38,29,22,27,27,Concerns about owing money,1
+21,Male,38,29,22,27,27,Concerns about money for emergencies,1
+21,Male,38,29,22,27,27,Financial security,2
+21,Male,38,29,22,27,27,Not enough time to do things one needs to,4
+21,Male,38,29,22,27,27,Too many responsibilities,4
+21,Male,38,29,22,27,27,Not getting enough rest,4
+21,Male,38,29,22,27,27,Too many interruptions,4
+21,Male,38,29,22,27,27,Not enough time for entertainment and recreation,3
+21,Male,38,29,22,27,27,Too many meetings,2
+21,Male,38,29,22,27,27,Social obligations,2
+21,Male,38,29,22,27,27,Concerns about meeting high standards,3
+21,Male,38,29,22,27,27,Noise,2
+21,Male,38,29,22,27,27,Pollution,2
+21,Male,38,29,22,27,27,Crime,1
+21,Male,38,29,22,27,27,Traffic,4
+21,Male,38,29,22,27,27,Concerns about news events,4
+21,Male,38,29,22,27,27,Rising prices of common goods,4
+21,Male,38,29,22,27,27,Concerns about accidents,3
+21,Male,38,29,22,27,27,Yardwork or outside home maintenance,1
+21,Male,38,29,22,27,27,Overloaded with family responsibilities,3
+21,Male,38,29,22,27,27,Home maintenance (inside),3
+21,Male,38,29,22,27,27,Concerns about medical treatment,2
+21,Male,38,29,22,27,27,Physical illness,2
+21,Male,38,29,22,27,27,Side effects of medication,1
+21,Male,38,29,22,27,27,Concerns about health in general,3
+21,Male,38,29,22,27,27,Concerns about bodily functions,3
+21,Male,38,29,22,27,27,Dissatisfaction with academic performance,3
+21,Male,38,29,22,27,27,Challenges with instructors,3
+21,Male,38,29,22,27,27,Discontent with current academic responsibilities,4
+21,Male,38,29,22,27,27,Concerns regarding academic transitions,3
+21,Male,38,29,22,27,27,Difficulties with peers or classmates,2
+21,Male,38,29,22,27,27,Challenges in managing group projects,4
+21,Male,38,29,22,27,27,Getting late to class,3
+21,Female,33,29,31,29,30,Misplacing or losing things,3
+21,Female,33,29,31,29,30,Silly practical mistakes,3
+21,Female,33,29,31,29,30,Trouble with pets,1
+21,Female,33,29,31,29,30,Difficulties with friends,4
+21,Female,33,29,31,29,30,Regrets over past decision/s,5
+21,Female,33,29,31,29,30,Concerned about the meaning of life,1
+21,Female,33,29,31,29,30,Being lonely,5
+21,Female,33,29,31,29,30,Inability to express oneself,4
+21,Female,33,29,31,29,30,Fear of rejection,1
+21,Female,33,29,31,29,30,Trouble making decisions,4
+21,Female,33,29,31,29,30,Physical appearance,5
+21,Female,33,29,31,29,30,Not seeing people,1
+21,Female,33,29,31,29,30,Troubling thoughts about one’s future,3
+21,Female,33,29,31,29,30,Not enough personal energy,3
+21,Female,33,29,31,29,30,Concerns about getting ahead,2
+21,Female,33,29,31,29,30,Fear of confrontation,1
+21,Female,33,29,31,29,30,Wasting time,4
+21,Female,33,29,31,29,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Female,33,29,31,29,30,Not enough money for wants (entertainment and recreation),3
+21,Female,33,29,31,29,30,Concerns about owing money,5
+21,Female,33,29,31,29,30,Concerns about money for emergencies,5
+21,Female,33,29,31,29,30,Financial security,5
+21,Female,33,29,31,29,30,Not enough time to do things one needs to,5
+21,Female,33,29,31,29,30,Too many responsibilities,5
+21,Female,33,29,31,29,30,Not getting enough rest,1
+21,Female,33,29,31,29,30,Too many interruptions,5
+21,Female,33,29,31,29,30,Not enough time for entertainment and recreation,1
+21,Female,33,29,31,29,30,Too many meetings,5
+21,Female,33,29,31,29,30,Social obligations,5
+21,Female,33,29,31,29,30,Concerns about meeting high standards,5
+21,Female,33,29,31,29,30,Noise,5
+21,Female,33,29,31,29,30,Pollution,1
+21,Female,33,29,31,29,30,Crime,1
+21,Female,33,29,31,29,30,Traffic,4
+21,Female,33,29,31,29,30,Concerns about news events,1
+21,Female,33,29,31,29,30,Rising prices of common goods,1
+21,Female,33,29,31,29,30,Concerns about accidents,1
+21,Female,33,29,31,29,30,Yardwork or outside home maintenance,2
+21,Female,33,29,31,29,30,Overloaded with family responsibilities,2
+21,Female,33,29,31,29,30,Home maintenance (inside),2
+21,Female,33,29,31,29,30,Concerns about medical treatment,5
+21,Female,33,29,31,29,30,Physical illness,5
+21,Female,33,29,31,29,30,Side effects of medication,5
+21,Female,33,29,31,29,30,Concerns about health in general,5
+21,Female,33,29,31,29,30,Concerns about bodily functions,5
+21,Female,33,29,31,29,30,Dissatisfaction with academic performance,5
+21,Female,33,29,31,29,30,Challenges with instructors,5
+21,Female,33,29,31,29,30,Discontent with current academic responsibilities,5
+21,Female,33,29,31,29,30,Concerns regarding academic transitions,5
+21,Female,33,29,31,29,30,Difficulties with peers or classmates,5
+21,Female,33,29,31,29,30,Challenges in managing group projects,5
+21,Female,33,29,31,29,30,Getting late to class,5
+22,Female,32,42,25,37,18,Misplacing or losing things,5
+22,Female,32,42,25,37,18,Silly practical mistakes,2
+22,Female,32,42,25,37,18,Trouble with pets,1
+22,Female,32,42,25,37,18,Difficulties with friends,4
+22,Female,32,42,25,37,18,Regrets over past decision/s,3
+22,Female,32,42,25,37,18,Concerned about the meaning of life,3
+22,Female,32,42,25,37,18,Being lonely,4
+22,Female,32,42,25,37,18,Inability to express oneself,5
+22,Female,32,42,25,37,18,Fear of rejection,4
+22,Female,32,42,25,37,18,Trouble making decisions,4
+22,Female,32,42,25,37,18,Physical appearance,3
+22,Female,32,42,25,37,18,Not seeing people,4
+22,Female,32,42,25,37,18,Troubling thoughts about one’s future,4
+22,Female,32,42,25,37,18,Not enough personal energy,4
+22,Female,32,42,25,37,18,Concerns about getting ahead,4
+22,Female,32,42,25,37,18,Fear of confrontation,5
+22,Female,32,42,25,37,18,Wasting time,4
+22,Female,32,42,25,37,18,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+22,Female,32,42,25,37,18,Not enough money for wants (entertainment and recreation),3
+22,Female,32,42,25,37,18,Concerns about owing money,4
+22,Female,32,42,25,37,18,Concerns about money for emergencies,5
+22,Female,32,42,25,37,18,Financial security,5
+22,Female,32,42,25,37,18,Not enough time to do things one needs to,5
+22,Female,32,42,25,37,18,Too many responsibilities,5
+22,Female,32,42,25,37,18,Not getting enough rest,4
+22,Female,32,42,25,37,18,Too many interruptions,4
+22,Female,32,42,25,37,18,Not enough time for entertainment and recreation,2
+22,Female,32,42,25,37,18,Too many meetings,5
+22,Female,32,42,25,37,18,Social obligations,4
+22,Female,32,42,25,37,18,Concerns about meeting high standards,5
+22,Female,32,42,25,37,18,Noise,3
+22,Female,32,42,25,37,18,Pollution,3
+22,Female,32,42,25,37,18,Crime,5
+22,Female,32,42,25,37,18,Traffic,5
+22,Female,32,42,25,37,18,Concerns about news events,4
+22,Female,32,42,25,37,18,Rising prices of common goods,4
+22,Female,32,42,25,37,18,Concerns about accidents,4
+22,Female,32,42,25,37,18,Yardwork or outside home maintenance,3
+22,Female,32,42,25,37,18,Overloaded with family responsibilities,4
+22,Female,32,42,25,37,18,Home maintenance (inside),2
+22,Female,32,42,25,37,18,Concerns about medical treatment,5
+22,Female,32,42,25,37,18,Physical illness,5
+22,Female,32,42,25,37,18,Side effects of medication,5
+22,Female,32,42,25,37,18,Concerns about health in general,5
+22,Female,32,42,25,37,18,Concerns about bodily functions,5
+22,Female,32,42,25,37,18,Dissatisfaction with academic performance,3
+22,Female,32,42,25,37,18,Challenges with instructors,4
+22,Female,32,42,25,37,18,Discontent with current academic responsibilities,5
+22,Female,32,42,25,37,18,Concerns regarding academic transitions,3
+22,Female,32,42,25,37,18,Difficulties with peers or classmates,4
+22,Female,32,42,25,37,18,Challenges in managing group projects,5
+22,Female,32,42,25,37,18,Getting late to class,5
+21,Male,35,30,21,31,26,Misplacing or losing things,4
+21,Male,35,30,21,31,26,Silly practical mistakes,2
+21,Male,35,30,21,31,26,Trouble with pets,2
+21,Male,35,30,21,31,26,Difficulties with friends,3
+21,Male,35,30,21,31,26,Regrets over past decision/s,4
+21,Male,35,30,21,31,26,Concerned about the meaning of life,3
+21,Male,35,30,21,31,26,Being lonely,4
+21,Male,35,30,21,31,26,Inability to express oneself,4
+21,Male,35,30,21,31,26,Fear of rejection,4
+21,Male,35,30,21,31,26,Trouble making decisions,5
+21,Male,35,30,21,31,26,Physical appearance,3
+21,Male,35,30,21,31,26,Not seeing people,3
+21,Male,35,30,21,31,26,Troubling thoughts about one’s future,5
+21,Male,35,30,21,31,26,Not enough personal energy,3
+21,Male,35,30,21,31,26,Concerns about getting ahead,4
+21,Male,35,30,21,31,26,Fear of confrontation,3
+21,Male,35,30,21,31,26,Wasting time,3
+21,Male,35,30,21,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+21,Male,35,30,21,31,26,Not enough money for wants (entertainment and recreation),3
+21,Male,35,30,21,31,26,Concerns about owing money,3
+21,Male,35,30,21,31,26,Concerns about money for emergencies,3
+21,Male,35,30,21,31,26,Financial security,3
+21,Male,35,30,21,31,26,Not enough time to do things one needs to,5
+21,Male,35,30,21,31,26,Too many responsibilities,5
+21,Male,35,30,21,31,26,Not getting enough rest,4
+21,Male,35,30,21,31,26,Too many interruptions,3
+21,Male,35,30,21,31,26,Not enough time for entertainment and recreation,3
+21,Male,35,30,21,31,26,Too many meetings,3
+21,Male,35,30,21,31,26,Social obligations,3
+21,Male,35,30,21,31,26,Concerns about meeting high standards,4
+21,Male,35,30,21,31,26,Noise,3
+21,Male,35,30,21,31,26,Pollution,3
+21,Male,35,30,21,31,26,Crime,4
+21,Male,35,30,21,31,26,Traffic,3
+21,Male,35,30,21,31,26,Concerns about news events,2
+21,Male,35,30,21,31,26,Rising prices of common goods,2
+21,Male,35,30,21,31,26,Concerns about accidents,3
+21,Male,35,30,21,31,26,Yardwork or outside home maintenance,3
+21,Male,35,30,21,31,26,Overloaded with family responsibilities,3
+21,Male,35,30,21,31,26,Home maintenance (inside),3
+21,Male,35,30,21,31,26,Concerns about medical treatment,3
+21,Male,35,30,21,31,26,Physical illness,4
+21,Male,35,30,21,31,26,Side effects of medication,3
+21,Male,35,30,21,31,26,Concerns about health in general,3
+21,Male,35,30,21,31,26,Concerns about bodily functions,3
+21,Male,35,30,21,31,26,Dissatisfaction with academic performance,4
+21,Male,35,30,21,31,26,Challenges with instructors,3
+21,Male,35,30,21,31,26,Discontent with current academic responsibilities,4
+21,Male,35,30,21,31,26,Concerns regarding academic transitions,4
+21,Male,35,30,21,31,26,Difficulties with peers or classmates,4
+21,Male,35,30,21,31,26,Challenges in managing group projects,5
+21,Male,35,30,21,31,26,Getting late to class,2
+20,Genderfluid,39,31,28,28,27,Misplacing or losing things,5
+20,Genderfluid,39,31,28,28,27,Silly practical mistakes,3
+20,Genderfluid,39,31,28,28,27,Trouble with pets,3
+20,Genderfluid,39,31,28,28,27,Difficulties with friends,2
+20,Genderfluid,39,31,28,28,27,Regrets over past decision/s,5
+20,Genderfluid,39,31,28,28,27,Concerned about the meaning of life,4
+20,Genderfluid,39,31,28,28,27,Being lonely,4
+20,Genderfluid,39,31,28,28,27,Inability to express oneself,4
+20,Genderfluid,39,31,28,28,27,Fear of rejection,1
+20,Genderfluid,39,31,28,28,27,Trouble making decisions,3
+20,Genderfluid,39,31,28,28,27,Physical appearance,2
+20,Genderfluid,39,31,28,28,27,Not seeing people,4
+20,Genderfluid,39,31,28,28,27,Troubling thoughts about one’s future,4
+20,Genderfluid,39,31,28,28,27,Not enough personal energy,4
+20,Genderfluid,39,31,28,28,27,Concerns about getting ahead,4
+20,Genderfluid,39,31,28,28,27,Fear of confrontation,5
+20,Genderfluid,39,31,28,28,27,Wasting time,5
+20,Genderfluid,39,31,28,28,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+20,Genderfluid,39,31,28,28,27,Not enough money for wants (entertainment and recreation),5
+20,Genderfluid,39,31,28,28,27,Concerns about owing money,5
+20,Genderfluid,39,31,28,28,27,Concerns about money for emergencies,4
+20,Genderfluid,39,31,28,28,27,Financial security,4
+20,Genderfluid,39,31,28,28,27,Not enough time to do things one needs to,5
+20,Genderfluid,39,31,28,28,27,Too many responsibilities,4
+20,Genderfluid,39,31,28,28,27,Not getting enough rest,5
+20,Genderfluid,39,31,28,28,27,Too many interruptions,5
+20,Genderfluid,39,31,28,28,27,Not enough time for entertainment and recreation,4
+20,Genderfluid,39,31,28,28,27,Too many meetings,5
+20,Genderfluid,39,31,28,28,27,Social obligations,4
+20,Genderfluid,39,31,28,28,27,Concerns about meeting high standards,2
+20,Genderfluid,39,31,28,28,27,Noise,5
+20,Genderfluid,39,31,28,28,27,Pollution,5
+20,Genderfluid,39,31,28,28,27,Crime,5
+20,Genderfluid,39,31,28,28,27,Traffic,5
+20,Genderfluid,39,31,28,28,27,Concerns about news events,4
+20,Genderfluid,39,31,28,28,27,Rising prices of common goods,5
+20,Genderfluid,39,31,28,28,27,Concerns about accidents,5
+20,Genderfluid,39,31,28,28,27,Yardwork or outside home maintenance,3
+20,Genderfluid,39,31,28,28,27,Overloaded with family responsibilities,3
+20,Genderfluid,39,31,28,28,27,Home maintenance (inside),2
+20,Genderfluid,39,31,28,28,27,Concerns about medical treatment,5
+20,Genderfluid,39,31,28,28,27,Physical illness,3
+20,Genderfluid,39,31,28,28,27,Side effects of medication,5
+20,Genderfluid,39,31,28,28,27,Concerns about health in general,4
+20,Genderfluid,39,31,28,28,27,Concerns about bodily functions,3
+20,Genderfluid,39,31,28,28,27,Dissatisfaction with academic performance,5
+20,Genderfluid,39,31,28,28,27,Challenges with instructors,5
+20,Genderfluid,39,31,28,28,27,Discontent with current academic responsibilities,4
+20,Genderfluid,39,31,28,28,27,Concerns regarding academic transitions,5
+20,Genderfluid,39,31,28,28,27,Difficulties with peers or classmates,2
+20,Genderfluid,39,31,28,28,27,Challenges in managing group projects,3
+20,Genderfluid,39,31,28,28,27,Getting late to class,1
+19,Female,31,32,25,29,29,Misplacing or losing things,2
+19,Female,31,32,25,29,29,Silly practical mistakes,2
+19,Female,31,32,25,29,29,Trouble with pets,1
+19,Female,31,32,25,29,29,Difficulties with friends,2
+19,Female,31,32,25,29,29,Regrets over past decision/s,3
+19,Female,31,32,25,29,29,Concerned about the meaning of life,3
+19,Female,31,32,25,29,29,Being lonely,3
+19,Female,31,32,25,29,29,Inability to express oneself,3
+19,Female,31,32,25,29,29,Fear of rejection,4
+19,Female,31,32,25,29,29,Trouble making decisions,3
+19,Female,31,32,25,29,29,Physical appearance,4
+19,Female,31,32,25,29,29,Not seeing people,3
+19,Female,31,32,25,29,29,Troubling thoughts about one’s future,3
+19,Female,31,32,25,29,29,Not enough personal energy,3
+19,Female,31,32,25,29,29,Concerns about getting ahead,3
+19,Female,31,32,25,29,29,Fear of confrontation,3
+19,Female,31,32,25,29,29,Wasting time,3
+19,Female,31,32,25,29,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+19,Female,31,32,25,29,29,Not enough money for wants (entertainment and recreation),3
+19,Female,31,32,25,29,29,Concerns about owing money,3
+19,Female,31,32,25,29,29,Concerns about money for emergencies,3
+19,Female,31,32,25,29,29,Financial security,3
+19,Female,31,32,25,29,29,Not enough time to do things one needs to,4
+19,Female,31,32,25,29,29,Too many responsibilities,4
+19,Female,31,32,25,29,29,Not getting enough rest,3
+19,Female,31,32,25,29,29,Too many interruptions,3
+19,Female,31,32,25,29,29,Not enough time for entertainment and recreation,3
+19,Female,31,32,25,29,29,Too many meetings,2
+19,Female,31,32,25,29,29,Social obligations,2
+19,Female,31,32,25,29,29,Concerns about meeting high standards,4
+19,Female,31,32,25,29,29,Noise,2
+19,Female,31,32,25,29,29,Pollution,3
+19,Female,31,32,25,29,29,Crime,3
+19,Female,31,32,25,29,29,Traffic,3
+19,Female,31,32,25,29,29,Concerns about news events,4
+19,Female,31,32,25,29,29,Rising prices of common goods,4
+19,Female,31,32,25,29,29,Concerns about accidents,3
+19,Female,31,32,25,29,29,Yardwork or outside home maintenance,1
+19,Female,31,32,25,29,29,Overloaded with family responsibilities,2
+19,Female,31,32,25,29,29,Home maintenance (inside),2
+19,Female,31,32,25,29,29,Concerns about medical treatment,3
+19,Female,31,32,25,29,29,Physical illness,3
+19,Female,31,32,25,29,29,Side effects of medication,1
+19,Female,31,32,25,29,29,Concerns about health in general,3
+19,Female,31,32,25,29,29,Concerns about bodily functions,3
+19,Female,31,32,25,29,29,Dissatisfaction with academic performance,4
+19,Female,31,32,25,29,29,Challenges with instructors,3
+19,Female,31,32,25,29,29,Discontent with current academic responsibilities,3
+19,Female,31,32,25,29,29,Concerns regarding academic transitions,3
+19,Female,31,32,25,29,29,Difficulties with peers or classmates,2
+19,Female,31,32,25,29,29,Challenges in managing group projects,2
+19,Female,31,32,25,29,29,Getting late to class,1
+19,Female,37,32,31,31,31,Misplacing or losing things,5
+19,Female,37,32,31,31,31,Silly practical mistakes,4
+19,Female,37,32,31,31,31,Trouble with pets,3
+19,Female,37,32,31,31,31,Difficulties with friends,4
+19,Female,37,32,31,31,31,Regrets over past decision/s,4
+19,Female,37,32,31,31,31,Concerned about the meaning of life,4
+19,Female,37,32,31,31,31,Being lonely,5
+19,Female,37,32,31,31,31,Inability to express oneself,1
+19,Female,37,32,31,31,31,Fear of rejection,2
+19,Female,37,32,31,31,31,Trouble making decisions,4
+19,Female,37,32,31,31,31,Physical appearance,3
+19,Female,37,32,31,31,31,Not seeing people,1
+19,Female,37,32,31,31,31,Troubling thoughts about one’s future,5
+19,Female,37,32,31,31,31,Not enough personal energy,1
+19,Female,37,32,31,31,31,Concerns about getting ahead,1
+19,Female,37,32,31,31,31,Fear of confrontation,4
+19,Female,37,32,31,31,31,Wasting time,4
+19,Female,37,32,31,31,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,37,32,31,31,31,Not enough money for wants (entertainment and recreation),4
+19,Female,37,32,31,31,31,Concerns about owing money,2
+19,Female,37,32,31,31,31,Concerns about money for emergencies,1
+19,Female,37,32,31,31,31,Financial security,2
+19,Female,37,32,31,31,31,Not enough time to do things one needs to,2
+19,Female,37,32,31,31,31,Too many responsibilities,2
+19,Female,37,32,31,31,31,Not getting enough rest,3
+19,Female,37,32,31,31,31,Too many interruptions,3
+19,Female,37,32,31,31,31,Not enough time for entertainment and recreation,4
+19,Female,37,32,31,31,31,Too many meetings,2
+19,Female,37,32,31,31,31,Social obligations,1
+19,Female,37,32,31,31,31,Concerns about meeting high standards,1
+19,Female,37,32,31,31,31,Noise,4
+19,Female,37,32,31,31,31,Pollution,3
+19,Female,37,32,31,31,31,Crime,4
+19,Female,37,32,31,31,31,Traffic,3
+19,Female,37,32,31,31,31,Concerns about news events,1
+19,Female,37,32,31,31,31,Rising prices of common goods,3
+19,Female,37,32,31,31,31,Concerns about accidents,2
+19,Female,37,32,31,31,31,Yardwork or outside home maintenance,1
+19,Female,37,32,31,31,31,Overloaded with family responsibilities,1
+19,Female,37,32,31,31,31,Home maintenance (inside),1
+19,Female,37,32,31,31,31,Concerns about medical treatment,1
+19,Female,37,32,31,31,31,Physical illness,1
+19,Female,37,32,31,31,31,Side effects of medication,1
+19,Female,37,32,31,31,31,Concerns about health in general,1
+19,Female,37,32,31,31,31,Concerns about bodily functions,1
+19,Female,37,32,31,31,31,Dissatisfaction with academic performance,4
+19,Female,37,32,31,31,31,Challenges with instructors,2
+19,Female,37,32,31,31,31,Discontent with current academic responsibilities,5
+19,Female,37,32,31,31,31,Concerns regarding academic transitions,1
+19,Female,37,32,31,31,31,Difficulties with peers or classmates,5
+19,Female,37,32,31,31,31,Challenges in managing group projects,2
+19,Female,37,32,31,31,31,Getting late to class,1
+19,Female,36,33,28,28,23,Misplacing or losing things,2
+19,Female,36,33,28,28,23,Silly practical mistakes,2
+19,Female,36,33,28,28,23,Trouble with pets,1
+19,Female,36,33,28,28,23,Difficulties with friends,1
+19,Female,36,33,28,28,23,Regrets over past decision/s,2
+19,Female,36,33,28,28,23,Concerned about the meaning of life,2
+19,Female,36,33,28,28,23,Being lonely,1
+19,Female,36,33,28,28,23,Inability to express oneself,1
+19,Female,36,33,28,28,23,Fear of rejection,2
+19,Female,36,33,28,28,23,Trouble making decisions,1
+19,Female,36,33,28,28,23,Physical appearance,2
+19,Female,36,33,28,28,23,Not seeing people,1
+19,Female,36,33,28,28,23,Troubling thoughts about one’s future,3
+19,Female,36,33,28,28,23,Not enough personal energy,2
+19,Female,36,33,28,28,23,Concerns about getting ahead,1
+19,Female,36,33,28,28,23,Fear of confrontation,1
+19,Female,36,33,28,28,23,Wasting time,3
+19,Female,36,33,28,28,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+19,Female,36,33,28,28,23,Not enough money for wants (entertainment and recreation),2
+19,Female,36,33,28,28,23,Concerns about owing money,1
+19,Female,36,33,28,28,23,Concerns about money for emergencies,1
+19,Female,36,33,28,28,23,Financial security,2
+19,Female,36,33,28,28,23,Not enough time to do things one needs to,3
+19,Female,36,33,28,28,23,Too many responsibilities,2
+19,Female,36,33,28,28,23,Not getting enough rest,3
+19,Female,36,33,28,28,23,Too many interruptions,2
+19,Female,36,33,28,28,23,Not enough time for entertainment and recreation,2
+19,Female,36,33,28,28,23,Too many meetings,3
+19,Female,36,33,28,28,23,Social obligations,1
+19,Female,36,33,28,28,23,Concerns about meeting high standards,2
+19,Female,36,33,28,28,23,Noise,2
+19,Female,36,33,28,28,23,Pollution,3
+19,Female,36,33,28,28,23,Crime,3
+19,Female,36,33,28,28,23,Traffic,3
+19,Female,36,33,28,28,23,Concerns about news events,2
+19,Female,36,33,28,28,23,Rising prices of common goods,2
+19,Female,36,33,28,28,23,Concerns about accidents,2
+19,Female,36,33,28,28,23,Yardwork or outside home maintenance,2
+19,Female,36,33,28,28,23,Overloaded with family responsibilities,2
+19,Female,36,33,28,28,23,Home maintenance (inside),2
+19,Female,36,33,28,28,23,Concerns about medical treatment,1
+19,Female,36,33,28,28,23,Physical illness,1
+19,Female,36,33,28,28,23,Side effects of medication,1
+19,Female,36,33,28,28,23,Concerns about health in general,1
+19,Female,36,33,28,28,23,Concerns about bodily functions,2
+19,Female,36,33,28,28,23,Dissatisfaction with academic performance,2
+19,Female,36,33,28,28,23,Challenges with instructors,3
+19,Female,36,33,28,28,23,Discontent with current academic responsibilities,2
+19,Female,36,33,28,28,23,Concerns regarding academic transitions,2
+19,Female,36,33,28,28,23,Difficulties with peers or classmates,2
+19,Female,36,33,28,28,23,Challenges in managing group projects,1
+19,Female,36,33,28,28,23,Getting late to class,1
