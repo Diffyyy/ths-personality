@@ -1,0 +1,197 @@
+Age,Gender,O,C,E,A,N,Hassle,Severity
+21,Male,31,27,17,33,24,Dissatisfaction with academic performance,3
+21,Male,31,27,17,33,24,Challenges with instructors,2
+21,Male,31,27,17,33,24,Discontent with current academic responsibilities,4
+21,Male,31,27,17,33,24,Concerns regarding academic transitions,2
+21,Male,31,27,17,33,24,Difficulties with peers or classmates,3
+21,Male,31,27,17,33,24,Challenges in managing group projects,3
+21,Male,31,27,17,33,24,Getting late to class,1
+21,Female,40,27,20,18,27,Dissatisfaction with academic performance,1
+21,Female,40,27,20,18,27,Challenges with instructors,1
+21,Female,40,27,20,18,27,Discontent with current academic responsibilities,1
+21,Female,40,27,20,18,27,Concerns regarding academic transitions,1
+21,Female,40,27,20,18,27,Difficulties with peers or classmates,1
+21,Female,40,27,20,18,27,Challenges in managing group projects,1
+21,Female,40,27,20,18,27,Getting late to class,1
+19,Female,30,21,19,32,24,Dissatisfaction with academic performance,4
+19,Female,30,21,19,32,24,Challenges with instructors,4
+19,Female,30,21,19,32,24,Discontent with current academic responsibilities,4
+19,Female,30,21,19,32,24,Concerns regarding academic transitions,3
+19,Female,30,21,19,32,24,Difficulties with peers or classmates,3
+19,Female,30,21,19,32,24,Challenges in managing group projects,3
+19,Female,30,21,19,32,24,Getting late to class,3
+20,Female,34,25,13,26,26,Dissatisfaction with academic performance,2
+20,Female,34,25,13,26,26,Challenges with instructors,3
+20,Female,34,25,13,26,26,Discontent with current academic responsibilities,3
+20,Female,34,25,13,26,26,Concerns regarding academic transitions,3
+20,Female,34,25,13,26,26,Difficulties with peers or classmates,2
+20,Female,34,25,13,26,26,Challenges in managing group projects,3
+20,Female,34,25,13,26,26,Getting late to class,3
+22,Female,31,29,30,34,25,Dissatisfaction with academic performance,5
+22,Female,31,29,30,34,25,Challenges with instructors,5
+22,Female,31,29,30,34,25,Discontent with current academic responsibilities,5
+22,Female,31,29,30,34,25,Concerns regarding academic transitions,3
+22,Female,31,29,30,34,25,Difficulties with peers or classmates,5
+22,Female,31,29,30,34,25,Challenges in managing group projects,5
+22,Female,31,29,30,34,25,Getting late to class,4
+21,Female,39,33,31,31,26,Dissatisfaction with academic performance,2
+21,Female,39,33,31,31,26,Challenges with instructors,2
+21,Female,39,33,31,31,26,Discontent with current academic responsibilities,1
+21,Female,39,33,31,31,26,Concerns regarding academic transitions,1
+21,Female,39,33,31,31,26,Difficulties with peers or classmates,1
+21,Female,39,33,31,31,26,Challenges in managing group projects,1
+21,Female,39,33,31,31,26,Getting late to class,1
+20,Female,40,26,23,25,28,Dissatisfaction with academic performance,5
+20,Female,40,26,23,25,28,Challenges with instructors,3
+20,Female,40,26,23,25,28,Discontent with current academic responsibilities,5
+20,Female,40,26,23,25,28,Concerns regarding academic transitions,4
+20,Female,40,26,23,25,28,Difficulties with peers or classmates,3
+20,Female,40,26,23,25,28,Challenges in managing group projects,3
+20,Female,40,26,23,25,28,Getting late to class,1
+21,Female,34,31,20,28,26,Dissatisfaction with academic performance,4
+21,Female,34,31,20,28,26,Challenges with instructors,3
+21,Female,34,31,20,28,26,Discontent with current academic responsibilities,4
+21,Female,34,31,20,28,26,Concerns regarding academic transitions,3
+21,Female,34,31,20,28,26,Difficulties with peers or classmates,4
+21,Female,34,31,20,28,26,Challenges in managing group projects,3
+21,Female,34,31,20,28,26,Getting late to class,3
+18,Female,43,39,21,31,25,Dissatisfaction with academic performance,1
+18,Female,43,39,21,31,25,Challenges with instructors,2
+18,Female,43,39,21,31,25,Discontent with current academic responsibilities,1
+18,Female,43,39,21,31,25,Concerns regarding academic transitions,3
+18,Female,43,39,21,31,25,Difficulties with peers or classmates,1
+18,Female,43,39,21,31,25,Challenges in managing group projects,1
+18,Female,43,39,21,31,25,Getting late to class,3
+21,Male,38,25,24,36,19,Dissatisfaction with academic performance,2
+21,Male,38,25,24,36,19,Challenges with instructors,2
+21,Male,38,25,24,36,19,Discontent with current academic responsibilities,3
+21,Male,38,25,24,36,19,Concerns regarding academic transitions,1
+21,Male,38,25,24,36,19,Difficulties with peers or classmates,2
+21,Male,38,25,24,36,19,Challenges in managing group projects,2
+21,Male,38,25,24,36,19,Getting late to class,1
+22,Male,31,26,21,26,30,Dissatisfaction with academic performance,3
+22,Male,31,26,21,26,30,Challenges with instructors,2
+22,Male,31,26,21,26,30,Discontent with current academic responsibilities,2
+22,Male,31,26,21,26,30,Concerns regarding academic transitions,2
+22,Male,31,26,21,26,30,Difficulties with peers or classmates,2
+22,Male,31,26,21,26,30,Challenges in managing group projects,2
+22,Male,31,26,21,26,30,Getting late to class,1
+21,Female,28,32,28,34,20,Dissatisfaction with academic performance,4
+21,Female,28,32,28,34,20,Challenges with instructors,3
+21,Female,28,32,28,34,20,Discontent with current academic responsibilities,3
+21,Female,28,32,28,34,20,Concerns regarding academic transitions,3
+21,Female,28,32,28,34,20,Difficulties with peers or classmates,3
+21,Female,28,32,28,34,20,Challenges in managing group projects,3
+21,Female,28,32,28,34,20,Getting late to class,2
+21,Female,42,28,20,39,19,Dissatisfaction with academic performance,4
+21,Female,42,28,20,39,19,Challenges with instructors,2
+21,Female,42,28,20,39,19,Discontent with current academic responsibilities,2
+21,Female,42,28,20,39,19,Concerns regarding academic transitions,2
+21,Female,42,28,20,39,19,Difficulties with peers or classmates,2
+21,Female,42,28,20,39,19,Challenges in managing group projects,2
+21,Female,42,28,20,39,19,Getting late to class,1
+21,Male,43,37,29,27,30,Dissatisfaction with academic performance,5
+21,Male,43,37,29,27,30,Challenges with instructors,4
+21,Male,43,37,29,27,30,Discontent with current academic responsibilities,5
+21,Male,43,37,29,27,30,Concerns regarding academic transitions,5
+21,Male,43,37,29,27,30,Difficulties with peers or classmates,3
+21,Male,43,37,29,27,30,Challenges in managing group projects,1
+21,Male,43,37,29,27,30,Getting late to class,3
+22,Female,33,37,21,35,24,Dissatisfaction with academic performance,3
+22,Female,33,37,21,35,24,Challenges with instructors,2
+22,Female,33,37,21,35,24,Discontent with current academic responsibilities,2
+22,Female,33,37,21,35,24,Concerns regarding academic transitions,2
+22,Female,33,37,21,35,24,Difficulties with peers or classmates,2
+22,Female,33,37,21,35,24,Challenges in managing group projects,2
+22,Female,33,37,21,35,24,Getting late to class,1
+21,Female,39,31,22,30,32,Dissatisfaction with academic performance,5
+21,Female,39,31,22,30,32,Challenges with instructors,5
+21,Female,39,31,22,30,32,Discontent with current academic responsibilities,5
+21,Female,39,31,22,30,32,Concerns regarding academic transitions,5
+21,Female,39,31,22,30,32,Difficulties with peers or classmates,5
+21,Female,39,31,22,30,32,Challenges in managing group projects,5
+21,Female,39,31,22,30,32,Getting late to class,5
+20,Male,48,27,23,33,28,Dissatisfaction with academic performance,5
+20,Male,48,27,23,33,28,Challenges with instructors,4
+20,Male,48,27,23,33,28,Discontent with current academic responsibilities,4
+20,Male,48,27,23,33,28,Concerns regarding academic transitions,2
+20,Male,48,27,23,33,28,Difficulties with peers or classmates,3
+20,Male,48,27,23,33,28,Challenges in managing group projects,2
+20,Male,48,27,23,33,28,Getting late to class,1
+19,Female,38,32,30,33,25,Dissatisfaction with academic performance,4
+19,Female,38,32,30,33,25,Challenges with instructors,4
+19,Female,38,32,30,33,25,Discontent with current academic responsibilities,4
+19,Female,38,32,30,33,25,Concerns regarding academic transitions,4
+19,Female,38,32,30,33,25,Difficulties with peers or classmates,4
+19,Female,38,32,30,33,25,Challenges in managing group projects,4
+19,Female,38,32,30,33,25,Getting late to class,3
+21,Male,33,25,20,28,19,Dissatisfaction with academic performance,3
+21,Male,33,25,20,28,19,Challenges with instructors,2
+21,Male,33,25,20,28,19,Discontent with current academic responsibilities,2
+21,Male,33,25,20,28,19,Concerns regarding academic transitions,2
+21,Male,33,25,20,28,19,Difficulties with peers or classmates,2
+21,Male,33,25,20,28,19,Challenges in managing group projects,1
+21,Male,33,25,20,28,19,Getting late to class,2
+22,Male,32,31,27,35,23,Dissatisfaction with academic performance,2
+22,Male,32,31,27,35,23,Challenges with instructors,1
+22,Male,32,31,27,35,23,Discontent with current academic responsibilities,3
+22,Male,32,31,27,35,23,Concerns regarding academic transitions,2
+22,Male,32,31,27,35,23,Difficulties with peers or classmates,1
+22,Male,32,31,27,35,23,Challenges in managing group projects,1
+22,Male,32,31,27,35,23,Getting late to class,1
+21,Male,38,29,22,27,27,Dissatisfaction with academic performance,3
+21,Male,38,29,22,27,27,Challenges with instructors,3
+21,Male,38,29,22,27,27,Discontent with current academic responsibilities,4
+21,Male,38,29,22,27,27,Concerns regarding academic transitions,3
+21,Male,38,29,22,27,27,Difficulties with peers or classmates,2
+21,Male,38,29,22,27,27,Challenges in managing group projects,4
+21,Male,38,29,22,27,27,Getting late to class,3
+21,Female,33,29,31,29,30,Dissatisfaction with academic performance,5
+21,Female,33,29,31,29,30,Challenges with instructors,5
+21,Female,33,29,31,29,30,Discontent with current academic responsibilities,5
+21,Female,33,29,31,29,30,Concerns regarding academic transitions,5
+21,Female,33,29,31,29,30,Difficulties with peers or classmates,5
+21,Female,33,29,31,29,30,Challenges in managing group projects,5
+21,Female,33,29,31,29,30,Getting late to class,5
+22,Female,32,42,25,37,18,Dissatisfaction with academic performance,3
+22,Female,32,42,25,37,18,Challenges with instructors,4
+22,Female,32,42,25,37,18,Discontent with current academic responsibilities,5
+22,Female,32,42,25,37,18,Concerns regarding academic transitions,3
+22,Female,32,42,25,37,18,Difficulties with peers or classmates,4
+22,Female,32,42,25,37,18,Challenges in managing group projects,5
+22,Female,32,42,25,37,18,Getting late to class,5
+21,Male,35,30,21,31,26,Dissatisfaction with academic performance,4
+21,Male,35,30,21,31,26,Challenges with instructors,3
+21,Male,35,30,21,31,26,Discontent with current academic responsibilities,4
+21,Male,35,30,21,31,26,Concerns regarding academic transitions,4
+21,Male,35,30,21,31,26,Difficulties with peers or classmates,4
+21,Male,35,30,21,31,26,Challenges in managing group projects,5
+21,Male,35,30,21,31,26,Getting late to class,2
+20,Genderfluid,39,31,28,28,27,Dissatisfaction with academic performance,5
+20,Genderfluid,39,31,28,28,27,Challenges with instructors,5
+20,Genderfluid,39,31,28,28,27,Discontent with current academic responsibilities,4
+20,Genderfluid,39,31,28,28,27,Concerns regarding academic transitions,5
+20,Genderfluid,39,31,28,28,27,Difficulties with peers or classmates,2
+20,Genderfluid,39,31,28,28,27,Challenges in managing group projects,3
+20,Genderfluid,39,31,28,28,27,Getting late to class,1
+19,Female,31,32,25,29,29,Dissatisfaction with academic performance,4
+19,Female,31,32,25,29,29,Challenges with instructors,3
+19,Female,31,32,25,29,29,Discontent with current academic responsibilities,3
+19,Female,31,32,25,29,29,Concerns regarding academic transitions,3
+19,Female,31,32,25,29,29,Difficulties with peers or classmates,2
+19,Female,31,32,25,29,29,Challenges in managing group projects,2
+19,Female,31,32,25,29,29,Getting late to class,1
+19,Female,37,32,31,31,31,Dissatisfaction with academic performance,4
+19,Female,37,32,31,31,31,Challenges with instructors,2
+19,Female,37,32,31,31,31,Discontent with current academic responsibilities,5
+19,Female,37,32,31,31,31,Concerns regarding academic transitions,1
+19,Female,37,32,31,31,31,Difficulties with peers or classmates,5
+19,Female,37,32,31,31,31,Challenges in managing group projects,2
+19,Female,37,32,31,31,31,Getting late to class,1
+19,Female,36,33,28,28,23,Dissatisfaction with academic performance,2
+19,Female,36,33,28,28,23,Challenges with instructors,3
+19,Female,36,33,28,28,23,Discontent with current academic responsibilities,2
+19,Female,36,33,28,28,23,Concerns regarding academic transitions,2
+19,Female,36,33,28,28,23,Difficulties with peers or classmates,2
+19,Female,36,33,28,28,23,Challenges in managing group projects,1
+19,Female,36,33,28,28,23,Getting late to class,1

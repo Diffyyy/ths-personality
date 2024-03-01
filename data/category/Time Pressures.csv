@@ -1,0 +1,253 @@
+Age,Gender,O,C,E,A,N,Hassle,Severity
+21,Male,31,27,17,33,24,Not enough time to do things one needs to,2
+21,Male,31,27,17,33,24,Too many responsibilities,4
+21,Male,31,27,17,33,24,Not getting enough rest,2
+21,Male,31,27,17,33,24,Too many interruptions,1
+21,Male,31,27,17,33,24,Not enough time for entertainment and recreation,3
+21,Male,31,27,17,33,24,Too many meetings,2
+21,Male,31,27,17,33,24,Social obligations,2
+21,Male,31,27,17,33,24,Concerns about meeting high standards,4
+21,Male,31,27,17,33,24,Noise,1
+21,Female,40,27,20,18,27,Not enough time to do things one needs to,1
+21,Female,40,27,20,18,27,Too many responsibilities,2
+21,Female,40,27,20,18,27,Not getting enough rest,3
+21,Female,40,27,20,18,27,Too many interruptions,2
+21,Female,40,27,20,18,27,Not enough time for entertainment and recreation,1
+21,Female,40,27,20,18,27,Too many meetings,1
+21,Female,40,27,20,18,27,Social obligations,1
+21,Female,40,27,20,18,27,Concerns about meeting high standards,3
+21,Female,40,27,20,18,27,Noise,2
+19,Female,30,21,19,32,24,Not enough time to do things one needs to,5
+19,Female,30,21,19,32,24,Too many responsibilities,5
+19,Female,30,21,19,32,24,Not getting enough rest,4
+19,Female,30,21,19,32,24,Too many interruptions,4
+19,Female,30,21,19,32,24,Not enough time for entertainment and recreation,4
+19,Female,30,21,19,32,24,Too many meetings,4
+19,Female,30,21,19,32,24,Social obligations,4
+19,Female,30,21,19,32,24,Concerns about meeting high standards,4
+19,Female,30,21,19,32,24,Noise,3
+20,Female,34,25,13,26,26,Not enough time to do things one needs to,3
+20,Female,34,25,13,26,26,Too many responsibilities,4
+20,Female,34,25,13,26,26,Not getting enough rest,3
+20,Female,34,25,13,26,26,Too many interruptions,4
+20,Female,34,25,13,26,26,Not enough time for entertainment and recreation,3
+20,Female,34,25,13,26,26,Too many meetings,4
+20,Female,34,25,13,26,26,Social obligations,4
+20,Female,34,25,13,26,26,Concerns about meeting high standards,4
+20,Female,34,25,13,26,26,Noise,2
+22,Female,31,29,30,34,25,Not enough time to do things one needs to,5
+22,Female,31,29,30,34,25,Too many responsibilities,5
+22,Female,31,29,30,34,25,Not getting enough rest,4
+22,Female,31,29,30,34,25,Too many interruptions,5
+22,Female,31,29,30,34,25,Not enough time for entertainment and recreation,3
+22,Female,31,29,30,34,25,Too many meetings,4
+22,Female,31,29,30,34,25,Social obligations,1
+22,Female,31,29,30,34,25,Concerns about meeting high standards,5
+22,Female,31,29,30,34,25,Noise,3
+21,Female,39,33,31,31,26,Not enough time to do things one needs to,3
+21,Female,39,33,31,31,26,Too many responsibilities,2
+21,Female,39,33,31,31,26,Not getting enough rest,2
+21,Female,39,33,31,31,26,Too many interruptions,1
+21,Female,39,33,31,31,26,Not enough time for entertainment and recreation,3
+21,Female,39,33,31,31,26,Too many meetings,2
+21,Female,39,33,31,31,26,Social obligations,1
+21,Female,39,33,31,31,26,Concerns about meeting high standards,1
+21,Female,39,33,31,31,26,Noise,2
+20,Female,40,26,23,25,28,Not enough time to do things one needs to,3
+20,Female,40,26,23,25,28,Too many responsibilities,3
+20,Female,40,26,23,25,28,Not getting enough rest,4
+20,Female,40,26,23,25,28,Too many interruptions,3
+20,Female,40,26,23,25,28,Not enough time for entertainment and recreation,2
+20,Female,40,26,23,25,28,Too many meetings,2
+20,Female,40,26,23,25,28,Social obligations,3
+20,Female,40,26,23,25,28,Concerns about meeting high standards,5
+20,Female,40,26,23,25,28,Noise,1
+21,Female,34,31,20,28,26,Not enough time to do things one needs to,3
+21,Female,34,31,20,28,26,Too many responsibilities,4
+21,Female,34,31,20,28,26,Not getting enough rest,3
+21,Female,34,31,20,28,26,Too many interruptions,3
+21,Female,34,31,20,28,26,Not enough time for entertainment and recreation,2
+21,Female,34,31,20,28,26,Too many meetings,3
+21,Female,34,31,20,28,26,Social obligations,3
+21,Female,34,31,20,28,26,Concerns about meeting high standards,4
+21,Female,34,31,20,28,26,Noise,2
+18,Female,43,39,21,31,25,Not enough time to do things one needs to,2
+18,Female,43,39,21,31,25,Too many responsibilities,3
+18,Female,43,39,21,31,25,Not getting enough rest,3
+18,Female,43,39,21,31,25,Too many interruptions,2
+18,Female,43,39,21,31,25,Not enough time for entertainment and recreation,2
+18,Female,43,39,21,31,25,Too many meetings,2
+18,Female,43,39,21,31,25,Social obligations,2
+18,Female,43,39,21,31,25,Concerns about meeting high standards,4
+18,Female,43,39,21,31,25,Noise,3
+21,Male,38,25,24,36,19,Not enough time to do things one needs to,3
+21,Male,38,25,24,36,19,Too many responsibilities,4
+21,Male,38,25,24,36,19,Not getting enough rest,3
+21,Male,38,25,24,36,19,Too many interruptions,2
+21,Male,38,25,24,36,19,Not enough time for entertainment and recreation,4
+21,Male,38,25,24,36,19,Too many meetings,2
+21,Male,38,25,24,36,19,Social obligations,1
+21,Male,38,25,24,36,19,Concerns about meeting high standards,1
+21,Male,38,25,24,36,19,Noise,3
+22,Male,31,26,21,26,30,Not enough time to do things one needs to,2
+22,Male,31,26,21,26,30,Too many responsibilities,3
+22,Male,31,26,21,26,30,Not getting enough rest,2
+22,Male,31,26,21,26,30,Too many interruptions,3
+22,Male,31,26,21,26,30,Not enough time for entertainment and recreation,1
+22,Male,31,26,21,26,30,Too many meetings,2
+22,Male,31,26,21,26,30,Social obligations,2
+22,Male,31,26,21,26,30,Concerns about meeting high standards,2
+22,Male,31,26,21,26,30,Noise,1
+21,Female,28,32,28,34,20,Not enough time to do things one needs to,5
+21,Female,28,32,28,34,20,Too many responsibilities,5
+21,Female,28,32,28,34,20,Not getting enough rest,5
+21,Female,28,32,28,34,20,Too many interruptions,4
+21,Female,28,32,28,34,20,Not enough time for entertainment and recreation,4
+21,Female,28,32,28,34,20,Too many meetings,4
+21,Female,28,32,28,34,20,Social obligations,4
+21,Female,28,32,28,34,20,Concerns about meeting high standards,4
+21,Female,28,32,28,34,20,Noise,4
+21,Female,42,28,20,39,19,Not enough time to do things one needs to,3
+21,Female,42,28,20,39,19,Too many responsibilities,2
+21,Female,42,28,20,39,19,Not getting enough rest,3
+21,Female,42,28,20,39,19,Too many interruptions,3
+21,Female,42,28,20,39,19,Not enough time for entertainment and recreation,2
+21,Female,42,28,20,39,19,Too many meetings,2
+21,Female,42,28,20,39,19,Social obligations,2
+21,Female,42,28,20,39,19,Concerns about meeting high standards,3
+21,Female,42,28,20,39,19,Noise,3
+21,Male,43,37,29,27,30,Not enough time to do things one needs to,5
+21,Male,43,37,29,27,30,Too many responsibilities,5
+21,Male,43,37,29,27,30,Not getting enough rest,2
+21,Male,43,37,29,27,30,Too many interruptions,5
+21,Male,43,37,29,27,30,Not enough time for entertainment and recreation,5
+21,Male,43,37,29,27,30,Too many meetings,5
+21,Male,43,37,29,27,30,Social obligations,2
+21,Male,43,37,29,27,30,Concerns about meeting high standards,5
+21,Male,43,37,29,27,30,Noise,1
+22,Female,33,37,21,35,24,Not enough time to do things one needs to,4
+22,Female,33,37,21,35,24,Too many responsibilities,3
+22,Female,33,37,21,35,24,Not getting enough rest,3
+22,Female,33,37,21,35,24,Too many interruptions,3
+22,Female,33,37,21,35,24,Not enough time for entertainment and recreation,3
+22,Female,33,37,21,35,24,Too many meetings,3
+22,Female,33,37,21,35,24,Social obligations,2
+22,Female,33,37,21,35,24,Concerns about meeting high standards,4
+22,Female,33,37,21,35,24,Noise,3
+21,Female,39,31,22,30,32,Not enough time to do things one needs to,5
+21,Female,39,31,22,30,32,Too many responsibilities,5
+21,Female,39,31,22,30,32,Not getting enough rest,5
+21,Female,39,31,22,30,32,Too many interruptions,5
+21,Female,39,31,22,30,32,Not enough time for entertainment and recreation,5
+21,Female,39,31,22,30,32,Too many meetings,5
+21,Female,39,31,22,30,32,Social obligations,4
+21,Female,39,31,22,30,32,Concerns about meeting high standards,5
+21,Female,39,31,22,30,32,Noise,5
+20,Male,48,27,23,33,28,Not enough time to do things one needs to,4
+20,Male,48,27,23,33,28,Too many responsibilities,3
+20,Male,48,27,23,33,28,Not getting enough rest,3
+20,Male,48,27,23,33,28,Too many interruptions,4
+20,Male,48,27,23,33,28,Not enough time for entertainment and recreation,5
+20,Male,48,27,23,33,28,Too many meetings,3
+20,Male,48,27,23,33,28,Social obligations,3
+20,Male,48,27,23,33,28,Concerns about meeting high standards,5
+20,Male,48,27,23,33,28,Noise,4
+19,Female,38,32,30,33,25,Not enough time to do things one needs to,4
+19,Female,38,32,30,33,25,Too many responsibilities,4
+19,Female,38,32,30,33,25,Not getting enough rest,4
+19,Female,38,32,30,33,25,Too many interruptions,4
+19,Female,38,32,30,33,25,Not enough time for entertainment and recreation,3
+19,Female,38,32,30,33,25,Too many meetings,4
+19,Female,38,32,30,33,25,Social obligations,4
+19,Female,38,32,30,33,25,Concerns about meeting high standards,4
+19,Female,38,32,30,33,25,Noise,3
+21,Male,33,25,20,28,19,Not enough time to do things one needs to,3
+21,Male,33,25,20,28,19,Too many responsibilities,2
+21,Male,33,25,20,28,19,Not getting enough rest,2
+21,Male,33,25,20,28,19,Too many interruptions,2
+21,Male,33,25,20,28,19,Not enough time for entertainment and recreation,1
+21,Male,33,25,20,28,19,Too many meetings,1
+21,Male,33,25,20,28,19,Social obligations,2
+21,Male,33,25,20,28,19,Concerns about meeting high standards,2
+21,Male,33,25,20,28,19,Noise,1
+22,Male,32,31,27,35,23,Not enough time to do things one needs to,4
+22,Male,32,31,27,35,23,Too many responsibilities,2
+22,Male,32,31,27,35,23,Not getting enough rest,4
+22,Male,32,31,27,35,23,Too many interruptions,2
+22,Male,32,31,27,35,23,Not enough time for entertainment and recreation,4
+22,Male,32,31,27,35,23,Too many meetings,2
+22,Male,32,31,27,35,23,Social obligations,1
+22,Male,32,31,27,35,23,Concerns about meeting high standards,5
+22,Male,32,31,27,35,23,Noise,1
+21,Male,38,29,22,27,27,Not enough time to do things one needs to,4
+21,Male,38,29,22,27,27,Too many responsibilities,4
+21,Male,38,29,22,27,27,Not getting enough rest,4
+21,Male,38,29,22,27,27,Too many interruptions,4
+21,Male,38,29,22,27,27,Not enough time for entertainment and recreation,3
+21,Male,38,29,22,27,27,Too many meetings,2
+21,Male,38,29,22,27,27,Social obligations,2
+21,Male,38,29,22,27,27,Concerns about meeting high standards,3
+21,Male,38,29,22,27,27,Noise,2
+21,Female,33,29,31,29,30,Not enough time to do things one needs to,5
+21,Female,33,29,31,29,30,Too many responsibilities,5
+21,Female,33,29,31,29,30,Not getting enough rest,1
+21,Female,33,29,31,29,30,Too many interruptions,5
+21,Female,33,29,31,29,30,Not enough time for entertainment and recreation,1
+21,Female,33,29,31,29,30,Too many meetings,5
+21,Female,33,29,31,29,30,Social obligations,5
+21,Female,33,29,31,29,30,Concerns about meeting high standards,5
+21,Female,33,29,31,29,30,Noise,5
+22,Female,32,42,25,37,18,Not enough time to do things one needs to,5
+22,Female,32,42,25,37,18,Too many responsibilities,5
+22,Female,32,42,25,37,18,Not getting enough rest,4
+22,Female,32,42,25,37,18,Too many interruptions,4
+22,Female,32,42,25,37,18,Not enough time for entertainment and recreation,2
+22,Female,32,42,25,37,18,Too many meetings,5
+22,Female,32,42,25,37,18,Social obligations,4
+22,Female,32,42,25,37,18,Concerns about meeting high standards,5
+22,Female,32,42,25,37,18,Noise,3
+21,Male,35,30,21,31,26,Not enough time to do things one needs to,5
+21,Male,35,30,21,31,26,Too many responsibilities,5
+21,Male,35,30,21,31,26,Not getting enough rest,4
+21,Male,35,30,21,31,26,Too many interruptions,3
+21,Male,35,30,21,31,26,Not enough time for entertainment and recreation,3
+21,Male,35,30,21,31,26,Too many meetings,3
+21,Male,35,30,21,31,26,Social obligations,3
+21,Male,35,30,21,31,26,Concerns about meeting high standards,4
+21,Male,35,30,21,31,26,Noise,3
+20,Genderfluid,39,31,28,28,27,Not enough time to do things one needs to,5
+20,Genderfluid,39,31,28,28,27,Too many responsibilities,4
+20,Genderfluid,39,31,28,28,27,Not getting enough rest,5
+20,Genderfluid,39,31,28,28,27,Too many interruptions,5
+20,Genderfluid,39,31,28,28,27,Not enough time for entertainment and recreation,4
+20,Genderfluid,39,31,28,28,27,Too many meetings,5
+20,Genderfluid,39,31,28,28,27,Social obligations,4
+20,Genderfluid,39,31,28,28,27,Concerns about meeting high standards,2
+20,Genderfluid,39,31,28,28,27,Noise,5
+19,Female,31,32,25,29,29,Not enough time to do things one needs to,4
+19,Female,31,32,25,29,29,Too many responsibilities,4
+19,Female,31,32,25,29,29,Not getting enough rest,3
+19,Female,31,32,25,29,29,Too many interruptions,3
+19,Female,31,32,25,29,29,Not enough time for entertainment and recreation,3
+19,Female,31,32,25,29,29,Too many meetings,2
+19,Female,31,32,25,29,29,Social obligations,2
+19,Female,31,32,25,29,29,Concerns about meeting high standards,4
+19,Female,31,32,25,29,29,Noise,2
+19,Female,37,32,31,31,31,Not enough time to do things one needs to,2
+19,Female,37,32,31,31,31,Too many responsibilities,2
+19,Female,37,32,31,31,31,Not getting enough rest,3
+19,Female,37,32,31,31,31,Too many interruptions,3
+19,Female,37,32,31,31,31,Not enough time for entertainment and recreation,4
+19,Female,37,32,31,31,31,Too many meetings,2
+19,Female,37,32,31,31,31,Social obligations,1
+19,Female,37,32,31,31,31,Concerns about meeting high standards,1
+19,Female,37,32,31,31,31,Noise,4
+19,Female,36,33,28,28,23,Not enough time to do things one needs to,3
+19,Female,36,33,28,28,23,Too many responsibilities,2
+19,Female,36,33,28,28,23,Not getting enough rest,3
+19,Female,36,33,28,28,23,Too many interruptions,2
+19,Female,36,33,28,28,23,Not enough time for entertainment and recreation,2
+19,Female,36,33,28,28,23,Too many meetings,3
+19,Female,36,33,28,28,23,Social obligations,1
+19,Female,36,33,28,28,23,Concerns about meeting high standards,2
+19,Female,36,33,28,28,23,Noise,2

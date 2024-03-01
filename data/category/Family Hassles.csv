@@ -1,0 +1,85 @@
+Age,Gender,O,C,E,A,N,Hassle,Severity
+21,Male,31,27,17,33,24,Yardwork or outside home maintenance,1
+21,Male,31,27,17,33,24,Overloaded with family responsibilities,2
+21,Male,31,27,17,33,24,Home maintenance (inside),1
+21,Female,40,27,20,18,27,Yardwork or outside home maintenance,1
+21,Female,40,27,20,18,27,Overloaded with family responsibilities,1
+21,Female,40,27,20,18,27,Home maintenance (inside),2
+19,Female,30,21,19,32,24,Yardwork or outside home maintenance,3
+19,Female,30,21,19,32,24,Overloaded with family responsibilities,4
+19,Female,30,21,19,32,24,Home maintenance (inside),3
+20,Female,34,25,13,26,26,Yardwork or outside home maintenance,3
+20,Female,34,25,13,26,26,Overloaded with family responsibilities,4
+20,Female,34,25,13,26,26,Home maintenance (inside),2
+22,Female,31,29,30,34,25,Yardwork or outside home maintenance,4
+22,Female,31,29,30,34,25,Overloaded with family responsibilities,4
+22,Female,31,29,30,34,25,Home maintenance (inside),4
+21,Female,39,33,31,31,26,Yardwork or outside home maintenance,1
+21,Female,39,33,31,31,26,Overloaded with family responsibilities,1
+21,Female,39,33,31,31,26,Home maintenance (inside),1
+20,Female,40,26,23,25,28,Yardwork or outside home maintenance,1
+20,Female,40,26,23,25,28,Overloaded with family responsibilities,1
+20,Female,40,26,23,25,28,Home maintenance (inside),1
+21,Female,34,31,20,28,26,Yardwork or outside home maintenance,3
+21,Female,34,31,20,28,26,Overloaded with family responsibilities,4
+21,Female,34,31,20,28,26,Home maintenance (inside),3
+18,Female,43,39,21,31,25,Yardwork or outside home maintenance,1
+18,Female,43,39,21,31,25,Overloaded with family responsibilities,1
+18,Female,43,39,21,31,25,Home maintenance (inside),2
+21,Male,38,25,24,36,19,Yardwork or outside home maintenance,1
+21,Male,38,25,24,36,19,Overloaded with family responsibilities,1
+21,Male,38,25,24,36,19,Home maintenance (inside),1
+22,Male,31,26,21,26,30,Yardwork or outside home maintenance,1
+22,Male,31,26,21,26,30,Overloaded with family responsibilities,1
+22,Male,31,26,21,26,30,Home maintenance (inside),1
+21,Female,28,32,28,34,20,Yardwork or outside home maintenance,3
+21,Female,28,32,28,34,20,Overloaded with family responsibilities,4
+21,Female,28,32,28,34,20,Home maintenance (inside),3
+21,Female,42,28,20,39,19,Yardwork or outside home maintenance,2
+21,Female,42,28,20,39,19,Overloaded with family responsibilities,1
+21,Female,42,28,20,39,19,Home maintenance (inside),1
+21,Male,43,37,29,27,30,Yardwork or outside home maintenance,1
+21,Male,43,37,29,27,30,Overloaded with family responsibilities,3
+21,Male,43,37,29,27,30,Home maintenance (inside),2
+22,Female,33,37,21,35,24,Yardwork or outside home maintenance,1
+22,Female,33,37,21,35,24,Overloaded with family responsibilities,3
+22,Female,33,37,21,35,24,Home maintenance (inside),2
+21,Female,39,31,22,30,32,Yardwork or outside home maintenance,3
+21,Female,39,31,22,30,32,Overloaded with family responsibilities,5
+21,Female,39,31,22,30,32,Home maintenance (inside),5
+20,Male,48,27,23,33,28,Yardwork or outside home maintenance,2
+20,Male,48,27,23,33,28,Overloaded with family responsibilities,2
+20,Male,48,27,23,33,28,Home maintenance (inside),2
+19,Female,38,32,30,33,25,Yardwork or outside home maintenance,3
+19,Female,38,32,30,33,25,Overloaded with family responsibilities,3
+19,Female,38,32,30,33,25,Home maintenance (inside),3
+21,Male,33,25,20,28,19,Yardwork or outside home maintenance,1
+21,Male,33,25,20,28,19,Overloaded with family responsibilities,1
+21,Male,33,25,20,28,19,Home maintenance (inside),2
+22,Male,32,31,27,35,23,Yardwork or outside home maintenance,1
+22,Male,32,31,27,35,23,Overloaded with family responsibilities,1
+22,Male,32,31,27,35,23,Home maintenance (inside),1
+21,Male,38,29,22,27,27,Yardwork or outside home maintenance,1
+21,Male,38,29,22,27,27,Overloaded with family responsibilities,3
+21,Male,38,29,22,27,27,Home maintenance (inside),3
+21,Female,33,29,31,29,30,Yardwork or outside home maintenance,2
+21,Female,33,29,31,29,30,Overloaded with family responsibilities,2
+21,Female,33,29,31,29,30,Home maintenance (inside),2
+22,Female,32,42,25,37,18,Yardwork or outside home maintenance,3
+22,Female,32,42,25,37,18,Overloaded with family responsibilities,4
+22,Female,32,42,25,37,18,Home maintenance (inside),2
+21,Male,35,30,21,31,26,Yardwork or outside home maintenance,3
+21,Male,35,30,21,31,26,Overloaded with family responsibilities,3
+21,Male,35,30,21,31,26,Home maintenance (inside),3
+20,Genderfluid,39,31,28,28,27,Yardwork or outside home maintenance,3
+20,Genderfluid,39,31,28,28,27,Overloaded with family responsibilities,3
+20,Genderfluid,39,31,28,28,27,Home maintenance (inside),2
+19,Female,31,32,25,29,29,Yardwork or outside home maintenance,1
+19,Female,31,32,25,29,29,Overloaded with family responsibilities,2
+19,Female,31,32,25,29,29,Home maintenance (inside),2
+19,Female,37,32,31,31,31,Yardwork or outside home maintenance,1
+19,Female,37,32,31,31,31,Overloaded with family responsibilities,1
+19,Female,37,32,31,31,31,Home maintenance (inside),1
+19,Female,36,33,28,28,23,Yardwork or outside home maintenance,2
+19,Female,36,33,28,28,23,Overloaded with family responsibilities,2
+19,Female,36,33,28,28,23,Home maintenance (inside),2

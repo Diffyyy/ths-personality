@@ -1,0 +1,169 @@
+Age,Gender,O,C,E,A,N,Hassle,Severity
+21,Male,31,27,17,33,24,Pollution,2
+21,Male,31,27,17,33,24,Crime,4
+21,Male,31,27,17,33,24,Traffic,3
+21,Male,31,27,17,33,24,Concerns about news events,2
+21,Male,31,27,17,33,24,Rising prices of common goods,4
+21,Male,31,27,17,33,24,Concerns about accidents,3
+21,Female,40,27,20,18,27,Pollution,1
+21,Female,40,27,20,18,27,Crime,2
+21,Female,40,27,20,18,27,Traffic,2
+21,Female,40,27,20,18,27,Concerns about news events,1
+21,Female,40,27,20,18,27,Rising prices of common goods,1
+21,Female,40,27,20,18,27,Concerns about accidents,1
+19,Female,30,21,19,32,24,Pollution,3
+19,Female,30,21,19,32,24,Crime,3
+19,Female,30,21,19,32,24,Traffic,3
+19,Female,30,21,19,32,24,Concerns about news events,3
+19,Female,30,21,19,32,24,Rising prices of common goods,3
+19,Female,30,21,19,32,24,Concerns about accidents,3
+20,Female,34,25,13,26,26,Pollution,3
+20,Female,34,25,13,26,26,Crime,5
+20,Female,34,25,13,26,26,Traffic,2
+20,Female,34,25,13,26,26,Concerns about news events,4
+20,Female,34,25,13,26,26,Rising prices of common goods,4
+20,Female,34,25,13,26,26,Concerns about accidents,4
+22,Female,31,29,30,34,25,Pollution,4
+22,Female,31,29,30,34,25,Crime,5
+22,Female,31,29,30,34,25,Traffic,5
+22,Female,31,29,30,34,25,Concerns about news events,4
+22,Female,31,29,30,34,25,Rising prices of common goods,4
+22,Female,31,29,30,34,25,Concerns about accidents,4
+21,Female,39,33,31,31,26,Pollution,4
+21,Female,39,33,31,31,26,Crime,4
+21,Female,39,33,31,31,26,Traffic,5
+21,Female,39,33,31,31,26,Concerns about news events,3
+21,Female,39,33,31,31,26,Rising prices of common goods,2
+21,Female,39,33,31,31,26,Concerns about accidents,2
+20,Female,40,26,23,25,28,Pollution,2
+20,Female,40,26,23,25,28,Crime,2
+20,Female,40,26,23,25,28,Traffic,3
+20,Female,40,26,23,25,28,Concerns about news events,2
+20,Female,40,26,23,25,28,Rising prices of common goods,3
+20,Female,40,26,23,25,28,Concerns about accidents,3
+21,Female,34,31,20,28,26,Pollution,3
+21,Female,34,31,20,28,26,Crime,4
+21,Female,34,31,20,28,26,Traffic,3
+21,Female,34,31,20,28,26,Concerns about news events,3
+21,Female,34,31,20,28,26,Rising prices of common goods,3
+21,Female,34,31,20,28,26,Concerns about accidents,4
+18,Female,43,39,21,31,25,Pollution,3
+18,Female,43,39,21,31,25,Crime,1
+18,Female,43,39,21,31,25,Traffic,5
+18,Female,43,39,21,31,25,Concerns about news events,3
+18,Female,43,39,21,31,25,Rising prices of common goods,4
+18,Female,43,39,21,31,25,Concerns about accidents,3
+21,Male,38,25,24,36,19,Pollution,4
+21,Male,38,25,24,36,19,Crime,2
+21,Male,38,25,24,36,19,Traffic,1
+21,Male,38,25,24,36,19,Concerns about news events,1
+21,Male,38,25,24,36,19,Rising prices of common goods,1
+21,Male,38,25,24,36,19,Concerns about accidents,2
+22,Male,31,26,21,26,30,Pollution,3
+22,Male,31,26,21,26,30,Crime,2
+22,Male,31,26,21,26,30,Traffic,1
+22,Male,31,26,21,26,30,Concerns about news events,3
+22,Male,31,26,21,26,30,Rising prices of common goods,3
+22,Male,31,26,21,26,30,Concerns about accidents,2
+21,Female,28,32,28,34,20,Pollution,3
+21,Female,28,32,28,34,20,Crime,3
+21,Female,28,32,28,34,20,Traffic,3
+21,Female,28,32,28,34,20,Concerns about news events,3
+21,Female,28,32,28,34,20,Rising prices of common goods,4
+21,Female,28,32,28,34,20,Concerns about accidents,3
+21,Female,42,28,20,39,19,Pollution,5
+21,Female,42,28,20,39,19,Crime,3
+21,Female,42,28,20,39,19,Traffic,3
+21,Female,42,28,20,39,19,Concerns about news events,2
+21,Female,42,28,20,39,19,Rising prices of common goods,5
+21,Female,42,28,20,39,19,Concerns about accidents,3
+21,Male,43,37,29,27,30,Pollution,5
+21,Male,43,37,29,27,30,Crime,5
+21,Male,43,37,29,27,30,Traffic,3
+21,Male,43,37,29,27,30,Concerns about news events,2
+21,Male,43,37,29,27,30,Rising prices of common goods,5
+21,Male,43,37,29,27,30,Concerns about accidents,1
+22,Female,33,37,21,35,24,Pollution,3
+22,Female,33,37,21,35,24,Crime,4
+22,Female,33,37,21,35,24,Traffic,3
+22,Female,33,37,21,35,24,Concerns about news events,3
+22,Female,33,37,21,35,24,Rising prices of common goods,3
+22,Female,33,37,21,35,24,Concerns about accidents,3
+21,Female,39,31,22,30,32,Pollution,3
+21,Female,39,31,22,30,32,Crime,5
+21,Female,39,31,22,30,32,Traffic,5
+21,Female,39,31,22,30,32,Concerns about news events,3
+21,Female,39,31,22,30,32,Rising prices of common goods,3
+21,Female,39,31,22,30,32,Concerns about accidents,4
+20,Male,48,27,23,33,28,Pollution,5
+20,Male,48,27,23,33,28,Crime,4
+20,Male,48,27,23,33,28,Traffic,4
+20,Male,48,27,23,33,28,Concerns about news events,3
+20,Male,48,27,23,33,28,Rising prices of common goods,5
+20,Male,48,27,23,33,28,Concerns about accidents,3
+19,Female,38,32,30,33,25,Pollution,4
+19,Female,38,32,30,33,25,Crime,4
+19,Female,38,32,30,33,25,Traffic,4
+19,Female,38,32,30,33,25,Concerns about news events,4
+19,Female,38,32,30,33,25,Rising prices of common goods,4
+19,Female,38,32,30,33,25,Concerns about accidents,4
+21,Male,33,25,20,28,19,Pollution,3
+21,Male,33,25,20,28,19,Crime,2
+21,Male,33,25,20,28,19,Traffic,2
+21,Male,33,25,20,28,19,Concerns about news events,1
+21,Male,33,25,20,28,19,Rising prices of common goods,3
+21,Male,33,25,20,28,19,Concerns about accidents,2
+22,Male,32,31,27,35,23,Pollution,4
+22,Male,32,31,27,35,23,Crime,3
+22,Male,32,31,27,35,23,Traffic,5
+22,Male,32,31,27,35,23,Concerns about news events,4
+22,Male,32,31,27,35,23,Rising prices of common goods,4
+22,Male,32,31,27,35,23,Concerns about accidents,2
+21,Male,38,29,22,27,27,Pollution,2
+21,Male,38,29,22,27,27,Crime,1
+21,Male,38,29,22,27,27,Traffic,4
+21,Male,38,29,22,27,27,Concerns about news events,4
+21,Male,38,29,22,27,27,Rising prices of common goods,4
+21,Male,38,29,22,27,27,Concerns about accidents,3
+21,Female,33,29,31,29,30,Pollution,1
+21,Female,33,29,31,29,30,Crime,1
+21,Female,33,29,31,29,30,Traffic,4
+21,Female,33,29,31,29,30,Concerns about news events,1
+21,Female,33,29,31,29,30,Rising prices of common goods,1
+21,Female,33,29,31,29,30,Concerns about accidents,1
+22,Female,32,42,25,37,18,Pollution,3
+22,Female,32,42,25,37,18,Crime,5
+22,Female,32,42,25,37,18,Traffic,5
+22,Female,32,42,25,37,18,Concerns about news events,4
+22,Female,32,42,25,37,18,Rising prices of common goods,4
+22,Female,32,42,25,37,18,Concerns about accidents,4
+21,Male,35,30,21,31,26,Pollution,3
+21,Male,35,30,21,31,26,Crime,4
+21,Male,35,30,21,31,26,Traffic,3
+21,Male,35,30,21,31,26,Concerns about news events,2
+21,Male,35,30,21,31,26,Rising prices of common goods,2
+21,Male,35,30,21,31,26,Concerns about accidents,3
+20,Genderfluid,39,31,28,28,27,Pollution,5
+20,Genderfluid,39,31,28,28,27,Crime,5
+20,Genderfluid,39,31,28,28,27,Traffic,5
+20,Genderfluid,39,31,28,28,27,Concerns about news events,4
+20,Genderfluid,39,31,28,28,27,Rising prices of common goods,5
+20,Genderfluid,39,31,28,28,27,Concerns about accidents,5
+19,Female,31,32,25,29,29,Pollution,3
+19,Female,31,32,25,29,29,Crime,3
+19,Female,31,32,25,29,29,Traffic,3
+19,Female,31,32,25,29,29,Concerns about news events,4
+19,Female,31,32,25,29,29,Rising prices of common goods,4
+19,Female,31,32,25,29,29,Concerns about accidents,3
+19,Female,37,32,31,31,31,Pollution,3
+19,Female,37,32,31,31,31,Crime,4
+19,Female,37,32,31,31,31,Traffic,3
+19,Female,37,32,31,31,31,Concerns about news events,1
+19,Female,37,32,31,31,31,Rising prices of common goods,3
+19,Female,37,32,31,31,31,Concerns about accidents,2
+19,Female,36,33,28,28,23,Pollution,3
+19,Female,36,33,28,28,23,Crime,3
+19,Female,36,33,28,28,23,Traffic,3
+19,Female,36,33,28,28,23,Concerns about news events,2
+19,Female,36,33,28,28,23,Rising prices of common goods,2
+19,Female,36,33,28,28,23,Concerns about accidents,2
