@@ -1,184 +1,28 @@
 Age,Gender,O,C,E,A,N,Hassle,Severity
-21,Male,31,27,17,33,24,Regrets over past decision/s,3
-21,Male,31,27,17,33,24,Concerned about the meaning of life,4
-21,Male,31,27,17,33,24,Being lonely,2
-21,Male,31,27,17,33,24,Inability to express oneself,3
-21,Male,31,27,17,33,24,Fear of rejection,4
-21,Male,31,27,17,33,24,Trouble making decisions,3
-21,Male,31,27,17,33,24,Physical appearance,2
-21,Male,31,27,17,33,24,Not seeing people,3
-21,Male,31,27,17,33,24,Not enough personal energy,3
-21,Male,31,27,17,33,24,Concerns about getting ahead,1
-21,Male,31,27,17,33,24,Fear of confrontation,2
-21,Male,31,27,17,33,24,Wasting time,3
-21,Female,40,27,20,18,27,Regrets over past decision/s,2
-21,Female,40,27,20,18,27,Concerned about the meaning of life,1
-21,Female,40,27,20,18,27,Being lonely,2
-21,Female,40,27,20,18,27,Inability to express oneself,1
-21,Female,40,27,20,18,27,Fear of rejection,2
-21,Female,40,27,20,18,27,Trouble making decisions,3
-21,Female,40,27,20,18,27,Physical appearance,3
-21,Female,40,27,20,18,27,Not seeing people,2
-21,Female,40,27,20,18,27,Not enough personal energy,1
-21,Female,40,27,20,18,27,Concerns about getting ahead,3
-21,Female,40,27,20,18,27,Fear of confrontation,1
-21,Female,40,27,20,18,27,Wasting time,1
-19,Female,30,21,19,32,24,Regrets over past decision/s,4
-19,Female,30,21,19,32,24,Concerned about the meaning of life,2
-19,Female,30,21,19,32,24,Being lonely,2
-19,Female,30,21,19,32,24,Inability to express oneself,2
-19,Female,30,21,19,32,24,Fear of rejection,5
-19,Female,30,21,19,32,24,Trouble making decisions,4
-19,Female,30,21,19,32,24,Physical appearance,4
-19,Female,30,21,19,32,24,Not seeing people,2
-19,Female,30,21,19,32,24,Not enough personal energy,3
-19,Female,30,21,19,32,24,Concerns about getting ahead,3
-19,Female,30,21,19,32,24,Fear of confrontation,3
-19,Female,30,21,19,32,24,Wasting time,2
-20,Female,34,25,13,26,26,Regrets over past decision/s,3
-20,Female,34,25,13,26,26,Concerned about the meaning of life,4
-20,Female,34,25,13,26,26,Being lonely,2
-20,Female,34,25,13,26,26,Inability to express oneself,3
-20,Female,34,25,13,26,26,Fear of rejection,4
-20,Female,34,25,13,26,26,Trouble making decisions,2
-20,Female,34,25,13,26,26,Physical appearance,3
-20,Female,34,25,13,26,26,Not seeing people,1
-20,Female,34,25,13,26,26,Not enough personal energy,1
-20,Female,34,25,13,26,26,Concerns about getting ahead,2
-20,Female,34,25,13,26,26,Fear of confrontation,4
-20,Female,34,25,13,26,26,Wasting time,1
-22,Female,31,29,30,34,25,Regrets over past decision/s,5
-22,Female,31,29,30,34,25,Concerned about the meaning of life,5
-22,Female,31,29,30,34,25,Being lonely,5
-22,Female,31,29,30,34,25,Inability to express oneself,4
-22,Female,31,29,30,34,25,Fear of rejection,5
-22,Female,31,29,30,34,25,Trouble making decisions,5
-22,Female,31,29,30,34,25,Physical appearance,4
-22,Female,31,29,30,34,25,Not seeing people,4
-22,Female,31,29,30,34,25,Not enough personal energy,3
-22,Female,31,29,30,34,25,Concerns about getting ahead,4
-22,Female,31,29,30,34,25,Fear of confrontation,4
-22,Female,31,29,30,34,25,Wasting time,4
-21,Female,39,33,31,31,26,Regrets over past decision/s,2
-21,Female,39,33,31,31,26,Concerned about the meaning of life,1
-21,Female,39,33,31,31,26,Being lonely,1
-21,Female,39,33,31,31,26,Inability to express oneself,1
-21,Female,39,33,31,31,26,Fear of rejection,2
-21,Female,39,33,31,31,26,Trouble making decisions,1
-21,Female,39,33,31,31,26,Physical appearance,2
-21,Female,39,33,31,31,26,Not seeing people,2
-21,Female,39,33,31,31,26,Not enough personal energy,1
-21,Female,39,33,31,31,26,Concerns about getting ahead,1
-21,Female,39,33,31,31,26,Fear of confrontation,1
-21,Female,39,33,31,31,26,Wasting time,2
-20,Female,40,26,23,25,28,Regrets over past decision/s,5
-20,Female,40,26,23,25,28,Concerned about the meaning of life,3
-20,Female,40,26,23,25,28,Being lonely,2
-20,Female,40,26,23,25,28,Inability to express oneself,5
-20,Female,40,26,23,25,28,Fear of rejection,5
-20,Female,40,26,23,25,28,Trouble making decisions,4
-20,Female,40,26,23,25,28,Physical appearance,3
-20,Female,40,26,23,25,28,Not seeing people,2
-20,Female,40,26,23,25,28,Not enough personal energy,3
-20,Female,40,26,23,25,28,Concerns about getting ahead,5
-20,Female,40,26,23,25,28,Fear of confrontation,2
-20,Female,40,26,23,25,28,Wasting time,2
-21,Female,34,31,20,28,26,Regrets over past decision/s,4
-21,Female,34,31,20,28,26,Concerned about the meaning of life,2
-21,Female,34,31,20,28,26,Being lonely,2
-21,Female,34,31,20,28,26,Inability to express oneself,3
-21,Female,34,31,20,28,26,Fear of rejection,3
-21,Female,34,31,20,28,26,Trouble making decisions,3
-21,Female,34,31,20,28,26,Physical appearance,3
-21,Female,34,31,20,28,26,Not seeing people,2
-21,Female,34,31,20,28,26,Not enough personal energy,3
-21,Female,34,31,20,28,26,Concerns about getting ahead,3
-21,Female,34,31,20,28,26,Fear of confrontation,4
-21,Female,34,31,20,28,26,Wasting time,3
-18,Female,43,39,21,31,25,Regrets over past decision/s,3
-18,Female,43,39,21,31,25,Concerned about the meaning of life,5
-18,Female,43,39,21,31,25,Being lonely,2
-18,Female,43,39,21,31,25,Inability to express oneself,3
-18,Female,43,39,21,31,25,Fear of rejection,4
-18,Female,43,39,21,31,25,Trouble making decisions,3
-18,Female,43,39,21,31,25,Physical appearance,3
-18,Female,43,39,21,31,25,Not seeing people,2
-18,Female,43,39,21,31,25,Not enough personal energy,3
-18,Female,43,39,21,31,25,Concerns about getting ahead,3
-18,Female,43,39,21,31,25,Fear of confrontation,1
-18,Female,43,39,21,31,25,Wasting time,5
-21,Male,38,25,24,36,19,Regrets over past decision/s,1
-21,Male,38,25,24,36,19,Concerned about the meaning of life,1
-21,Male,38,25,24,36,19,Being lonely,1
-21,Male,38,25,24,36,19,Inability to express oneself,1
-21,Male,38,25,24,36,19,Fear of rejection,1
-21,Male,38,25,24,36,19,Trouble making decisions,1
-21,Male,38,25,24,36,19,Physical appearance,2
-21,Male,38,25,24,36,19,Not seeing people,1
-21,Male,38,25,24,36,19,Not enough personal energy,2
-21,Male,38,25,24,36,19,Concerns about getting ahead,2
-21,Male,38,25,24,36,19,Fear of confrontation,1
-21,Male,38,25,24,36,19,Wasting time,1
-22,Male,31,26,21,26,30,Regrets over past decision/s,3
-22,Male,31,26,21,26,30,Concerned about the meaning of life,3
-22,Male,31,26,21,26,30,Being lonely,1
-22,Male,31,26,21,26,30,Inability to express oneself,2
-22,Male,31,26,21,26,30,Fear of rejection,2
-22,Male,31,26,21,26,30,Trouble making decisions,3
-22,Male,31,26,21,26,30,Physical appearance,1
-22,Male,31,26,21,26,30,Not seeing people,1
-22,Male,31,26,21,26,30,Not enough personal energy,3
-22,Male,31,26,21,26,30,Concerns about getting ahead,2
-22,Male,31,26,21,26,30,Fear of confrontation,1
-22,Male,31,26,21,26,30,Wasting time,1
-21,Female,28,32,28,34,20,Regrets over past decision/s,2
-21,Female,28,32,28,34,20,Concerned about the meaning of life,2
-21,Female,28,32,28,34,20,Being lonely,3
-21,Female,28,32,28,34,20,Inability to express oneself,3
-21,Female,28,32,28,34,20,Fear of rejection,4
-21,Female,28,32,28,34,20,Trouble making decisions,4
-21,Female,28,32,28,34,20,Physical appearance,2
-21,Female,28,32,28,34,20,Not seeing people,3
-21,Female,28,32,28,34,20,Not enough personal energy,4
-21,Female,28,32,28,34,20,Concerns about getting ahead,3
-21,Female,28,32,28,34,20,Fear of confrontation,3
-21,Female,28,32,28,34,20,Wasting time,3
-21,Female,42,28,20,39,19,Regrets over past decision/s,1
-21,Female,42,28,20,39,19,Concerned about the meaning of life,2
-21,Female,42,28,20,39,19,Being lonely,2
-21,Female,42,28,20,39,19,Inability to express oneself,2
-21,Female,42,28,20,39,19,Fear of rejection,2
-21,Female,42,28,20,39,19,Trouble making decisions,3
-21,Female,42,28,20,39,19,Physical appearance,1
-21,Female,42,28,20,39,19,Not seeing people,2
-21,Female,42,28,20,39,19,Not enough personal energy,3
-21,Female,42,28,20,39,19,Concerns about getting ahead,3
-21,Female,42,28,20,39,19,Fear of confrontation,3
-21,Female,42,28,20,39,19,Wasting time,4
-21,Male,43,37,29,27,30,Regrets over past decision/s,2
-21,Male,43,37,29,27,30,Concerned about the meaning of life,1
-21,Male,43,37,29,27,30,Being lonely,3
-21,Male,43,37,29,27,30,Inability to express oneself,3
-21,Male,43,37,29,27,30,Fear of rejection,5
-21,Male,43,37,29,27,30,Trouble making decisions,3
-21,Male,43,37,29,27,30,Physical appearance,3
-21,Male,43,37,29,27,30,Not seeing people,3
-21,Male,43,37,29,27,30,Not enough personal energy,2
-21,Male,43,37,29,27,30,Concerns about getting ahead,5
-21,Male,43,37,29,27,30,Fear of confrontation,1
-21,Male,43,37,29,27,30,Wasting time,2
-22,Female,33,37,21,35,24,Regrets over past decision/s,1
-22,Female,33,37,21,35,24,Concerned about the meaning of life,1
-22,Female,33,37,21,35,24,Being lonely,2
-22,Female,33,37,21,35,24,Inability to express oneself,2
-22,Female,33,37,21,35,24,Fear of rejection,3
-22,Female,33,37,21,35,24,Trouble making decisions,2
-22,Female,33,37,21,35,24,Physical appearance,2
-22,Female,33,37,21,35,24,Not seeing people,1
-22,Female,33,37,21,35,24,Not enough personal energy,3
-22,Female,33,37,21,35,24,Concerns about getting ahead,3
-22,Female,33,37,21,35,24,Fear of confrontation,3
-22,Female,33,37,21,35,24,Wasting time,2
+20,Female,44,42,33,37,22,Regrets over past decision/s,3
+20,Female,44,42,33,37,22,Concerned about the meaning of life,5
+20,Female,44,42,33,37,22,Being lonely,1
+20,Female,44,42,33,37,22,Inability to express oneself,1
+20,Female,44,42,33,37,22,Fear of rejection,1
+20,Female,44,42,33,37,22,Trouble making decisions,1
+20,Female,44,42,33,37,22,Physical appearance,1
+20,Female,44,42,33,37,22,Not seeing people,1
+20,Female,44,42,33,37,22,Not enough personal energy,1
+20,Female,44,42,33,37,22,Concerns about getting ahead,1
+20,Female,44,42,33,37,22,Fear of confrontation,1
+20,Female,44,42,33,37,22,Wasting time,1
+20,Male,34,30,23,28,30,Regrets over past decision/s,4
+20,Male,34,30,23,28,30,Concerned about the meaning of life,5
+20,Male,34,30,23,28,30,Being lonely,4
+20,Male,34,30,23,28,30,Inability to express oneself,4
+20,Male,34,30,23,28,30,Fear of rejection,5
+20,Male,34,30,23,28,30,Trouble making decisions,4
+20,Male,34,30,23,28,30,Physical appearance,3
+20,Male,34,30,23,28,30,Not seeing people,4
+20,Male,34,30,23,28,30,Not enough personal energy,3
+20,Male,34,30,23,28,30,Concerns about getting ahead,2
+20,Male,34,30,23,28,30,Fear of confrontation,3
+20,Male,34,30,23,28,30,Wasting time,5
 21,Female,39,31,22,30,32,Regrets over past decision/s,4
 21,Female,39,31,22,30,32,Concerned about the meaning of life,3
 21,Female,39,31,22,30,32,Being lonely,5
@@ -191,78 +35,126 @@ Age,Gender,O,C,E,A,N,Hassle,Severity
 21,Female,39,31,22,30,32,Concerns about getting ahead,5
 21,Female,39,31,22,30,32,Fear of confrontation,4
 21,Female,39,31,22,30,32,Wasting time,5
-20,Male,48,27,23,33,28,Regrets over past decision/s,4
-20,Male,48,27,23,33,28,Concerned about the meaning of life,5
-20,Male,48,27,23,33,28,Being lonely,5
-20,Male,48,27,23,33,28,Inability to express oneself,4
-20,Male,48,27,23,33,28,Fear of rejection,4
-20,Male,48,27,23,33,28,Trouble making decisions,5
-20,Male,48,27,23,33,28,Physical appearance,3
-20,Male,48,27,23,33,28,Not seeing people,3
-20,Male,48,27,23,33,28,Not enough personal energy,4
-20,Male,48,27,23,33,28,Concerns about getting ahead,4
-20,Male,48,27,23,33,28,Fear of confrontation,3
-20,Male,48,27,23,33,28,Wasting time,5
-19,Female,38,32,30,33,25,Regrets over past decision/s,3
-19,Female,38,32,30,33,25,Concerned about the meaning of life,4
-19,Female,38,32,30,33,25,Being lonely,3
-19,Female,38,32,30,33,25,Inability to express oneself,3
-19,Female,38,32,30,33,25,Fear of rejection,4
-19,Female,38,32,30,33,25,Trouble making decisions,4
-19,Female,38,32,30,33,25,Physical appearance,3
-19,Female,38,32,30,33,25,Not seeing people,2
-19,Female,38,32,30,33,25,Not enough personal energy,3
-19,Female,38,32,30,33,25,Concerns about getting ahead,3
-19,Female,38,32,30,33,25,Fear of confrontation,3
-19,Female,38,32,30,33,25,Wasting time,3
-21,Male,33,25,20,28,19,Regrets over past decision/s,3
-21,Male,33,25,20,28,19,Concerned about the meaning of life,2
-21,Male,33,25,20,28,19,Being lonely,1
-21,Male,33,25,20,28,19,Inability to express oneself,2
-21,Male,33,25,20,28,19,Fear of rejection,2
-21,Male,33,25,20,28,19,Trouble making decisions,2
-21,Male,33,25,20,28,19,Physical appearance,1
-21,Male,33,25,20,28,19,Not seeing people,1
-21,Male,33,25,20,28,19,Not enough personal energy,1
-21,Male,33,25,20,28,19,Concerns about getting ahead,1
-21,Male,33,25,20,28,19,Fear of confrontation,2
-21,Male,33,25,20,28,19,Wasting time,2
-22,Male,32,31,27,35,23,Regrets over past decision/s,3
-22,Male,32,31,27,35,23,Concerned about the meaning of life,4
-22,Male,32,31,27,35,23,Being lonely,1
-22,Male,32,31,27,35,23,Inability to express oneself,2
-22,Male,32,31,27,35,23,Fear of rejection,2
-22,Male,32,31,27,35,23,Trouble making decisions,1
-22,Male,32,31,27,35,23,Physical appearance,3
-22,Male,32,31,27,35,23,Not seeing people,1
-22,Male,32,31,27,35,23,Not enough personal energy,1
-22,Male,32,31,27,35,23,Concerns about getting ahead,2
-22,Male,32,31,27,35,23,Fear of confrontation,2
-22,Male,32,31,27,35,23,Wasting time,1
-21,Male,38,29,22,27,27,Regrets over past decision/s,3
-21,Male,38,29,22,27,27,Concerned about the meaning of life,3
-21,Male,38,29,22,27,27,Being lonely,4
-21,Male,38,29,22,27,27,Inability to express oneself,2
-21,Male,38,29,22,27,27,Fear of rejection,2
-21,Male,38,29,22,27,27,Trouble making decisions,3
-21,Male,38,29,22,27,27,Physical appearance,4
-21,Male,38,29,22,27,27,Not seeing people,4
-21,Male,38,29,22,27,27,Not enough personal energy,2
-21,Male,38,29,22,27,27,Concerns about getting ahead,3
-21,Male,38,29,22,27,27,Fear of confrontation,3
-21,Male,38,29,22,27,27,Wasting time,3
-21,Female,33,29,31,29,30,Regrets over past decision/s,5
-21,Female,33,29,31,29,30,Concerned about the meaning of life,1
-21,Female,33,29,31,29,30,Being lonely,5
-21,Female,33,29,31,29,30,Inability to express oneself,4
-21,Female,33,29,31,29,30,Fear of rejection,1
-21,Female,33,29,31,29,30,Trouble making decisions,4
-21,Female,33,29,31,29,30,Physical appearance,5
-21,Female,33,29,31,29,30,Not seeing people,1
-21,Female,33,29,31,29,30,Not enough personal energy,3
-21,Female,33,29,31,29,30,Concerns about getting ahead,2
-21,Female,33,29,31,29,30,Fear of confrontation,1
-21,Female,33,29,31,29,30,Wasting time,4
+21,Female,39,33,31,31,26,Regrets over past decision/s,2
+21,Female,39,33,31,31,26,Concerned about the meaning of life,1
+21,Female,39,33,31,31,26,Being lonely,1
+21,Female,39,33,31,31,26,Inability to express oneself,1
+21,Female,39,33,31,31,26,Fear of rejection,2
+21,Female,39,33,31,31,26,Trouble making decisions,1
+21,Female,39,33,31,31,26,Physical appearance,2
+21,Female,39,33,31,31,26,Not seeing people,2
+21,Female,39,33,31,31,26,Not enough personal energy,1
+21,Female,39,33,31,31,26,Concerns about getting ahead,1
+21,Female,39,33,31,31,26,Fear of confrontation,1
+21,Female,39,33,31,31,26,Wasting time,2
+19,Female,39,17,22,25,36,Regrets over past decision/s,4
+19,Female,39,17,22,25,36,Concerned about the meaning of life,5
+19,Female,39,17,22,25,36,Being lonely,2
+19,Female,39,17,22,25,36,Inability to express oneself,4
+19,Female,39,17,22,25,36,Fear of rejection,5
+19,Female,39,17,22,25,36,Trouble making decisions,5
+19,Female,39,17,22,25,36,Physical appearance,5
+19,Female,39,17,22,25,36,Not seeing people,1
+19,Female,39,17,22,25,36,Not enough personal energy,2
+19,Female,39,17,22,25,36,Concerns about getting ahead,2
+19,Female,39,17,22,25,36,Fear of confrontation,5
+19,Female,39,17,22,25,36,Wasting time,2
+20,Female,38,26,29,24,19,Regrets over past decision/s,1
+20,Female,38,26,29,24,19,Concerned about the meaning of life,1
+20,Female,38,26,29,24,19,Being lonely,1
+20,Female,38,26,29,24,19,Inability to express oneself,1
+20,Female,38,26,29,24,19,Fear of rejection,1
+20,Female,38,26,29,24,19,Trouble making decisions,1
+20,Female,38,26,29,24,19,Physical appearance,2
+20,Female,38,26,29,24,19,Not seeing people,1
+20,Female,38,26,29,24,19,Not enough personal energy,1
+20,Female,38,26,29,24,19,Concerns about getting ahead,2
+20,Female,38,26,29,24,19,Fear of confrontation,1
+20,Female,38,26,29,24,19,Wasting time,1
+19,Female,35,24,23,31,29,Regrets over past decision/s,3
+19,Female,35,24,23,31,29,Concerned about the meaning of life,3
+19,Female,35,24,23,31,29,Being lonely,3
+19,Female,35,24,23,31,29,Inability to express oneself,3
+19,Female,35,24,23,31,29,Fear of rejection,4
+19,Female,35,24,23,31,29,Trouble making decisions,3
+19,Female,35,24,23,31,29,Physical appearance,4
+19,Female,35,24,23,31,29,Not seeing people,3
+19,Female,35,24,23,31,29,Not enough personal energy,3
+19,Female,35,24,23,31,29,Concerns about getting ahead,3
+19,Female,35,24,23,31,29,Fear of confrontation,3
+19,Female,35,24,23,31,29,Wasting time,3
+22,Male,33,23,37,27,27,Regrets over past decision/s,5
+22,Male,33,23,37,27,27,Concerned about the meaning of life,1
+22,Male,33,23,37,27,27,Being lonely,1
+22,Male,33,23,37,27,27,Inability to express oneself,1
+22,Male,33,23,37,27,27,Fear of rejection,1
+22,Male,33,23,37,27,27,Trouble making decisions,3
+22,Male,33,23,37,27,27,Physical appearance,2
+22,Male,33,23,37,27,27,Not seeing people,3
+22,Male,33,23,37,27,27,Not enough personal energy,1
+22,Male,33,23,37,27,27,Concerns about getting ahead,2
+22,Male,33,23,37,27,27,Fear of confrontation,1
+22,Male,33,23,37,27,27,Wasting time,5
+19,Male,34,33,24,32,23,Regrets over past decision/s,2
+19,Male,34,33,24,32,23,Concerned about the meaning of life,2
+19,Male,34,33,24,32,23,Being lonely,2
+19,Male,34,33,24,32,23,Inability to express oneself,2
+19,Male,34,33,24,32,23,Fear of rejection,4
+19,Male,34,33,24,32,23,Trouble making decisions,3
+19,Male,34,33,24,32,23,Physical appearance,3
+19,Male,34,33,24,32,23,Not seeing people,1
+19,Male,34,33,24,32,23,Not enough personal energy,1
+19,Male,34,33,24,32,23,Concerns about getting ahead,1
+19,Male,34,33,24,32,23,Fear of confrontation,5
+19,Male,34,33,24,32,23,Wasting time,2
+20,Female,33,32,22,29,31,Regrets over past decision/s,2
+20,Female,33,32,22,29,31,Concerned about the meaning of life,1
+20,Female,33,32,22,29,31,Being lonely,3
+20,Female,33,32,22,29,31,Inability to express oneself,2
+20,Female,33,32,22,29,31,Fear of rejection,2
+20,Female,33,32,22,29,31,Trouble making decisions,2
+20,Female,33,32,22,29,31,Physical appearance,2
+20,Female,33,32,22,29,31,Not seeing people,1
+20,Female,33,32,22,29,31,Not enough personal energy,1
+20,Female,33,32,22,29,31,Concerns about getting ahead,1
+20,Female,33,32,22,29,31,Fear of confrontation,1
+20,Female,33,32,22,29,31,Wasting time,4
+21,Male,43,37,29,27,30,Regrets over past decision/s,2
+21,Male,43,37,29,27,30,Concerned about the meaning of life,1
+21,Male,43,37,29,27,30,Being lonely,3
+21,Male,43,37,29,27,30,Inability to express oneself,3
+21,Male,43,37,29,27,30,Fear of rejection,5
+21,Male,43,37,29,27,30,Trouble making decisions,3
+21,Male,43,37,29,27,30,Physical appearance,3
+21,Male,43,37,29,27,30,Not seeing people,3
+21,Male,43,37,29,27,30,Not enough personal energy,2
+21,Male,43,37,29,27,30,Concerns about getting ahead,5
+21,Male,43,37,29,27,30,Fear of confrontation,1
+21,Male,43,37,29,27,30,Wasting time,2
+21,Female,34,31,20,28,26,Regrets over past decision/s,4
+21,Female,34,31,20,28,26,Concerned about the meaning of life,2
+21,Female,34,31,20,28,26,Being lonely,2
+21,Female,34,31,20,28,26,Inability to express oneself,3
+21,Female,34,31,20,28,26,Fear of rejection,3
+21,Female,34,31,20,28,26,Trouble making decisions,3
+21,Female,34,31,20,28,26,Physical appearance,3
+21,Female,34,31,20,28,26,Not seeing people,2
+21,Female,34,31,20,28,26,Not enough personal energy,3
+21,Female,34,31,20,28,26,Concerns about getting ahead,3
+21,Female,34,31,20,28,26,Fear of confrontation,4
+21,Female,34,31,20,28,26,Wasting time,3
+22,Female,33,37,21,35,24,Regrets over past decision/s,1
+22,Female,33,37,21,35,24,Concerned about the meaning of life,1
+22,Female,33,37,21,35,24,Being lonely,2
+22,Female,33,37,21,35,24,Inability to express oneself,2
+22,Female,33,37,21,35,24,Fear of rejection,3
+22,Female,33,37,21,35,24,Trouble making decisions,2
+22,Female,33,37,21,35,24,Physical appearance,2
+22,Female,33,37,21,35,24,Not seeing people,1
+22,Female,33,37,21,35,24,Not enough personal energy,3
+22,Female,33,37,21,35,24,Concerns about getting ahead,3
+22,Female,33,37,21,35,24,Fear of confrontation,3
+22,Female,33,37,21,35,24,Wasting time,2
 22,Female,32,42,25,37,18,Regrets over past decision/s,3
 22,Female,32,42,25,37,18,Concerned about the meaning of life,3
 22,Female,32,42,25,37,18,Being lonely,4
@@ -275,6 +167,42 @@ Age,Gender,O,C,E,A,N,Hassle,Severity
 22,Female,32,42,25,37,18,Concerns about getting ahead,4
 22,Female,32,42,25,37,18,Fear of confrontation,5
 22,Female,32,42,25,37,18,Wasting time,4
+21,Male,36,31,19,32,26,Regrets over past decision/s,1
+21,Male,36,31,19,32,26,Concerned about the meaning of life,4
+21,Male,36,31,19,32,26,Being lonely,3
+21,Male,36,31,19,32,26,Inability to express oneself,2
+21,Male,36,31,19,32,26,Fear of rejection,2
+21,Male,36,31,19,32,26,Trouble making decisions,3
+21,Male,36,31,19,32,26,Physical appearance,2
+21,Male,36,31,19,32,26,Not seeing people,2
+21,Male,36,31,19,32,26,Not enough personal energy,2
+21,Male,36,31,19,32,26,Concerns about getting ahead,2
+21,Male,36,31,19,32,26,Fear of confrontation,4
+21,Male,36,31,19,32,26,Wasting time,2
+20,Female,43,37,33,29,26,Regrets over past decision/s,1
+20,Female,43,37,33,29,26,Concerned about the meaning of life,2
+20,Female,43,37,33,29,26,Being lonely,2
+20,Female,43,37,33,29,26,Inability to express oneself,3
+20,Female,43,37,33,29,26,Fear of rejection,1
+20,Female,43,37,33,29,26,Trouble making decisions,2
+20,Female,43,37,33,29,26,Physical appearance,3
+20,Female,43,37,33,29,26,Not seeing people,1
+20,Female,43,37,33,29,26,Not enough personal energy,1
+20,Female,43,37,33,29,26,Concerns about getting ahead,2
+20,Female,43,37,33,29,26,Fear of confrontation,1
+20,Female,43,37,33,29,26,Wasting time,3
+20,Others,36,20,22,31,29,Regrets over past decision/s,5
+20,Others,36,20,22,31,29,Concerned about the meaning of life,5
+20,Others,36,20,22,31,29,Being lonely,5
+20,Others,36,20,22,31,29,Inability to express oneself,5
+20,Others,36,20,22,31,29,Fear of rejection,5
+20,Others,36,20,22,31,29,Trouble making decisions,2
+20,Others,36,20,22,31,29,Physical appearance,5
+20,Others,36,20,22,31,29,Not seeing people,4
+20,Others,36,20,22,31,29,Not enough personal energy,5
+20,Others,36,20,22,31,29,Concerns about getting ahead,5
+20,Others,36,20,22,31,29,Fear of confrontation,1
+20,Others,36,20,22,31,29,Wasting time,1
 21,Male,35,30,21,31,26,Regrets over past decision/s,4
 21,Male,35,30,21,31,26,Concerned about the meaning of life,3
 21,Male,35,30,21,31,26,Being lonely,4
@@ -287,51 +215,303 @@ Age,Gender,O,C,E,A,N,Hassle,Severity
 21,Male,35,30,21,31,26,Concerns about getting ahead,4
 21,Male,35,30,21,31,26,Fear of confrontation,3
 21,Male,35,30,21,31,26,Wasting time,3
-20,Genderfluid,39,31,28,28,27,Regrets over past decision/s,5
-20,Genderfluid,39,31,28,28,27,Concerned about the meaning of life,4
-20,Genderfluid,39,31,28,28,27,Being lonely,4
-20,Genderfluid,39,31,28,28,27,Inability to express oneself,4
-20,Genderfluid,39,31,28,28,27,Fear of rejection,1
-20,Genderfluid,39,31,28,28,27,Trouble making decisions,3
-20,Genderfluid,39,31,28,28,27,Physical appearance,2
-20,Genderfluid,39,31,28,28,27,Not seeing people,4
-20,Genderfluid,39,31,28,28,27,Not enough personal energy,4
-20,Genderfluid,39,31,28,28,27,Concerns about getting ahead,4
-20,Genderfluid,39,31,28,28,27,Fear of confrontation,5
-20,Genderfluid,39,31,28,28,27,Wasting time,5
-19,Female,31,32,25,29,29,Regrets over past decision/s,3
-19,Female,31,32,25,29,29,Concerned about the meaning of life,3
-19,Female,31,32,25,29,29,Being lonely,3
-19,Female,31,32,25,29,29,Inability to express oneself,3
-19,Female,31,32,25,29,29,Fear of rejection,4
-19,Female,31,32,25,29,29,Trouble making decisions,3
-19,Female,31,32,25,29,29,Physical appearance,4
-19,Female,31,32,25,29,29,Not seeing people,3
-19,Female,31,32,25,29,29,Not enough personal energy,3
-19,Female,31,32,25,29,29,Concerns about getting ahead,3
-19,Female,31,32,25,29,29,Fear of confrontation,3
-19,Female,31,32,25,29,29,Wasting time,3
-19,Female,37,32,31,31,31,Regrets over past decision/s,4
-19,Female,37,32,31,31,31,Concerned about the meaning of life,4
-19,Female,37,32,31,31,31,Being lonely,5
-19,Female,37,32,31,31,31,Inability to express oneself,1
-19,Female,37,32,31,31,31,Fear of rejection,2
-19,Female,37,32,31,31,31,Trouble making decisions,4
-19,Female,37,32,31,31,31,Physical appearance,3
-19,Female,37,32,31,31,31,Not seeing people,1
-19,Female,37,32,31,31,31,Not enough personal energy,1
-19,Female,37,32,31,31,31,Concerns about getting ahead,1
-19,Female,37,32,31,31,31,Fear of confrontation,4
-19,Female,37,32,31,31,31,Wasting time,4
-19,Female,36,33,28,28,23,Regrets over past decision/s,2
-19,Female,36,33,28,28,23,Concerned about the meaning of life,2
-19,Female,36,33,28,28,23,Being lonely,1
-19,Female,36,33,28,28,23,Inability to express oneself,1
-19,Female,36,33,28,28,23,Fear of rejection,2
-19,Female,36,33,28,28,23,Trouble making decisions,1
-19,Female,36,33,28,28,23,Physical appearance,2
-19,Female,36,33,28,28,23,Not seeing people,1
-19,Female,36,33,28,28,23,Not enough personal energy,2
-19,Female,36,33,28,28,23,Concerns about getting ahead,1
-19,Female,36,33,28,28,23,Fear of confrontation,1
-19,Female,36,33,28,28,23,Wasting time,3
+21,Male,38,25,24,36,19,Regrets over past decision/s,1
+21,Male,38,25,24,36,19,Concerned about the meaning of life,1
+21,Male,38,25,24,36,19,Being lonely,1
+21,Male,38,25,24,36,19,Inability to express oneself,1
+21,Male,38,25,24,36,19,Fear of rejection,1
+21,Male,38,25,24,36,19,Trouble making decisions,1
+21,Male,38,25,24,36,19,Physical appearance,2
+21,Male,38,25,24,36,19,Not seeing people,1
+21,Male,38,25,24,36,19,Not enough personal energy,2
+21,Male,38,25,24,36,19,Concerns about getting ahead,2
+21,Male,38,25,24,36,19,Fear of confrontation,1
+21,Male,38,25,24,36,19,Wasting time,1
+19,Female,43,24,30,35,25,Regrets over past decision/s,5
+19,Female,43,24,30,35,25,Concerned about the meaning of life,5
+19,Female,43,24,30,35,25,Being lonely,3
+19,Female,43,24,30,35,25,Inability to express oneself,2
+19,Female,43,24,30,35,25,Fear of rejection,5
+19,Female,43,24,30,35,25,Trouble making decisions,4
+19,Female,43,24,30,35,25,Physical appearance,5
+19,Female,43,24,30,35,25,Not seeing people,1
+19,Female,43,24,30,35,25,Not enough personal energy,3
+19,Female,43,24,30,35,25,Concerns about getting ahead,2
+19,Female,43,24,30,35,25,Fear of confrontation,3
+19,Female,43,24,30,35,25,Wasting time,4
+19,Female,44,29,20,31,24,Regrets over past decision/s,5
+19,Female,44,29,20,31,24,Concerned about the meaning of life,5
+19,Female,44,29,20,31,24,Being lonely,4
+19,Female,44,29,20,31,24,Inability to express oneself,2
+19,Female,44,29,20,31,24,Fear of rejection,5
+19,Female,44,29,20,31,24,Trouble making decisions,3
+19,Female,44,29,20,31,24,Physical appearance,3
+19,Female,44,29,20,31,24,Not seeing people,3
+19,Female,44,29,20,31,24,Not enough personal energy,2
+19,Female,44,29,20,31,24,Concerns about getting ahead,4
+19,Female,44,29,20,31,24,Fear of confrontation,5
+19,Female,44,29,20,31,24,Wasting time,5
+19,Female,33,24,16,35,28,Regrets over past decision/s,3
+19,Female,33,24,16,35,28,Concerned about the meaning of life,2
+19,Female,33,24,16,35,28,Being lonely,2
+19,Female,33,24,16,35,28,Inability to express oneself,3
+19,Female,33,24,16,35,28,Fear of rejection,3
+19,Female,33,24,16,35,28,Trouble making decisions,4
+19,Female,33,24,16,35,28,Physical appearance,4
+19,Female,33,24,16,35,28,Not seeing people,1
+19,Female,33,24,16,35,28,Not enough personal energy,2
+19,Female,33,24,16,35,28,Concerns about getting ahead,3
+19,Female,33,24,16,35,28,Fear of confrontation,3
+19,Female,33,24,16,35,28,Wasting time,1
+19,Female,40,39,28,30,17,Regrets over past decision/s,2
+19,Female,40,39,28,30,17,Concerned about the meaning of life,2
+19,Female,40,39,28,30,17,Being lonely,1
+19,Female,40,39,28,30,17,Inability to express oneself,1
+19,Female,40,39,28,30,17,Fear of rejection,2
+19,Female,40,39,28,30,17,Trouble making decisions,1
+19,Female,40,39,28,30,17,Physical appearance,2
+19,Female,40,39,28,30,17,Not seeing people,1
+19,Female,40,39,28,30,17,Not enough personal energy,2
+19,Female,40,39,28,30,17,Concerns about getting ahead,1
+19,Female,40,39,28,30,17,Fear of confrontation,1
+19,Female,40,39,28,30,17,Wasting time,3
+19,Female,36,23,32,25,26,Regrets over past decision/s,4
+19,Female,36,23,32,25,26,Concerned about the meaning of life,3
+19,Female,36,23,32,25,26,Being lonely,3
+19,Female,36,23,32,25,26,Inability to express oneself,3
+19,Female,36,23,32,25,26,Fear of rejection,4
+19,Female,36,23,32,25,26,Trouble making decisions,4
+19,Female,36,23,32,25,26,Physical appearance,4
+19,Female,36,23,32,25,26,Not seeing people,3
+19,Female,36,23,32,25,26,Not enough personal energy,3
+19,Female,36,23,32,25,26,Concerns about getting ahead,3
+19,Female,36,23,32,25,26,Fear of confrontation,2
+19,Female,36,23,32,25,26,Wasting time,3
+21,Female,40,27,20,18,27,Regrets over past decision/s,2
+21,Female,40,27,20,18,27,Concerned about the meaning of life,1
+21,Female,40,27,20,18,27,Being lonely,2
+21,Female,40,27,20,18,27,Inability to express oneself,1
+21,Female,40,27,20,18,27,Fear of rejection,2
+21,Female,40,27,20,18,27,Trouble making decisions,3
+21,Female,40,27,20,18,27,Physical appearance,3
+21,Female,40,27,20,18,27,Not seeing people,2
+21,Female,40,27,20,18,27,Not enough personal energy,1
+21,Female,40,27,20,18,27,Concerns about getting ahead,3
+21,Female,40,27,20,18,27,Fear of confrontation,1
+21,Female,40,27,20,18,27,Wasting time,1
+22,Male,32,31,27,35,23,Regrets over past decision/s,3
+22,Male,32,31,27,35,23,Concerned about the meaning of life,4
+22,Male,32,31,27,35,23,Being lonely,1
+22,Male,32,31,27,35,23,Inability to express oneself,2
+22,Male,32,31,27,35,23,Fear of rejection,2
+22,Male,32,31,27,35,23,Trouble making decisions,1
+22,Male,32,31,27,35,23,Physical appearance,3
+22,Male,32,31,27,35,23,Not seeing people,1
+22,Male,32,31,27,35,23,Not enough personal energy,1
+22,Male,32,31,27,35,23,Concerns about getting ahead,2
+22,Male,32,31,27,35,23,Fear of confrontation,2
+22,Male,32,31,27,35,23,Wasting time,1
+19,Female,30,21,19,32,24,Regrets over past decision/s,4
+19,Female,30,21,19,32,24,Concerned about the meaning of life,2
+19,Female,30,21,19,32,24,Being lonely,2
+19,Female,30,21,19,32,24,Inability to express oneself,2
+19,Female,30,21,19,32,24,Fear of rejection,5
+19,Female,30,21,19,32,24,Trouble making decisions,4
+19,Female,30,21,19,32,24,Physical appearance,4
+19,Female,30,21,19,32,24,Not seeing people,2
+19,Female,30,21,19,32,24,Not enough personal energy,3
+19,Female,30,21,19,32,24,Concerns about getting ahead,3
+19,Female,30,21,19,32,24,Fear of confrontation,3
+19,Female,30,21,19,32,24,Wasting time,2
+21,Female,39,30,34,39,19,Regrets over past decision/s,3
+21,Female,39,30,34,39,19,Concerned about the meaning of life,1
+21,Female,39,30,34,39,19,Being lonely,1
+21,Female,39,30,34,39,19,Inability to express oneself,1
+21,Female,39,30,34,39,19,Fear of rejection,2
+21,Female,39,30,34,39,19,Trouble making decisions,4
+21,Female,39,30,34,39,19,Physical appearance,3
+21,Female,39,30,34,39,19,Not seeing people,1
+21,Female,39,30,34,39,19,Not enough personal energy,1
+21,Female,39,30,34,39,19,Concerns about getting ahead,1
+21,Female,39,30,34,39,19,Fear of confrontation,3
+21,Female,39,30,34,39,19,Wasting time,3
+19,Others,38,20,19,28,31,Regrets over past decision/s,4
+19,Others,38,20,19,28,31,Concerned about the meaning of life,3
+19,Others,38,20,19,28,31,Being lonely,3
+19,Others,38,20,19,28,31,Inability to express oneself,3
+19,Others,38,20,19,28,31,Fear of rejection,5
+19,Others,38,20,19,28,31,Trouble making decisions,3
+19,Others,38,20,19,28,31,Physical appearance,4
+19,Others,38,20,19,28,31,Not seeing people,2
+19,Others,38,20,19,28,31,Not enough personal energy,5
+19,Others,38,20,19,28,31,Concerns about getting ahead,3
+19,Others,38,20,19,28,31,Fear of confrontation,4
+19,Others,38,20,19,28,31,Wasting time,4
+19,Female,44,30,20,25,37,Regrets over past decision/s,5
+19,Female,44,30,20,25,37,Concerned about the meaning of life,5
+19,Female,44,30,20,25,37,Being lonely,5
+19,Female,44,30,20,25,37,Inability to express oneself,5
+19,Female,44,30,20,25,37,Fear of rejection,5
+19,Female,44,30,20,25,37,Trouble making decisions,5
+19,Female,44,30,20,25,37,Physical appearance,5
+19,Female,44,30,20,25,37,Not seeing people,2
+19,Female,44,30,20,25,37,Not enough personal energy,5
+19,Female,44,30,20,25,37,Concerns about getting ahead,5
+19,Female,44,30,20,25,37,Fear of confrontation,5
+19,Female,44,30,20,25,37,Wasting time,4
+21,Female,33,29,31,29,30,Regrets over past decision/s,5
+21,Female,33,29,31,29,30,Concerned about the meaning of life,1
+21,Female,33,29,31,29,30,Being lonely,5
+21,Female,33,29,31,29,30,Inability to express oneself,4
+21,Female,33,29,31,29,30,Fear of rejection,1
+21,Female,33,29,31,29,30,Trouble making decisions,4
+21,Female,33,29,31,29,30,Physical appearance,5
+21,Female,33,29,31,29,30,Not seeing people,1
+21,Female,33,29,31,29,30,Not enough personal energy,3
+21,Female,33,29,31,29,30,Concerns about getting ahead,2
+21,Female,33,29,31,29,30,Fear of confrontation,1
+21,Female,33,29,31,29,30,Wasting time,4
+21,Male,34,28,16,23,33,Regrets over past decision/s,5
+21,Male,34,28,16,23,33,Concerned about the meaning of life,4
+21,Male,34,28,16,23,33,Being lonely,3
+21,Male,34,28,16,23,33,Inability to express oneself,3
+21,Male,34,28,16,23,33,Fear of rejection,5
+21,Male,34,28,16,23,33,Trouble making decisions,4
+21,Male,34,28,16,23,33,Physical appearance,3
+21,Male,34,28,16,23,33,Not seeing people,2
+21,Male,34,28,16,23,33,Not enough personal energy,2
+21,Male,34,28,16,23,33,Concerns about getting ahead,1
+21,Male,34,28,16,23,33,Fear of confrontation,5
+21,Male,34,28,16,23,33,Wasting time,2
+18,Female,43,39,21,31,25,Regrets over past decision/s,3
+18,Female,43,39,21,31,25,Concerned about the meaning of life,5
+18,Female,43,39,21,31,25,Being lonely,2
+18,Female,43,39,21,31,25,Inability to express oneself,3
+18,Female,43,39,21,31,25,Fear of rejection,4
+18,Female,43,39,21,31,25,Trouble making decisions,3
+18,Female,43,39,21,31,25,Physical appearance,3
+18,Female,43,39,21,31,25,Not seeing people,2
+18,Female,43,39,21,31,25,Not enough personal energy,3
+18,Female,43,39,21,31,25,Concerns about getting ahead,3
+18,Female,43,39,21,31,25,Fear of confrontation,1
+18,Female,43,39,21,31,25,Wasting time,5
+21,Male,38,29,22,27,27,Regrets over past decision/s,3
+21,Male,38,29,22,27,27,Concerned about the meaning of life,3
+21,Male,38,29,22,27,27,Being lonely,4
+21,Male,38,29,22,27,27,Inability to express oneself,2
+21,Male,38,29,22,27,27,Fear of rejection,2
+21,Male,38,29,22,27,27,Trouble making decisions,3
+21,Male,38,29,22,27,27,Physical appearance,4
+21,Male,38,29,22,27,27,Not seeing people,4
+21,Male,38,29,22,27,27,Not enough personal energy,2
+21,Male,38,29,22,27,27,Concerns about getting ahead,3
+21,Male,38,29,22,27,27,Fear of confrontation,3
+21,Male,38,29,22,27,27,Wasting time,3
+20,Male,48,27,23,33,28,Regrets over past decision/s,4
+20,Male,48,27,23,33,28,Concerned about the meaning of life,5
+20,Male,48,27,23,33,28,Being lonely,5
+20,Male,48,27,23,33,28,Inability to express oneself,4
+20,Male,48,27,23,33,28,Fear of rejection,4
+20,Male,48,27,23,33,28,Trouble making decisions,5
+20,Male,48,27,23,33,28,Physical appearance,3
+20,Male,48,27,23,33,28,Not seeing people,3
+20,Male,48,27,23,33,28,Not enough personal energy,4
+20,Male,48,27,23,33,28,Concerns about getting ahead,4
+20,Male,48,27,23,33,28,Fear of confrontation,3
+20,Male,48,27,23,33,28,Wasting time,5
+21,Male,36,27,18,31,32,Regrets over past decision/s,5
+21,Male,36,27,18,31,32,Concerned about the meaning of life,3
+21,Male,36,27,18,31,32,Being lonely,3
+21,Male,36,27,18,31,32,Inability to express oneself,4
+21,Male,36,27,18,31,32,Fear of rejection,3
+21,Male,36,27,18,31,32,Trouble making decisions,3
+21,Male,36,27,18,31,32,Physical appearance,3
+21,Male,36,27,18,31,32,Not seeing people,3
+21,Male,36,27,18,31,32,Not enough personal energy,2
+21,Male,36,27,18,31,32,Concerns about getting ahead,4
+21,Male,36,27,18,31,32,Fear of confrontation,3
+21,Male,36,27,18,31,32,Wasting time,5
+21,Male,33,25,20,28,19,Regrets over past decision/s,3
+21,Male,33,25,20,28,19,Concerned about the meaning of life,2
+21,Male,33,25,20,28,19,Being lonely,1
+21,Male,33,25,20,28,19,Inability to express oneself,2
+21,Male,33,25,20,28,19,Fear of rejection,2
+21,Male,33,25,20,28,19,Trouble making decisions,2
+21,Male,33,25,20,28,19,Physical appearance,1
+21,Male,33,25,20,28,19,Not seeing people,1
+21,Male,33,25,20,28,19,Not enough personal energy,1
+21,Male,33,25,20,28,19,Concerns about getting ahead,1
+21,Male,33,25,20,28,19,Fear of confrontation,2
+21,Male,33,25,20,28,19,Wasting time,2
+20,Female,40,26,23,25,28,Regrets over past decision/s,5
+20,Female,40,26,23,25,28,Concerned about the meaning of life,3
+20,Female,40,26,23,25,28,Being lonely,2
+20,Female,40,26,23,25,28,Inability to express oneself,5
+20,Female,40,26,23,25,28,Fear of rejection,5
+20,Female,40,26,23,25,28,Trouble making decisions,4
+20,Female,40,26,23,25,28,Physical appearance,3
+20,Female,40,26,23,25,28,Not seeing people,2
+20,Female,40,26,23,25,28,Not enough personal energy,3
+20,Female,40,26,23,25,28,Concerns about getting ahead,5
+20,Female,40,26,23,25,28,Fear of confrontation,2
+20,Female,40,26,23,25,28,Wasting time,2
+22,Male,33,33,26,37,17,Regrets over past decision/s,3
+22,Male,33,33,26,37,17,Concerned about the meaning of life,2
+22,Male,33,33,26,37,17,Being lonely,1
+22,Male,33,33,26,37,17,Inability to express oneself,1
+22,Male,33,33,26,37,17,Fear of rejection,3
+22,Male,33,33,26,37,17,Trouble making decisions,2
+22,Male,33,33,26,37,17,Physical appearance,3
+22,Male,33,33,26,37,17,Not seeing people,2
+22,Male,33,33,26,37,17,Not enough personal energy,2
+22,Male,33,33,26,37,17,Concerns about getting ahead,2
+22,Male,33,33,26,37,17,Fear of confrontation,2
+22,Male,33,33,26,37,17,Wasting time,3
+21,Female,42,28,20,39,19,Regrets over past decision/s,1
+21,Female,42,28,20,39,19,Concerned about the meaning of life,2
+21,Female,42,28,20,39,19,Being lonely,2
+21,Female,42,28,20,39,19,Inability to express oneself,2
+21,Female,42,28,20,39,19,Fear of rejection,2
+21,Female,42,28,20,39,19,Trouble making decisions,3
+21,Female,42,28,20,39,19,Physical appearance,1
+21,Female,42,28,20,39,19,Not seeing people,2
+21,Female,42,28,20,39,19,Not enough personal energy,3
+21,Female,42,28,20,39,19,Concerns about getting ahead,3
+21,Female,42,28,20,39,19,Fear of confrontation,3
+21,Female,42,28,20,39,19,Wasting time,4
+19,Female,39,36,23,27,29,Regrets over past decision/s,4
+19,Female,39,36,23,27,29,Concerned about the meaning of life,4
+19,Female,39,36,23,27,29,Being lonely,5
+19,Female,39,36,23,27,29,Inability to express oneself,1
+19,Female,39,36,23,27,29,Fear of rejection,2
+19,Female,39,36,23,27,29,Trouble making decisions,4
+19,Female,39,36,23,27,29,Physical appearance,3
+19,Female,39,36,23,27,29,Not seeing people,1
+19,Female,39,36,23,27,29,Not enough personal energy,1
+19,Female,39,36,23,27,29,Concerns about getting ahead,1
+19,Female,39,36,23,27,29,Fear of confrontation,4
+19,Female,39,36,23,27,29,Wasting time,4
+21,Male,38,18,18,29,20,Regrets over past decision/s,3
+21,Male,38,18,18,29,20,Concerned about the meaning of life,2
+21,Male,38,18,18,29,20,Being lonely,4
+21,Male,38,18,18,29,20,Inability to express oneself,4
+21,Male,38,18,18,29,20,Fear of rejection,3
+21,Male,38,18,18,29,20,Trouble making decisions,5
+21,Male,38,18,18,29,20,Physical appearance,3
+21,Male,38,18,18,29,20,Not seeing people,4
+21,Male,38,18,18,29,20,Not enough personal energy,3
+21,Male,38,18,18,29,20,Concerns about getting ahead,2
+21,Male,38,18,18,29,20,Fear of confrontation,2
+21,Male,38,18,18,29,20,Wasting time,3
+19,Female,38,27,19,30,31,Regrets over past decision/s,4
+19,Female,38,27,19,30,31,Concerned about the meaning of life,4
+19,Female,38,27,19,30,31,Being lonely,4
+19,Female,38,27,19,30,31,Inability to express oneself,4
+19,Female,38,27,19,30,31,Fear of rejection,5
+19,Female,38,27,19,30,31,Trouble making decisions,4
+19,Female,38,27,19,30,31,Physical appearance,3
+19,Female,38,27,19,30,31,Not seeing people,3
+19,Female,38,27,19,30,31,Not enough personal energy,4
+19,Female,38,27,19,30,31,Concerns about getting ahead,4
+19,Female,38,27,19,30,31,Fear of confrontation,4
+19,Female,38,27,19,30,31,Wasting time,4

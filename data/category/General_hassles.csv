@@ -1,113 +1,173 @@
 Age,Gender,O,C,E,A,N,Hassle,Severity
-21,Male,31,27,17,33,24,Misplacing or losing things,2
-21,Male,31,27,17,33,24,Silly practical mistakes,1
-21,Male,31,27,17,33,24,Trouble with pets,3
-21,Male,31,27,17,33,24,Difficulties with friends,4
-21,Female,40,27,20,18,27,Misplacing or losing things,3
-21,Female,40,27,20,18,27,Silly practical mistakes,2
-21,Female,40,27,20,18,27,Trouble with pets,1
-21,Female,40,27,20,18,27,Difficulties with friends,2
-19,Female,30,21,19,32,24,Misplacing or losing things,3
-19,Female,30,21,19,32,24,Silly practical mistakes,3
-19,Female,30,21,19,32,24,Trouble with pets,3
-19,Female,30,21,19,32,24,Difficulties with friends,4
-20,Female,34,25,13,26,26,Misplacing or losing things,2
-20,Female,34,25,13,26,26,Silly practical mistakes,1
-20,Female,34,25,13,26,26,Trouble with pets,1
-20,Female,34,25,13,26,26,Difficulties with friends,4
-22,Female,31,29,30,34,25,Misplacing or losing things,4
-22,Female,31,29,30,34,25,Silly practical mistakes,3
-22,Female,31,29,30,34,25,Trouble with pets,4
-22,Female,31,29,30,34,25,Difficulties with friends,5
-21,Female,39,33,31,31,26,Misplacing or losing things,2
-21,Female,39,33,31,31,26,Silly practical mistakes,2
-21,Female,39,33,31,31,26,Trouble with pets,1
-21,Female,39,33,31,31,26,Difficulties with friends,1
-20,Female,40,26,23,25,28,Misplacing or losing things,1
-20,Female,40,26,23,25,28,Silly practical mistakes,2
-20,Female,40,26,23,25,28,Trouble with pets,5
-20,Female,40,26,23,25,28,Difficulties with friends,3
-21,Female,34,31,20,28,26,Misplacing or losing things,2
-21,Female,34,31,20,28,26,Silly practical mistakes,3
-21,Female,34,31,20,28,26,Trouble with pets,3
-21,Female,34,31,20,28,26,Difficulties with friends,3
-18,Female,43,39,21,31,25,Misplacing or losing things,2
-18,Female,43,39,21,31,25,Silly practical mistakes,2
-18,Female,43,39,21,31,25,Trouble with pets,1
-18,Female,43,39,21,31,25,Difficulties with friends,1
-21,Male,38,25,24,36,19,Misplacing or losing things,1
-21,Male,38,25,24,36,19,Silly practical mistakes,1
-21,Male,38,25,24,36,19,Trouble with pets,1
-21,Male,38,25,24,36,19,Difficulties with friends,2
-22,Male,31,26,21,26,30,Misplacing or losing things,3
-22,Male,31,26,21,26,30,Silly practical mistakes,2
-22,Male,31,26,21,26,30,Trouble with pets,1
-22,Male,31,26,21,26,30,Difficulties with friends,2
-21,Female,28,32,28,34,20,Misplacing or losing things,2
-21,Female,28,32,28,34,20,Silly practical mistakes,2
-21,Female,28,32,28,34,20,Trouble with pets,1
-21,Female,28,32,28,34,20,Difficulties with friends,3
-21,Female,42,28,20,39,19,Misplacing or losing things,3
-21,Female,42,28,20,39,19,Silly practical mistakes,3
-21,Female,42,28,20,39,19,Trouble with pets,1
-21,Female,42,28,20,39,19,Difficulties with friends,2
-21,Male,43,37,29,27,30,Misplacing or losing things,3
-21,Male,43,37,29,27,30,Silly practical mistakes,1
-21,Male,43,37,29,27,30,Trouble with pets,3
-21,Male,43,37,29,27,30,Difficulties with friends,5
-22,Female,33,37,21,35,24,Misplacing or losing things,3
-22,Female,33,37,21,35,24,Silly practical mistakes,2
-22,Female,33,37,21,35,24,Trouble with pets,2
-22,Female,33,37,21,35,24,Difficulties with friends,3
+20,Female,44,42,33,37,22,Misplacing or losing things,1
+20,Female,44,42,33,37,22,Silly practical mistakes,1
+20,Female,44,42,33,37,22,Trouble with pets,2
+20,Female,44,42,33,37,22,Difficulties with friends,1
+20,Male,34,30,23,28,30,Misplacing or losing things,3
+20,Male,34,30,23,28,30,Silly practical mistakes,3
+20,Male,34,30,23,28,30,Trouble with pets,1
+20,Male,34,30,23,28,30,Difficulties with friends,1
 21,Female,39,31,22,30,32,Misplacing or losing things,5
 21,Female,39,31,22,30,32,Silly practical mistakes,4
 21,Female,39,31,22,30,32,Trouble with pets,5
 21,Female,39,31,22,30,32,Difficulties with friends,5
-20,Male,48,27,23,33,28,Misplacing or losing things,5
-20,Male,48,27,23,33,28,Silly practical mistakes,4
-20,Male,48,27,23,33,28,Trouble with pets,3
-20,Male,48,27,23,33,28,Difficulties with friends,3
-19,Female,38,32,30,33,25,Misplacing or losing things,4
-19,Female,38,32,30,33,25,Silly practical mistakes,3
-19,Female,38,32,30,33,25,Trouble with pets,3
-19,Female,38,32,30,33,25,Difficulties with friends,2
-21,Male,33,25,20,28,19,Misplacing or losing things,1
-21,Male,33,25,20,28,19,Silly practical mistakes,2
-21,Male,33,25,20,28,19,Trouble with pets,1
-21,Male,33,25,20,28,19,Difficulties with friends,3
-22,Male,32,31,27,35,23,Misplacing or losing things,2
-22,Male,32,31,27,35,23,Silly practical mistakes,1
-22,Male,32,31,27,35,23,Trouble with pets,1
-22,Male,32,31,27,35,23,Difficulties with friends,1
-21,Male,38,29,22,27,27,Misplacing or losing things,2
-21,Male,38,29,22,27,27,Silly practical mistakes,2
-21,Male,38,29,22,27,27,Trouble with pets,1
-21,Male,38,29,22,27,27,Difficulties with friends,2
-21,Female,33,29,31,29,30,Misplacing or losing things,3
-21,Female,33,29,31,29,30,Silly practical mistakes,3
-21,Female,33,29,31,29,30,Trouble with pets,1
-21,Female,33,29,31,29,30,Difficulties with friends,4
+21,Female,39,33,31,31,26,Misplacing or losing things,2
+21,Female,39,33,31,31,26,Silly practical mistakes,2
+21,Female,39,33,31,31,26,Trouble with pets,1
+21,Female,39,33,31,31,26,Difficulties with friends,1
+19,Female,39,17,22,25,36,Misplacing or losing things,5
+19,Female,39,17,22,25,36,Silly practical mistakes,3
+19,Female,39,17,22,25,36,Trouble with pets,2
+19,Female,39,17,22,25,36,Difficulties with friends,5
+20,Female,38,26,29,24,19,Misplacing or losing things,1
+20,Female,38,26,29,24,19,Silly practical mistakes,2
+20,Female,38,26,29,24,19,Trouble with pets,1
+20,Female,38,26,29,24,19,Difficulties with friends,1
+19,Female,35,24,23,31,29,Misplacing or losing things,2
+19,Female,35,24,23,31,29,Silly practical mistakes,2
+19,Female,35,24,23,31,29,Trouble with pets,1
+19,Female,35,24,23,31,29,Difficulties with friends,2
+22,Male,33,23,37,27,27,Misplacing or losing things,3
+22,Male,33,23,37,27,27,Silly practical mistakes,4
+22,Male,33,23,37,27,27,Trouble with pets,1
+22,Male,33,23,37,27,27,Difficulties with friends,1
+19,Male,34,33,24,32,23,Misplacing or losing things,3
+19,Male,34,33,24,32,23,Silly practical mistakes,1
+19,Male,34,33,24,32,23,Trouble with pets,2
+19,Male,34,33,24,32,23,Difficulties with friends,4
+20,Female,33,32,22,29,31,Misplacing or losing things,1
+20,Female,33,32,22,29,31,Silly practical mistakes,2
+20,Female,33,32,22,29,31,Trouble with pets,3
+20,Female,33,32,22,29,31,Difficulties with friends,3
+21,Male,43,37,29,27,30,Misplacing or losing things,3
+21,Male,43,37,29,27,30,Silly practical mistakes,1
+21,Male,43,37,29,27,30,Trouble with pets,3
+21,Male,43,37,29,27,30,Difficulties with friends,5
+21,Female,34,31,20,28,26,Misplacing or losing things,2
+21,Female,34,31,20,28,26,Silly practical mistakes,3
+21,Female,34,31,20,28,26,Trouble with pets,3
+21,Female,34,31,20,28,26,Difficulties with friends,3
+22,Female,33,37,21,35,24,Misplacing or losing things,3
+22,Female,33,37,21,35,24,Silly practical mistakes,2
+22,Female,33,37,21,35,24,Trouble with pets,2
+22,Female,33,37,21,35,24,Difficulties with friends,3
 22,Female,32,42,25,37,18,Misplacing or losing things,5
 22,Female,32,42,25,37,18,Silly practical mistakes,2
 22,Female,32,42,25,37,18,Trouble with pets,1
 22,Female,32,42,25,37,18,Difficulties with friends,4
+21,Male,36,31,19,32,26,Misplacing or losing things,3
+21,Male,36,31,19,32,26,Silly practical mistakes,1
+21,Male,36,31,19,32,26,Trouble with pets,2
+21,Male,36,31,19,32,26,Difficulties with friends,4
+20,Female,43,37,33,29,26,Misplacing or losing things,1
+20,Female,43,37,33,29,26,Silly practical mistakes,1
+20,Female,43,37,33,29,26,Trouble with pets,1
+20,Female,43,37,33,29,26,Difficulties with friends,1
+20,Others,36,20,22,31,29,Misplacing or losing things,3
+20,Others,36,20,22,31,29,Silly practical mistakes,3
+20,Others,36,20,22,31,29,Trouble with pets,1
+20,Others,36,20,22,31,29,Difficulties with friends,2
 21,Male,35,30,21,31,26,Misplacing or losing things,4
 21,Male,35,30,21,31,26,Silly practical mistakes,2
 21,Male,35,30,21,31,26,Trouble with pets,2
 21,Male,35,30,21,31,26,Difficulties with friends,3
-20,Genderfluid,39,31,28,28,27,Misplacing or losing things,5
-20,Genderfluid,39,31,28,28,27,Silly practical mistakes,3
-20,Genderfluid,39,31,28,28,27,Trouble with pets,3
-20,Genderfluid,39,31,28,28,27,Difficulties with friends,2
-19,Female,31,32,25,29,29,Misplacing or losing things,2
-19,Female,31,32,25,29,29,Silly practical mistakes,2
-19,Female,31,32,25,29,29,Trouble with pets,1
-19,Female,31,32,25,29,29,Difficulties with friends,2
-19,Female,37,32,31,31,31,Misplacing or losing things,5
-19,Female,37,32,31,31,31,Silly practical mistakes,4
-19,Female,37,32,31,31,31,Trouble with pets,3
-19,Female,37,32,31,31,31,Difficulties with friends,4
-19,Female,36,33,28,28,23,Misplacing or losing things,2
-19,Female,36,33,28,28,23,Silly practical mistakes,2
-19,Female,36,33,28,28,23,Trouble with pets,1
-19,Female,36,33,28,28,23,Difficulties with friends,1
+21,Male,38,25,24,36,19,Misplacing or losing things,1
+21,Male,38,25,24,36,19,Silly practical mistakes,1
+21,Male,38,25,24,36,19,Trouble with pets,1
+21,Male,38,25,24,36,19,Difficulties with friends,2
+19,Female,43,24,30,35,25,Misplacing or losing things,4
+19,Female,43,24,30,35,25,Silly practical mistakes,2
+19,Female,43,24,30,35,25,Trouble with pets,5
+19,Female,43,24,30,35,25,Difficulties with friends,1
+19,Female,44,29,20,31,24,Misplacing or losing things,4
+19,Female,44,29,20,31,24,Silly practical mistakes,3
+19,Female,44,29,20,31,24,Trouble with pets,1
+19,Female,44,29,20,31,24,Difficulties with friends,3
+19,Female,33,24,16,35,28,Misplacing or losing things,3
+19,Female,33,24,16,35,28,Silly practical mistakes,3
+19,Female,33,24,16,35,28,Trouble with pets,1
+19,Female,33,24,16,35,28,Difficulties with friends,1
+19,Female,40,39,28,30,17,Misplacing or losing things,2
+19,Female,40,39,28,30,17,Silly practical mistakes,2
+19,Female,40,39,28,30,17,Trouble with pets,1
+19,Female,40,39,28,30,17,Difficulties with friends,1
+19,Female,36,23,32,25,26,Misplacing or losing things,4
+19,Female,36,23,32,25,26,Silly practical mistakes,4
+19,Female,36,23,32,25,26,Trouble with pets,2
+19,Female,36,23,32,25,26,Difficulties with friends,2
+21,Female,40,27,20,18,27,Misplacing or losing things,3
+21,Female,40,27,20,18,27,Silly practical mistakes,2
+21,Female,40,27,20,18,27,Trouble with pets,1
+21,Female,40,27,20,18,27,Difficulties with friends,2
+22,Male,32,31,27,35,23,Misplacing or losing things,2
+22,Male,32,31,27,35,23,Silly practical mistakes,1
+22,Male,32,31,27,35,23,Trouble with pets,1
+22,Male,32,31,27,35,23,Difficulties with friends,1
+19,Female,30,21,19,32,24,Misplacing or losing things,3
+19,Female,30,21,19,32,24,Silly practical mistakes,3
+19,Female,30,21,19,32,24,Trouble with pets,3
+19,Female,30,21,19,32,24,Difficulties with friends,4
+21,Female,39,30,34,39,19,Misplacing or losing things,4
+21,Female,39,30,34,39,19,Silly practical mistakes,1
+21,Female,39,30,34,39,19,Trouble with pets,1
+21,Female,39,30,34,39,19,Difficulties with friends,5
+19,Others,38,20,19,28,31,Misplacing or losing things,3
+19,Others,38,20,19,28,31,Silly practical mistakes,3
+19,Others,38,20,19,28,31,Trouble with pets,2
+19,Others,38,20,19,28,31,Difficulties with friends,2
+19,Female,44,30,20,25,37,Misplacing or losing things,4
+19,Female,44,30,20,25,37,Silly practical mistakes,3
+19,Female,44,30,20,25,37,Trouble with pets,2
+19,Female,44,30,20,25,37,Difficulties with friends,2
+21,Female,33,29,31,29,30,Misplacing or losing things,3
+21,Female,33,29,31,29,30,Silly practical mistakes,3
+21,Female,33,29,31,29,30,Trouble with pets,1
+21,Female,33,29,31,29,30,Difficulties with friends,4
+21,Male,34,28,16,23,33,Misplacing or losing things,5
+21,Male,34,28,16,23,33,Silly practical mistakes,3
+21,Male,34,28,16,23,33,Trouble with pets,2
+21,Male,34,28,16,23,33,Difficulties with friends,3
+18,Female,43,39,21,31,25,Misplacing or losing things,2
+18,Female,43,39,21,31,25,Silly practical mistakes,2
+18,Female,43,39,21,31,25,Trouble with pets,1
+18,Female,43,39,21,31,25,Difficulties with friends,1
+21,Male,38,29,22,27,27,Misplacing or losing things,2
+21,Male,38,29,22,27,27,Silly practical mistakes,2
+21,Male,38,29,22,27,27,Trouble with pets,1
+21,Male,38,29,22,27,27,Difficulties with friends,2
+20,Male,48,27,23,33,28,Misplacing or losing things,5
+20,Male,48,27,23,33,28,Silly practical mistakes,4
+20,Male,48,27,23,33,28,Trouble with pets,3
+20,Male,48,27,23,33,28,Difficulties with friends,3
+21,Male,36,27,18,31,32,Misplacing or losing things,2
+21,Male,36,27,18,31,32,Silly practical mistakes,3
+21,Male,36,27,18,31,32,Trouble with pets,3
+21,Male,36,27,18,31,32,Difficulties with friends,4
+21,Male,33,25,20,28,19,Misplacing or losing things,1
+21,Male,33,25,20,28,19,Silly practical mistakes,2
+21,Male,33,25,20,28,19,Trouble with pets,1
+21,Male,33,25,20,28,19,Difficulties with friends,3
+20,Female,40,26,23,25,28,Misplacing or losing things,1
+20,Female,40,26,23,25,28,Silly practical mistakes,2
+20,Female,40,26,23,25,28,Trouble with pets,5
+20,Female,40,26,23,25,28,Difficulties with friends,3
+22,Male,33,33,26,37,17,Misplacing or losing things,3
+22,Male,33,33,26,37,17,Silly practical mistakes,3
+22,Male,33,33,26,37,17,Trouble with pets,1
+22,Male,33,33,26,37,17,Difficulties with friends,1
+21,Female,42,28,20,39,19,Misplacing or losing things,3
+21,Female,42,28,20,39,19,Silly practical mistakes,3
+21,Female,42,28,20,39,19,Trouble with pets,1
+21,Female,42,28,20,39,19,Difficulties with friends,2
+19,Female,39,36,23,27,29,Misplacing or losing things,5
+19,Female,39,36,23,27,29,Silly practical mistakes,4
+19,Female,39,36,23,27,29,Trouble with pets,3
+19,Female,39,36,23,27,29,Difficulties with friends,4
+21,Male,38,18,18,29,20,Misplacing or losing things,1
+21,Male,38,18,18,29,20,Silly practical mistakes,2
+21,Male,38,18,18,29,20,Trouble with pets,1
+21,Male,38,18,18,29,20,Difficulties with friends,3
+19,Female,38,27,19,30,31,Misplacing or losing things,4
+19,Female,38,27,19,30,31,Silly practical mistakes,3
+19,Female,38,27,19,30,31,Trouble with pets,2
+19,Female,38,27,19,30,31,Difficulties with friends,2

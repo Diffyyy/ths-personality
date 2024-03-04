@@ -1,141 +1,216 @@
 Age,Gender,O,C,E,A,N,Hassle,Severity
-21,Male,31,27,17,33,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-21,Male,31,27,17,33,24,Not enough money for wants (entertainment and recreation),3
-21,Male,31,27,17,33,24,Concerns about owing money,4
-21,Male,31,27,17,33,24,Concerns about money for emergencies,4
-21,Male,31,27,17,33,24,Financial security,4
-21,Female,40,27,20,18,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Female,40,27,20,18,27,Not enough money for wants (entertainment and recreation),1
-21,Female,40,27,20,18,27,Concerns about owing money,1
-21,Female,40,27,20,18,27,Concerns about money for emergencies,1
-21,Female,40,27,20,18,27,Financial security,1
-19,Female,30,21,19,32,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-19,Female,30,21,19,32,24,Not enough money for wants (entertainment and recreation),4
-19,Female,30,21,19,32,24,Concerns about owing money,4
-19,Female,30,21,19,32,24,Concerns about money for emergencies,5
-19,Female,30,21,19,32,24,Financial security,4
-20,Female,34,25,13,26,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-20,Female,34,25,13,26,26,Not enough money for wants (entertainment and recreation),3
-20,Female,34,25,13,26,26,Concerns about owing money,4
-20,Female,34,25,13,26,26,Concerns about money for emergencies,4
-20,Female,34,25,13,26,26,Financial security,4
-22,Female,31,29,30,34,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-22,Female,31,29,30,34,25,Not enough money for wants (entertainment and recreation),3
-22,Female,31,29,30,34,25,Concerns about owing money,3
-22,Female,31,29,30,34,25,Concerns about money for emergencies,5
-22,Female,31,29,30,34,25,Financial security,5
-21,Female,39,33,31,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Female,39,33,31,31,26,Not enough money for wants (entertainment and recreation),1
-21,Female,39,33,31,31,26,Concerns about owing money,1
-21,Female,39,33,31,31,26,Concerns about money for emergencies,1
-21,Female,39,33,31,31,26,Financial security,1
-20,Female,40,26,23,25,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-20,Female,40,26,23,25,28,Not enough money for wants (entertainment and recreation),2
-20,Female,40,26,23,25,28,Concerns about owing money,1
-20,Female,40,26,23,25,28,Concerns about money for emergencies,1
-20,Female,40,26,23,25,28,Financial security,2
-21,Female,34,31,20,28,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
-21,Female,34,31,20,28,26,Not enough money for wants (entertainment and recreation),2
-21,Female,34,31,20,28,26,Concerns about owing money,3
-21,Female,34,31,20,28,26,Concerns about money for emergencies,5
-21,Female,34,31,20,28,26,Financial security,3
-18,Female,43,39,21,31,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
-18,Female,43,39,21,31,25,Not enough money for wants (entertainment and recreation),2
-18,Female,43,39,21,31,25,Concerns about owing money,1
-18,Female,43,39,21,31,25,Concerns about money for emergencies,2
-18,Female,43,39,21,31,25,Financial security,2
-21,Male,38,25,24,36,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Male,38,25,24,36,19,Not enough money for wants (entertainment and recreation),1
-21,Male,38,25,24,36,19,Concerns about owing money,2
-21,Male,38,25,24,36,19,Concerns about money for emergencies,1
-21,Male,38,25,24,36,19,Financial security,2
-22,Male,31,26,21,26,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-22,Male,31,26,21,26,30,Not enough money for wants (entertainment and recreation),1
-22,Male,31,26,21,26,30,Concerns about owing money,1
-22,Male,31,26,21,26,30,Concerns about money for emergencies,1
-22,Male,31,26,21,26,30,Financial security,1
-21,Female,28,32,28,34,20,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-21,Female,28,32,28,34,20,Not enough money for wants (entertainment and recreation),3
-21,Female,28,32,28,34,20,Concerns about owing money,4
-21,Female,28,32,28,34,20,Concerns about money for emergencies,3
-21,Female,28,32,28,34,20,Financial security,5
-21,Female,42,28,20,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Female,42,28,20,39,19,Not enough money for wants (entertainment and recreation),1
-21,Female,42,28,20,39,19,Concerns about owing money,1
-21,Female,42,28,20,39,19,Concerns about money for emergencies,1
-21,Female,42,28,20,39,19,Financial security,1
-21,Male,43,37,29,27,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-21,Male,43,37,29,27,30,Not enough money for wants (entertainment and recreation),2
-21,Male,43,37,29,27,30,Concerns about owing money,5
-21,Male,43,37,29,27,30,Concerns about money for emergencies,5
-21,Male,43,37,29,27,30,Financial security,5
-22,Female,33,37,21,35,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
-22,Female,33,37,21,35,24,Not enough money for wants (entertainment and recreation),2
-22,Female,33,37,21,35,24,Concerns about owing money,3
-22,Female,33,37,21,35,24,Concerns about money for emergencies,3
-22,Female,33,37,21,35,24,Financial security,3
+20,Female,44,42,33,37,22,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Female,44,42,33,37,22,Not enough money for wants (entertainment and recreation),1
+20,Female,44,42,33,37,22,Concerns about owing money,1
+20,Female,44,42,33,37,22,Concerns about money for emergencies,1
+20,Female,44,42,33,37,22,Financial security,1
+20,Male,34,30,23,28,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Male,34,30,23,28,30,Not enough money for wants (entertainment and recreation),1
+20,Male,34,30,23,28,30,Concerns about owing money,2
+20,Male,34,30,23,28,30,Concerns about money for emergencies,1
+20,Male,34,30,23,28,30,Financial security,1
 21,Female,39,31,22,30,32,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
 21,Female,39,31,22,30,32,Not enough money for wants (entertainment and recreation),5
 21,Female,39,31,22,30,32,Concerns about owing money,5
 21,Female,39,31,22,30,32,Concerns about money for emergencies,5
 21,Female,39,31,22,30,32,Financial security,5
-20,Male,48,27,23,33,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
-20,Male,48,27,23,33,28,Not enough money for wants (entertainment and recreation),4
-20,Male,48,27,23,33,28,Concerns about owing money,2
-20,Male,48,27,23,33,28,Concerns about money for emergencies,3
-20,Male,48,27,23,33,28,Financial security,3
-19,Female,38,32,30,33,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
-19,Female,38,32,30,33,25,Not enough money for wants (entertainment and recreation),3
-19,Female,38,32,30,33,25,Concerns about owing money,3
-19,Female,38,32,30,33,25,Concerns about money for emergencies,3
-19,Female,38,32,30,33,25,Financial security,3
-21,Male,33,25,20,28,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Male,33,25,20,28,19,Not enough money for wants (entertainment and recreation),1
-21,Male,33,25,20,28,19,Concerns about owing money,1
-21,Male,33,25,20,28,19,Concerns about money for emergencies,1
-21,Male,33,25,20,28,19,Financial security,2
-22,Male,32,31,27,35,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
-22,Male,32,31,27,35,23,Not enough money for wants (entertainment and recreation),5
-22,Male,32,31,27,35,23,Concerns about owing money,1
-22,Male,32,31,27,35,23,Concerns about money for emergencies,1
-22,Male,32,31,27,35,23,Financial security,4
-21,Male,38,29,22,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-21,Male,38,29,22,27,27,Not enough money for wants (entertainment and recreation),1
-21,Male,38,29,22,27,27,Concerns about owing money,1
-21,Male,38,29,22,27,27,Concerns about money for emergencies,1
-21,Male,38,29,22,27,27,Financial security,2
-21,Female,33,29,31,29,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-21,Female,33,29,31,29,30,Not enough money for wants (entertainment and recreation),3
-21,Female,33,29,31,29,30,Concerns about owing money,5
-21,Female,33,29,31,29,30,Concerns about money for emergencies,5
-21,Female,33,29,31,29,30,Financial security,5
+21,Female,39,33,31,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,39,33,31,31,26,Not enough money for wants (entertainment and recreation),1
+21,Female,39,33,31,31,26,Concerns about owing money,1
+21,Female,39,33,31,31,26,Concerns about money for emergencies,1
+21,Female,39,33,31,31,26,Financial security,1
+19,Female,39,17,22,25,36,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,39,17,22,25,36,Not enough money for wants (entertainment and recreation),2
+19,Female,39,17,22,25,36,Concerns about owing money,1
+19,Female,39,17,22,25,36,Concerns about money for emergencies,1
+19,Female,39,17,22,25,36,Financial security,1
+20,Female,38,26,29,24,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Female,38,26,29,24,19,Not enough money for wants (entertainment and recreation),2
+20,Female,38,26,29,24,19,Concerns about owing money,1
+20,Female,38,26,29,24,19,Concerns about money for emergencies,2
+20,Female,38,26,29,24,19,Financial security,2
+19,Female,35,24,23,31,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+19,Female,35,24,23,31,29,Not enough money for wants (entertainment and recreation),3
+19,Female,35,24,23,31,29,Concerns about owing money,3
+19,Female,35,24,23,31,29,Concerns about money for emergencies,3
+19,Female,35,24,23,31,29,Financial security,3
+22,Male,33,23,37,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+22,Male,33,23,37,27,27,Not enough money for wants (entertainment and recreation),3
+22,Male,33,23,37,27,27,Concerns about owing money,3
+22,Male,33,23,37,27,27,Concerns about money for emergencies,3
+22,Male,33,23,37,27,27,Financial security,2
+19,Male,34,33,24,32,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+19,Male,34,33,24,32,23,Not enough money for wants (entertainment and recreation),4
+19,Male,34,33,24,32,23,Concerns about owing money,3
+19,Male,34,33,24,32,23,Concerns about money for emergencies,3
+19,Male,34,33,24,32,23,Financial security,5
+20,Female,33,32,22,29,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+20,Female,33,32,22,29,31,Not enough money for wants (entertainment and recreation),4
+20,Female,33,32,22,29,31,Concerns about owing money,5
+20,Female,33,32,22,29,31,Concerns about money for emergencies,3
+20,Female,33,32,22,29,31,Financial security,3
+21,Male,43,37,29,27,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Male,43,37,29,27,30,Not enough money for wants (entertainment and recreation),2
+21,Male,43,37,29,27,30,Concerns about owing money,5
+21,Male,43,37,29,27,30,Concerns about money for emergencies,5
+21,Male,43,37,29,27,30,Financial security,5
+21,Female,34,31,20,28,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+21,Female,34,31,20,28,26,Not enough money for wants (entertainment and recreation),2
+21,Female,34,31,20,28,26,Concerns about owing money,3
+21,Female,34,31,20,28,26,Concerns about money for emergencies,5
+21,Female,34,31,20,28,26,Financial security,3
+22,Female,33,37,21,35,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+22,Female,33,37,21,35,24,Not enough money for wants (entertainment and recreation),2
+22,Female,33,37,21,35,24,Concerns about owing money,3
+22,Female,33,37,21,35,24,Concerns about money for emergencies,3
+22,Female,33,37,21,35,24,Financial security,3
 22,Female,32,42,25,37,18,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
 22,Female,32,42,25,37,18,Not enough money for wants (entertainment and recreation),3
 22,Female,32,42,25,37,18,Concerns about owing money,4
 22,Female,32,42,25,37,18,Concerns about money for emergencies,5
 22,Female,32,42,25,37,18,Financial security,5
+21,Male,36,31,19,32,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,36,31,19,32,26,Not enough money for wants (entertainment and recreation),2
+21,Male,36,31,19,32,26,Concerns about owing money,1
+21,Male,36,31,19,32,26,Concerns about money for emergencies,1
+21,Male,36,31,19,32,26,Financial security,3
+20,Female,43,37,33,29,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Female,43,37,33,29,26,Not enough money for wants (entertainment and recreation),2
+20,Female,43,37,33,29,26,Concerns about owing money,1
+20,Female,43,37,33,29,26,Concerns about money for emergencies,2
+20,Female,43,37,33,29,26,Financial security,3
+20,Others,36,20,22,31,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",4
+20,Others,36,20,22,31,29,Not enough money for wants (entertainment and recreation),4
+20,Others,36,20,22,31,29,Concerns about owing money,4
+20,Others,36,20,22,31,29,Concerns about money for emergencies,4
+20,Others,36,20,22,31,29,Financial security,4
 21,Male,35,30,21,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
 21,Male,35,30,21,31,26,Not enough money for wants (entertainment and recreation),3
 21,Male,35,30,21,31,26,Concerns about owing money,3
 21,Male,35,30,21,31,26,Concerns about money for emergencies,3
 21,Male,35,30,21,31,26,Financial security,3
-20,Genderfluid,39,31,28,28,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
-20,Genderfluid,39,31,28,28,27,Not enough money for wants (entertainment and recreation),5
-20,Genderfluid,39,31,28,28,27,Concerns about owing money,5
-20,Genderfluid,39,31,28,28,27,Concerns about money for emergencies,4
-20,Genderfluid,39,31,28,28,27,Financial security,4
-19,Female,31,32,25,29,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
-19,Female,31,32,25,29,29,Not enough money for wants (entertainment and recreation),3
-19,Female,31,32,25,29,29,Concerns about owing money,3
-19,Female,31,32,25,29,29,Concerns about money for emergencies,3
-19,Female,31,32,25,29,29,Financial security,3
-19,Female,37,32,31,31,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
-19,Female,37,32,31,31,31,Not enough money for wants (entertainment and recreation),4
-19,Female,37,32,31,31,31,Concerns about owing money,2
-19,Female,37,32,31,31,31,Concerns about money for emergencies,1
-19,Female,37,32,31,31,31,Financial security,2
-19,Female,36,33,28,28,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
-19,Female,36,33,28,28,23,Not enough money for wants (entertainment and recreation),2
-19,Female,36,33,28,28,23,Concerns about owing money,1
-19,Female,36,33,28,28,23,Concerns about money for emergencies,1
-19,Female,36,33,28,28,23,Financial security,2
+21,Male,38,25,24,36,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,38,25,24,36,19,Not enough money for wants (entertainment and recreation),1
+21,Male,38,25,24,36,19,Concerns about owing money,2
+21,Male,38,25,24,36,19,Concerns about money for emergencies,1
+21,Male,38,25,24,36,19,Financial security,2
+19,Female,43,24,30,35,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,43,24,30,35,25,Not enough money for wants (entertainment and recreation),1
+19,Female,43,24,30,35,25,Concerns about owing money,1
+19,Female,43,24,30,35,25,Concerns about money for emergencies,2
+19,Female,43,24,30,35,25,Financial security,3
+19,Female,44,29,20,31,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,44,29,20,31,24,Not enough money for wants (entertainment and recreation),1
+19,Female,44,29,20,31,24,Concerns about owing money,1
+19,Female,44,29,20,31,24,Concerns about money for emergencies,1
+19,Female,44,29,20,31,24,Financial security,1
+19,Female,33,24,16,35,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,33,24,16,35,28,Not enough money for wants (entertainment and recreation),1
+19,Female,33,24,16,35,28,Concerns about owing money,3
+19,Female,33,24,16,35,28,Concerns about money for emergencies,1
+19,Female,33,24,16,35,28,Financial security,1
+19,Female,40,39,28,30,17,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+19,Female,40,39,28,30,17,Not enough money for wants (entertainment and recreation),2
+19,Female,40,39,28,30,17,Concerns about owing money,1
+19,Female,40,39,28,30,17,Concerns about money for emergencies,1
+19,Female,40,39,28,30,17,Financial security,2
+19,Female,36,23,32,25,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+19,Female,36,23,32,25,26,Not enough money for wants (entertainment and recreation),4
+19,Female,36,23,32,25,26,Concerns about owing money,2
+19,Female,36,23,32,25,26,Concerns about money for emergencies,4
+19,Female,36,23,32,25,26,Financial security,4
+21,Female,40,27,20,18,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,40,27,20,18,27,Not enough money for wants (entertainment and recreation),1
+21,Female,40,27,20,18,27,Concerns about owing money,1
+21,Female,40,27,20,18,27,Concerns about money for emergencies,1
+21,Female,40,27,20,18,27,Financial security,1
+22,Male,32,31,27,35,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+22,Male,32,31,27,35,23,Not enough money for wants (entertainment and recreation),5
+22,Male,32,31,27,35,23,Concerns about owing money,1
+22,Male,32,31,27,35,23,Concerns about money for emergencies,1
+22,Male,32,31,27,35,23,Financial security,4
+19,Female,30,21,19,32,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+19,Female,30,21,19,32,24,Not enough money for wants (entertainment and recreation),4
+19,Female,30,21,19,32,24,Concerns about owing money,4
+19,Female,30,21,19,32,24,Concerns about money for emergencies,5
+19,Female,30,21,19,32,24,Financial security,4
+21,Female,39,30,34,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Female,39,30,34,39,19,Not enough money for wants (entertainment and recreation),4
+21,Female,39,30,34,39,19,Concerns about owing money,2
+21,Female,39,30,34,39,19,Concerns about money for emergencies,3
+21,Female,39,30,34,39,19,Financial security,5
+19,Others,38,20,19,28,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Others,38,20,19,28,31,Not enough money for wants (entertainment and recreation),3
+19,Others,38,20,19,28,31,Concerns about owing money,3
+19,Others,38,20,19,28,31,Concerns about money for emergencies,4
+19,Others,38,20,19,28,31,Financial security,1
+19,Female,44,30,20,25,37,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,44,30,20,25,37,Not enough money for wants (entertainment and recreation),4
+19,Female,44,30,20,25,37,Concerns about owing money,5
+19,Female,44,30,20,25,37,Concerns about money for emergencies,5
+19,Female,44,30,20,25,37,Financial security,5
+21,Female,33,29,31,29,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Female,33,29,31,29,30,Not enough money for wants (entertainment and recreation),3
+21,Female,33,29,31,29,30,Concerns about owing money,5
+21,Female,33,29,31,29,30,Concerns about money for emergencies,5
+21,Female,33,29,31,29,30,Financial security,5
+21,Male,34,28,16,23,33,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,34,28,16,23,33,Not enough money for wants (entertainment and recreation),1
+21,Male,34,28,16,23,33,Concerns about owing money,3
+21,Male,34,28,16,23,33,Concerns about money for emergencies,3
+21,Male,34,28,16,23,33,Financial security,3
+18,Female,43,39,21,31,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+18,Female,43,39,21,31,25,Not enough money for wants (entertainment and recreation),2
+18,Female,43,39,21,31,25,Concerns about owing money,1
+18,Female,43,39,21,31,25,Concerns about money for emergencies,2
+18,Female,43,39,21,31,25,Financial security,2
+21,Male,38,29,22,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,38,29,22,27,27,Not enough money for wants (entertainment and recreation),1
+21,Male,38,29,22,27,27,Concerns about owing money,1
+21,Male,38,29,22,27,27,Concerns about money for emergencies,1
+21,Male,38,29,22,27,27,Financial security,2
+20,Male,48,27,23,33,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",3
+20,Male,48,27,23,33,28,Not enough money for wants (entertainment and recreation),4
+20,Male,48,27,23,33,28,Concerns about owing money,2
+20,Male,48,27,23,33,28,Concerns about money for emergencies,3
+20,Male,48,27,23,33,28,Financial security,3
+21,Male,36,27,18,31,32,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",5
+21,Male,36,27,18,31,32,Not enough money for wants (entertainment and recreation),3
+21,Male,36,27,18,31,32,Concerns about owing money,4
+21,Male,36,27,18,31,32,Concerns about money for emergencies,4
+21,Male,36,27,18,31,32,Financial security,3
+21,Male,33,25,20,28,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,33,25,20,28,19,Not enough money for wants (entertainment and recreation),1
+21,Male,33,25,20,28,19,Concerns about owing money,1
+21,Male,33,25,20,28,19,Concerns about money for emergencies,1
+21,Male,33,25,20,28,19,Financial security,2
+20,Female,40,26,23,25,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+20,Female,40,26,23,25,28,Not enough money for wants (entertainment and recreation),2
+20,Female,40,26,23,25,28,Concerns about owing money,1
+20,Female,40,26,23,25,28,Concerns about money for emergencies,1
+20,Female,40,26,23,25,28,Financial security,2
+22,Male,33,33,26,37,17,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+22,Male,33,33,26,37,17,Not enough money for wants (entertainment and recreation),1
+22,Male,33,33,26,37,17,Concerns about owing money,2
+22,Male,33,33,26,37,17,Concerns about money for emergencies,1
+22,Male,33,33,26,37,17,Financial security,1
+21,Female,42,28,20,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Female,42,28,20,39,19,Not enough money for wants (entertainment and recreation),1
+21,Female,42,28,20,39,19,Concerns about owing money,1
+21,Female,42,28,20,39,19,Concerns about money for emergencies,1
+21,Female,42,28,20,39,19,Financial security,1
+19,Female,39,36,23,27,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+19,Female,39,36,23,27,29,Not enough money for wants (entertainment and recreation),4
+19,Female,39,36,23,27,29,Concerns about owing money,2
+19,Female,39,36,23,27,29,Concerns about money for emergencies,1
+19,Female,39,36,23,27,29,Financial security,2
+21,Male,38,18,18,29,20,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",1
+21,Male,38,18,18,29,20,Not enough money for wants (entertainment and recreation),2
+21,Male,38,18,18,29,20,Concerns about owing money,1
+21,Male,38,18,18,29,20,Concerns about money for emergencies,2
+21,Male,38,18,18,29,20,Financial security,1
+19,Female,38,27,19,30,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",2
+19,Female,38,27,19,30,31,Not enough money for wants (entertainment and recreation),3
+19,Female,38,27,19,30,31,Concerns about owing money,2
+19,Female,38,27,19,30,31,Concerns about money for emergencies,2
+19,Female,38,27,19,30,31,Financial security,3

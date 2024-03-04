@@ -1,0 +1,2237 @@
+Age,Gender,O,C,E,A,N,Hassle,Category,Severity
+20,Female,44,42,33,37,22,Misplacing or losing things,General Hassles,1
+20,Female,44,42,33,37,22,Silly practical mistakes,General Hassles,1
+20,Female,44,42,33,37,22,Trouble with pets,General Hassles,2
+20,Female,44,42,33,37,22,Difficulties with friends,General Hassles,1
+20,Female,44,42,33,37,22,Regrets over past decision/s,Inner Concerns,3
+20,Female,44,42,33,37,22,Concerned about the meaning of life,Inner Concerns,5
+20,Female,44,42,33,37,22,Being lonely,Inner Concerns,1
+20,Female,44,42,33,37,22,Inability to express oneself,Inner Concerns,1
+20,Female,44,42,33,37,22,Fear of rejection,Inner Concerns,1
+20,Female,44,42,33,37,22,Trouble making decisions,Inner Concerns,1
+20,Female,44,42,33,37,22,Physical appearance,Inner Concerns,1
+20,Female,44,42,33,37,22,Not seeing people,Inner Concerns,1
+20,Female,44,42,33,37,22,Troubling thoughts about one’s future,Inner Concerns,1
+20,Female,44,42,33,37,22,Not enough personal energy,Inner Concerns,1
+20,Female,44,42,33,37,22,Concerns about getting ahead,Inner Concerns,1
+20,Female,44,42,33,37,22,Fear of confrontation,Inner Concerns,1
+20,Female,44,42,33,37,22,Wasting time,Inner Concerns,1
+20,Female,44,42,33,37,22,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+20,Female,44,42,33,37,22,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+20,Female,44,42,33,37,22,Concerns about owing money,Financial Concerns,1
+20,Female,44,42,33,37,22,Concerns about money for emergencies,Financial Concerns,1
+20,Female,44,42,33,37,22,Financial security,Financial Concerns,1
+20,Female,44,42,33,37,22,Not enough time to do things one needs to,Time Pressures,1
+20,Female,44,42,33,37,22,Too many responsibilities,Time Pressures,1
+20,Female,44,42,33,37,22,Not getting enough rest,Time Pressures,1
+20,Female,44,42,33,37,22,Too many interruptions,Time Pressures,1
+20,Female,44,42,33,37,22,Not enough time for entertainment and recreation,Time Pressures,1
+20,Female,44,42,33,37,22,Too many meetings,Time Pressures,1
+20,Female,44,42,33,37,22,Social obligations,Time Pressures,1
+20,Female,44,42,33,37,22,Concerns about meeting high standards,Time Pressures,1
+20,Female,44,42,33,37,22,Noise,Time Pressures,1
+20,Female,44,42,33,37,22,Pollution,Environmental Hassles,1
+20,Female,44,42,33,37,22,Crime,Environmental Hassles,1
+20,Female,44,42,33,37,22,Traffic,Environmental Hassles,2
+20,Female,44,42,33,37,22,Concerns about news events,Environmental Hassles,2
+20,Female,44,42,33,37,22,Rising prices of common goods,Environmental Hassles,4
+20,Female,44,42,33,37,22,Concerns about accidents,Environmental Hassles,5
+20,Female,44,42,33,37,22,Yardwork or outside home maintenance,Family Hassles,2
+20,Female,44,42,33,37,22,Overloaded with family responsibilities,Family Hassles,1
+20,Female,44,42,33,37,22,Home maintenance (inside),Family Hassles,1
+20,Female,44,42,33,37,22,Concerns about medical treatment,Health Hassles,3
+20,Female,44,42,33,37,22,Physical illness,Health Hassles,1
+20,Female,44,42,33,37,22,Side effects of medication,Health Hassles,1
+20,Female,44,42,33,37,22,Concerns about health in general,Health Hassles,5
+20,Female,44,42,33,37,22,Concerns about bodily functions,Health Hassles,5
+20,Female,44,42,33,37,22,Dissatisfaction with academic performance,Academic Hassles,3
+20,Female,44,42,33,37,22,Challenges with instructors,Academic Hassles,2
+20,Female,44,42,33,37,22,Discontent with current academic responsibilities,Academic Hassles,1
+20,Female,44,42,33,37,22,Concerns regarding academic transitions,Academic Hassles,1
+20,Female,44,42,33,37,22,Difficulties with peers or classmates,Academic Hassles,1
+20,Female,44,42,33,37,22,Challenges in managing group projects,Academic Hassles,1
+20,Female,44,42,33,37,22,Getting late to class,Academic Hassles,1
+20,Male,34,30,23,28,30,Misplacing or losing things,General Hassles,3
+20,Male,34,30,23,28,30,Silly practical mistakes,General Hassles,3
+20,Male,34,30,23,28,30,Trouble with pets,General Hassles,1
+20,Male,34,30,23,28,30,Difficulties with friends,General Hassles,1
+20,Male,34,30,23,28,30,Regrets over past decision/s,Inner Concerns,4
+20,Male,34,30,23,28,30,Concerned about the meaning of life,Inner Concerns,5
+20,Male,34,30,23,28,30,Being lonely,Inner Concerns,4
+20,Male,34,30,23,28,30,Inability to express oneself,Inner Concerns,4
+20,Male,34,30,23,28,30,Fear of rejection,Inner Concerns,5
+20,Male,34,30,23,28,30,Trouble making decisions,Inner Concerns,4
+20,Male,34,30,23,28,30,Physical appearance,Inner Concerns,3
+20,Male,34,30,23,28,30,Not seeing people,Inner Concerns,4
+20,Male,34,30,23,28,30,Troubling thoughts about one’s future,Inner Concerns,5
+20,Male,34,30,23,28,30,Not enough personal energy,Inner Concerns,3
+20,Male,34,30,23,28,30,Concerns about getting ahead,Inner Concerns,2
+20,Male,34,30,23,28,30,Fear of confrontation,Inner Concerns,3
+20,Male,34,30,23,28,30,Wasting time,Inner Concerns,5
+20,Male,34,30,23,28,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+20,Male,34,30,23,28,30,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+20,Male,34,30,23,28,30,Concerns about owing money,Financial Concerns,2
+20,Male,34,30,23,28,30,Concerns about money for emergencies,Financial Concerns,1
+20,Male,34,30,23,28,30,Financial security,Financial Concerns,1
+20,Male,34,30,23,28,30,Not enough time to do things one needs to,Time Pressures,4
+20,Male,34,30,23,28,30,Too many responsibilities,Time Pressures,3
+20,Male,34,30,23,28,30,Not getting enough rest,Time Pressures,4
+20,Male,34,30,23,28,30,Too many interruptions,Time Pressures,4
+20,Male,34,30,23,28,30,Not enough time for entertainment and recreation,Time Pressures,2
+20,Male,34,30,23,28,30,Too many meetings,Time Pressures,3
+20,Male,34,30,23,28,30,Social obligations,Time Pressures,4
+20,Male,34,30,23,28,30,Concerns about meeting high standards,Time Pressures,4
+20,Male,34,30,23,28,30,Noise,Time Pressures,5
+20,Male,34,30,23,28,30,Pollution,Environmental Hassles,5
+20,Male,34,30,23,28,30,Crime,Environmental Hassles,5
+20,Male,34,30,23,28,30,Traffic,Environmental Hassles,5
+20,Male,34,30,23,28,30,Concerns about news events,Environmental Hassles,5
+20,Male,34,30,23,28,30,Rising prices of common goods,Environmental Hassles,5
+20,Male,34,30,23,28,30,Concerns about accidents,Environmental Hassles,4
+20,Male,34,30,23,28,30,Yardwork or outside home maintenance,Family Hassles,2
+20,Male,34,30,23,28,30,Overloaded with family responsibilities,Family Hassles,1
+20,Male,34,30,23,28,30,Home maintenance (inside),Family Hassles,2
+20,Male,34,30,23,28,30,Concerns about medical treatment,Health Hassles,4
+20,Male,34,30,23,28,30,Physical illness,Health Hassles,2
+20,Male,34,30,23,28,30,Side effects of medication,Health Hassles,2
+20,Male,34,30,23,28,30,Concerns about health in general,Health Hassles,2
+20,Male,34,30,23,28,30,Concerns about bodily functions,Health Hassles,2
+20,Male,34,30,23,28,30,Dissatisfaction with academic performance,Academic Hassles,3
+20,Male,34,30,23,28,30,Challenges with instructors,Academic Hassles,4
+20,Male,34,30,23,28,30,Discontent with current academic responsibilities,Academic Hassles,4
+20,Male,34,30,23,28,30,Concerns regarding academic transitions,Academic Hassles,4
+20,Male,34,30,23,28,30,Difficulties with peers or classmates,Academic Hassles,1
+20,Male,34,30,23,28,30,Challenges in managing group projects,Academic Hassles,3
+20,Male,34,30,23,28,30,Getting late to class,Academic Hassles,1
+21,Female,39,31,22,30,32,Misplacing or losing things,General Hassles,5
+21,Female,39,31,22,30,32,Silly practical mistakes,General Hassles,4
+21,Female,39,31,22,30,32,Trouble with pets,General Hassles,5
+21,Female,39,31,22,30,32,Difficulties with friends,General Hassles,5
+21,Female,39,31,22,30,32,Regrets over past decision/s,Inner Concerns,4
+21,Female,39,31,22,30,32,Concerned about the meaning of life,Inner Concerns,3
+21,Female,39,31,22,30,32,Being lonely,Inner Concerns,5
+21,Female,39,31,22,30,32,Inability to express oneself,Inner Concerns,5
+21,Female,39,31,22,30,32,Fear of rejection,Inner Concerns,5
+21,Female,39,31,22,30,32,Trouble making decisions,Inner Concerns,4
+21,Female,39,31,22,30,32,Physical appearance,Inner Concerns,5
+21,Female,39,31,22,30,32,Not seeing people,Inner Concerns,5
+21,Female,39,31,22,30,32,Troubling thoughts about one’s future,Inner Concerns,4
+21,Female,39,31,22,30,32,Not enough personal energy,Inner Concerns,5
+21,Female,39,31,22,30,32,Concerns about getting ahead,Inner Concerns,5
+21,Female,39,31,22,30,32,Fear of confrontation,Inner Concerns,4
+21,Female,39,31,22,30,32,Wasting time,Inner Concerns,5
+21,Female,39,31,22,30,32,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+21,Female,39,31,22,30,32,Not enough money for wants (entertainment and recreation),Financial Concerns,5
+21,Female,39,31,22,30,32,Concerns about owing money,Financial Concerns,5
+21,Female,39,31,22,30,32,Concerns about money for emergencies,Financial Concerns,5
+21,Female,39,31,22,30,32,Financial security,Financial Concerns,5
+21,Female,39,31,22,30,32,Not enough time to do things one needs to,Time Pressures,5
+21,Female,39,31,22,30,32,Too many responsibilities,Time Pressures,5
+21,Female,39,31,22,30,32,Not getting enough rest,Time Pressures,5
+21,Female,39,31,22,30,32,Too many interruptions,Time Pressures,5
+21,Female,39,31,22,30,32,Not enough time for entertainment and recreation,Time Pressures,5
+21,Female,39,31,22,30,32,Too many meetings,Time Pressures,5
+21,Female,39,31,22,30,32,Social obligations,Time Pressures,4
+21,Female,39,31,22,30,32,Concerns about meeting high standards,Time Pressures,5
+21,Female,39,31,22,30,32,Noise,Time Pressures,5
+21,Female,39,31,22,30,32,Pollution,Environmental Hassles,3
+21,Female,39,31,22,30,32,Crime,Environmental Hassles,5
+21,Female,39,31,22,30,32,Traffic,Environmental Hassles,5
+21,Female,39,31,22,30,32,Concerns about news events,Environmental Hassles,3
+21,Female,39,31,22,30,32,Rising prices of common goods,Environmental Hassles,3
+21,Female,39,31,22,30,32,Concerns about accidents,Environmental Hassles,4
+21,Female,39,31,22,30,32,Yardwork or outside home maintenance,Family Hassles,3
+21,Female,39,31,22,30,32,Overloaded with family responsibilities,Family Hassles,5
+21,Female,39,31,22,30,32,Home maintenance (inside),Family Hassles,5
+21,Female,39,31,22,30,32,Concerns about medical treatment,Health Hassles,5
+21,Female,39,31,22,30,32,Physical illness,Health Hassles,5
+21,Female,39,31,22,30,32,Side effects of medication,Health Hassles,5
+21,Female,39,31,22,30,32,Concerns about health in general,Health Hassles,5
+21,Female,39,31,22,30,32,Concerns about bodily functions,Health Hassles,5
+21,Female,39,31,22,30,32,Dissatisfaction with academic performance,Academic Hassles,5
+21,Female,39,31,22,30,32,Challenges with instructors,Academic Hassles,5
+21,Female,39,31,22,30,32,Discontent with current academic responsibilities,Academic Hassles,5
+21,Female,39,31,22,30,32,Concerns regarding academic transitions,Academic Hassles,5
+21,Female,39,31,22,30,32,Difficulties with peers or classmates,Academic Hassles,5
+21,Female,39,31,22,30,32,Challenges in managing group projects,Academic Hassles,5
+21,Female,39,31,22,30,32,Getting late to class,Academic Hassles,5
+21,Female,39,33,31,31,26,Misplacing or losing things,General Hassles,2
+21,Female,39,33,31,31,26,Silly practical mistakes,General Hassles,2
+21,Female,39,33,31,31,26,Trouble with pets,General Hassles,1
+21,Female,39,33,31,31,26,Difficulties with friends,General Hassles,1
+21,Female,39,33,31,31,26,Regrets over past decision/s,Inner Concerns,2
+21,Female,39,33,31,31,26,Concerned about the meaning of life,Inner Concerns,1
+21,Female,39,33,31,31,26,Being lonely,Inner Concerns,1
+21,Female,39,33,31,31,26,Inability to express oneself,Inner Concerns,1
+21,Female,39,33,31,31,26,Fear of rejection,Inner Concerns,2
+21,Female,39,33,31,31,26,Trouble making decisions,Inner Concerns,1
+21,Female,39,33,31,31,26,Physical appearance,Inner Concerns,2
+21,Female,39,33,31,31,26,Not seeing people,Inner Concerns,2
+21,Female,39,33,31,31,26,Troubling thoughts about one’s future,Inner Concerns,1
+21,Female,39,33,31,31,26,Not enough personal energy,Inner Concerns,1
+21,Female,39,33,31,31,26,Concerns about getting ahead,Inner Concerns,1
+21,Female,39,33,31,31,26,Fear of confrontation,Inner Concerns,1
+21,Female,39,33,31,31,26,Wasting time,Inner Concerns,2
+21,Female,39,33,31,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Female,39,33,31,31,26,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Female,39,33,31,31,26,Concerns about owing money,Financial Concerns,1
+21,Female,39,33,31,31,26,Concerns about money for emergencies,Financial Concerns,1
+21,Female,39,33,31,31,26,Financial security,Financial Concerns,1
+21,Female,39,33,31,31,26,Not enough time to do things one needs to,Time Pressures,3
+21,Female,39,33,31,31,26,Too many responsibilities,Time Pressures,2
+21,Female,39,33,31,31,26,Not getting enough rest,Time Pressures,2
+21,Female,39,33,31,31,26,Too many interruptions,Time Pressures,1
+21,Female,39,33,31,31,26,Not enough time for entertainment and recreation,Time Pressures,3
+21,Female,39,33,31,31,26,Too many meetings,Time Pressures,2
+21,Female,39,33,31,31,26,Social obligations,Time Pressures,1
+21,Female,39,33,31,31,26,Concerns about meeting high standards,Time Pressures,1
+21,Female,39,33,31,31,26,Noise,Time Pressures,2
+21,Female,39,33,31,31,26,Pollution,Environmental Hassles,4
+21,Female,39,33,31,31,26,Crime,Environmental Hassles,4
+21,Female,39,33,31,31,26,Traffic,Environmental Hassles,5
+21,Female,39,33,31,31,26,Concerns about news events,Environmental Hassles,3
+21,Female,39,33,31,31,26,Rising prices of common goods,Environmental Hassles,2
+21,Female,39,33,31,31,26,Concerns about accidents,Environmental Hassles,2
+21,Female,39,33,31,31,26,Yardwork or outside home maintenance,Family Hassles,1
+21,Female,39,33,31,31,26,Overloaded with family responsibilities,Family Hassles,1
+21,Female,39,33,31,31,26,Home maintenance (inside),Family Hassles,1
+21,Female,39,33,31,31,26,Concerns about medical treatment,Health Hassles,1
+21,Female,39,33,31,31,26,Physical illness,Health Hassles,1
+21,Female,39,33,31,31,26,Side effects of medication,Health Hassles,1
+21,Female,39,33,31,31,26,Concerns about health in general,Health Hassles,1
+21,Female,39,33,31,31,26,Concerns about bodily functions,Health Hassles,1
+21,Female,39,33,31,31,26,Dissatisfaction with academic performance,Academic Hassles,2
+21,Female,39,33,31,31,26,Challenges with instructors,Academic Hassles,2
+21,Female,39,33,31,31,26,Discontent with current academic responsibilities,Academic Hassles,1
+21,Female,39,33,31,31,26,Concerns regarding academic transitions,Academic Hassles,1
+21,Female,39,33,31,31,26,Difficulties with peers or classmates,Academic Hassles,1
+21,Female,39,33,31,31,26,Challenges in managing group projects,Academic Hassles,1
+21,Female,39,33,31,31,26,Getting late to class,Academic Hassles,1
+19,Female,39,17,22,25,36,Misplacing or losing things,General Hassles,5
+19,Female,39,17,22,25,36,Silly practical mistakes,General Hassles,3
+19,Female,39,17,22,25,36,Trouble with pets,General Hassles,2
+19,Female,39,17,22,25,36,Difficulties with friends,General Hassles,5
+19,Female,39,17,22,25,36,Regrets over past decision/s,Inner Concerns,4
+19,Female,39,17,22,25,36,Concerned about the meaning of life,Inner Concerns,5
+19,Female,39,17,22,25,36,Being lonely,Inner Concerns,2
+19,Female,39,17,22,25,36,Inability to express oneself,Inner Concerns,4
+19,Female,39,17,22,25,36,Fear of rejection,Inner Concerns,5
+19,Female,39,17,22,25,36,Trouble making decisions,Inner Concerns,5
+19,Female,39,17,22,25,36,Physical appearance,Inner Concerns,5
+19,Female,39,17,22,25,36,Not seeing people,Inner Concerns,1
+19,Female,39,17,22,25,36,Troubling thoughts about one’s future,Inner Concerns,4
+19,Female,39,17,22,25,36,Not enough personal energy,Inner Concerns,2
+19,Female,39,17,22,25,36,Concerns about getting ahead,Inner Concerns,2
+19,Female,39,17,22,25,36,Fear of confrontation,Inner Concerns,5
+19,Female,39,17,22,25,36,Wasting time,Inner Concerns,2
+19,Female,39,17,22,25,36,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,39,17,22,25,36,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+19,Female,39,17,22,25,36,Concerns about owing money,Financial Concerns,1
+19,Female,39,17,22,25,36,Concerns about money for emergencies,Financial Concerns,1
+19,Female,39,17,22,25,36,Financial security,Financial Concerns,1
+19,Female,39,17,22,25,36,Not enough time to do things one needs to,Time Pressures,3
+19,Female,39,17,22,25,36,Too many responsibilities,Time Pressures,4
+19,Female,39,17,22,25,36,Not getting enough rest,Time Pressures,3
+19,Female,39,17,22,25,36,Too many interruptions,Time Pressures,2
+19,Female,39,17,22,25,36,Not enough time for entertainment and recreation,Time Pressures,2
+19,Female,39,17,22,25,36,Too many meetings,Time Pressures,1
+19,Female,39,17,22,25,36,Social obligations,Time Pressures,5
+19,Female,39,17,22,25,36,Concerns about meeting high standards,Time Pressures,4
+19,Female,39,17,22,25,36,Noise,Time Pressures,3
+19,Female,39,17,22,25,36,Pollution,Environmental Hassles,4
+19,Female,39,17,22,25,36,Crime,Environmental Hassles,2
+19,Female,39,17,22,25,36,Traffic,Environmental Hassles,3
+19,Female,39,17,22,25,36,Concerns about news events,Environmental Hassles,1
+19,Female,39,17,22,25,36,Rising prices of common goods,Environmental Hassles,3
+19,Female,39,17,22,25,36,Concerns about accidents,Environmental Hassles,1
+19,Female,39,17,22,25,36,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,39,17,22,25,36,Overloaded with family responsibilities,Family Hassles,1
+19,Female,39,17,22,25,36,Home maintenance (inside),Family Hassles,1
+19,Female,39,17,22,25,36,Concerns about medical treatment,Health Hassles,1
+19,Female,39,17,22,25,36,Physical illness,Health Hassles,1
+19,Female,39,17,22,25,36,Side effects of medication,Health Hassles,1
+19,Female,39,17,22,25,36,Concerns about health in general,Health Hassles,2
+19,Female,39,17,22,25,36,Concerns about bodily functions,Health Hassles,1
+19,Female,39,17,22,25,36,Dissatisfaction with academic performance,Academic Hassles,5
+19,Female,39,17,22,25,36,Challenges with instructors,Academic Hassles,5
+19,Female,39,17,22,25,36,Discontent with current academic responsibilities,Academic Hassles,5
+19,Female,39,17,22,25,36,Concerns regarding academic transitions,Academic Hassles,5
+19,Female,39,17,22,25,36,Difficulties with peers or classmates,Academic Hassles,3
+19,Female,39,17,22,25,36,Challenges in managing group projects,Academic Hassles,5
+19,Female,39,17,22,25,36,Getting late to class,Academic Hassles,2
+20,Female,38,26,29,24,19,Misplacing or losing things,General Hassles,1
+20,Female,38,26,29,24,19,Silly practical mistakes,General Hassles,2
+20,Female,38,26,29,24,19,Trouble with pets,General Hassles,1
+20,Female,38,26,29,24,19,Difficulties with friends,General Hassles,1
+20,Female,38,26,29,24,19,Regrets over past decision/s,Inner Concerns,1
+20,Female,38,26,29,24,19,Concerned about the meaning of life,Inner Concerns,1
+20,Female,38,26,29,24,19,Being lonely,Inner Concerns,1
+20,Female,38,26,29,24,19,Inability to express oneself,Inner Concerns,1
+20,Female,38,26,29,24,19,Fear of rejection,Inner Concerns,1
+20,Female,38,26,29,24,19,Trouble making decisions,Inner Concerns,1
+20,Female,38,26,29,24,19,Physical appearance,Inner Concerns,2
+20,Female,38,26,29,24,19,Not seeing people,Inner Concerns,1
+20,Female,38,26,29,24,19,Troubling thoughts about one’s future,Inner Concerns,1
+20,Female,38,26,29,24,19,Not enough personal energy,Inner Concerns,1
+20,Female,38,26,29,24,19,Concerns about getting ahead,Inner Concerns,2
+20,Female,38,26,29,24,19,Fear of confrontation,Inner Concerns,1
+20,Female,38,26,29,24,19,Wasting time,Inner Concerns,1
+20,Female,38,26,29,24,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+20,Female,38,26,29,24,19,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+20,Female,38,26,29,24,19,Concerns about owing money,Financial Concerns,1
+20,Female,38,26,29,24,19,Concerns about money for emergencies,Financial Concerns,2
+20,Female,38,26,29,24,19,Financial security,Financial Concerns,2
+20,Female,38,26,29,24,19,Not enough time to do things one needs to,Time Pressures,3
+20,Female,38,26,29,24,19,Too many responsibilities,Time Pressures,1
+20,Female,38,26,29,24,19,Not getting enough rest,Time Pressures,2
+20,Female,38,26,29,24,19,Too many interruptions,Time Pressures,1
+20,Female,38,26,29,24,19,Not enough time for entertainment and recreation,Time Pressures,3
+20,Female,38,26,29,24,19,Too many meetings,Time Pressures,1
+20,Female,38,26,29,24,19,Social obligations,Time Pressures,1
+20,Female,38,26,29,24,19,Concerns about meeting high standards,Time Pressures,1
+20,Female,38,26,29,24,19,Noise,Time Pressures,1
+20,Female,38,26,29,24,19,Pollution,Environmental Hassles,1
+20,Female,38,26,29,24,19,Crime,Environmental Hassles,2
+20,Female,38,26,29,24,19,Traffic,Environmental Hassles,2
+20,Female,38,26,29,24,19,Concerns about news events,Environmental Hassles,2
+20,Female,38,26,29,24,19,Rising prices of common goods,Environmental Hassles,3
+20,Female,38,26,29,24,19,Concerns about accidents,Environmental Hassles,2
+20,Female,38,26,29,24,19,Yardwork or outside home maintenance,Family Hassles,1
+20,Female,38,26,29,24,19,Overloaded with family responsibilities,Family Hassles,1
+20,Female,38,26,29,24,19,Home maintenance (inside),Family Hassles,2
+20,Female,38,26,29,24,19,Concerns about medical treatment,Health Hassles,1
+20,Female,38,26,29,24,19,Physical illness,Health Hassles,1
+20,Female,38,26,29,24,19,Side effects of medication,Health Hassles,1
+20,Female,38,26,29,24,19,Concerns about health in general,Health Hassles,1
+20,Female,38,26,29,24,19,Concerns about bodily functions,Health Hassles,1
+20,Female,38,26,29,24,19,Dissatisfaction with academic performance,Academic Hassles,1
+20,Female,38,26,29,24,19,Challenges with instructors,Academic Hassles,2
+20,Female,38,26,29,24,19,Discontent with current academic responsibilities,Academic Hassles,1
+20,Female,38,26,29,24,19,Concerns regarding academic transitions,Academic Hassles,1
+20,Female,38,26,29,24,19,Difficulties with peers or classmates,Academic Hassles,1
+20,Female,38,26,29,24,19,Challenges in managing group projects,Academic Hassles,1
+20,Female,38,26,29,24,19,Getting late to class,Academic Hassles,1
+19,Female,35,24,23,31,29,Misplacing or losing things,General Hassles,2
+19,Female,35,24,23,31,29,Silly practical mistakes,General Hassles,2
+19,Female,35,24,23,31,29,Trouble with pets,General Hassles,1
+19,Female,35,24,23,31,29,Difficulties with friends,General Hassles,2
+19,Female,35,24,23,31,29,Regrets over past decision/s,Inner Concerns,3
+19,Female,35,24,23,31,29,Concerned about the meaning of life,Inner Concerns,3
+19,Female,35,24,23,31,29,Being lonely,Inner Concerns,3
+19,Female,35,24,23,31,29,Inability to express oneself,Inner Concerns,3
+19,Female,35,24,23,31,29,Fear of rejection,Inner Concerns,4
+19,Female,35,24,23,31,29,Trouble making decisions,Inner Concerns,3
+19,Female,35,24,23,31,29,Physical appearance,Inner Concerns,4
+19,Female,35,24,23,31,29,Not seeing people,Inner Concerns,3
+19,Female,35,24,23,31,29,Troubling thoughts about one’s future,Inner Concerns,3
+19,Female,35,24,23,31,29,Not enough personal energy,Inner Concerns,3
+19,Female,35,24,23,31,29,Concerns about getting ahead,Inner Concerns,3
+19,Female,35,24,23,31,29,Fear of confrontation,Inner Concerns,3
+19,Female,35,24,23,31,29,Wasting time,Inner Concerns,3
+19,Female,35,24,23,31,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,3
+19,Female,35,24,23,31,29,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+19,Female,35,24,23,31,29,Concerns about owing money,Financial Concerns,3
+19,Female,35,24,23,31,29,Concerns about money for emergencies,Financial Concerns,3
+19,Female,35,24,23,31,29,Financial security,Financial Concerns,3
+19,Female,35,24,23,31,29,Not enough time to do things one needs to,Time Pressures,4
+19,Female,35,24,23,31,29,Too many responsibilities,Time Pressures,4
+19,Female,35,24,23,31,29,Not getting enough rest,Time Pressures,3
+19,Female,35,24,23,31,29,Too many interruptions,Time Pressures,3
+19,Female,35,24,23,31,29,Not enough time for entertainment and recreation,Time Pressures,3
+19,Female,35,24,23,31,29,Too many meetings,Time Pressures,2
+19,Female,35,24,23,31,29,Social obligations,Time Pressures,2
+19,Female,35,24,23,31,29,Concerns about meeting high standards,Time Pressures,4
+19,Female,35,24,23,31,29,Noise,Time Pressures,2
+19,Female,35,24,23,31,29,Pollution,Environmental Hassles,3
+19,Female,35,24,23,31,29,Crime,Environmental Hassles,3
+19,Female,35,24,23,31,29,Traffic,Environmental Hassles,3
+19,Female,35,24,23,31,29,Concerns about news events,Environmental Hassles,4
+19,Female,35,24,23,31,29,Rising prices of common goods,Environmental Hassles,4
+19,Female,35,24,23,31,29,Concerns about accidents,Environmental Hassles,3
+19,Female,35,24,23,31,29,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,35,24,23,31,29,Overloaded with family responsibilities,Family Hassles,2
+19,Female,35,24,23,31,29,Home maintenance (inside),Family Hassles,2
+19,Female,35,24,23,31,29,Concerns about medical treatment,Health Hassles,3
+19,Female,35,24,23,31,29,Physical illness,Health Hassles,3
+19,Female,35,24,23,31,29,Side effects of medication,Health Hassles,1
+19,Female,35,24,23,31,29,Concerns about health in general,Health Hassles,3
+19,Female,35,24,23,31,29,Concerns about bodily functions,Health Hassles,3
+19,Female,35,24,23,31,29,Dissatisfaction with academic performance,Academic Hassles,4
+19,Female,35,24,23,31,29,Challenges with instructors,Academic Hassles,3
+19,Female,35,24,23,31,29,Discontent with current academic responsibilities,Academic Hassles,3
+19,Female,35,24,23,31,29,Concerns regarding academic transitions,Academic Hassles,3
+19,Female,35,24,23,31,29,Difficulties with peers or classmates,Academic Hassles,2
+19,Female,35,24,23,31,29,Challenges in managing group projects,Academic Hassles,2
+19,Female,35,24,23,31,29,Getting late to class,Academic Hassles,1
+22,Male,33,23,37,27,27,Misplacing or losing things,General Hassles,3
+22,Male,33,23,37,27,27,Silly practical mistakes,General Hassles,4
+22,Male,33,23,37,27,27,Trouble with pets,General Hassles,1
+22,Male,33,23,37,27,27,Difficulties with friends,General Hassles,1
+22,Male,33,23,37,27,27,Regrets over past decision/s,Inner Concerns,5
+22,Male,33,23,37,27,27,Concerned about the meaning of life,Inner Concerns,1
+22,Male,33,23,37,27,27,Being lonely,Inner Concerns,1
+22,Male,33,23,37,27,27,Inability to express oneself,Inner Concerns,1
+22,Male,33,23,37,27,27,Fear of rejection,Inner Concerns,1
+22,Male,33,23,37,27,27,Trouble making decisions,Inner Concerns,3
+22,Male,33,23,37,27,27,Physical appearance,Inner Concerns,2
+22,Male,33,23,37,27,27,Not seeing people,Inner Concerns,3
+22,Male,33,23,37,27,27,Troubling thoughts about one’s future,Inner Concerns,2
+22,Male,33,23,37,27,27,Not enough personal energy,Inner Concerns,1
+22,Male,33,23,37,27,27,Concerns about getting ahead,Inner Concerns,2
+22,Male,33,23,37,27,27,Fear of confrontation,Inner Concerns,1
+22,Male,33,23,37,27,27,Wasting time,Inner Concerns,5
+22,Male,33,23,37,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,2
+22,Male,33,23,37,27,27,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+22,Male,33,23,37,27,27,Concerns about owing money,Financial Concerns,3
+22,Male,33,23,37,27,27,Concerns about money for emergencies,Financial Concerns,3
+22,Male,33,23,37,27,27,Financial security,Financial Concerns,2
+22,Male,33,23,37,27,27,Not enough time to do things one needs to,Time Pressures,3
+22,Male,33,23,37,27,27,Too many responsibilities,Time Pressures,3
+22,Male,33,23,37,27,27,Not getting enough rest,Time Pressures,4
+22,Male,33,23,37,27,27,Too many interruptions,Time Pressures,5
+22,Male,33,23,37,27,27,Not enough time for entertainment and recreation,Time Pressures,2
+22,Male,33,23,37,27,27,Too many meetings,Time Pressures,2
+22,Male,33,23,37,27,27,Social obligations,Time Pressures,3
+22,Male,33,23,37,27,27,Concerns about meeting high standards,Time Pressures,2
+22,Male,33,23,37,27,27,Noise,Time Pressures,1
+22,Male,33,23,37,27,27,Pollution,Environmental Hassles,2
+22,Male,33,23,37,27,27,Crime,Environmental Hassles,2
+22,Male,33,23,37,27,27,Traffic,Environmental Hassles,5
+22,Male,33,23,37,27,27,Concerns about news events,Environmental Hassles,2
+22,Male,33,23,37,27,27,Rising prices of common goods,Environmental Hassles,4
+22,Male,33,23,37,27,27,Concerns about accidents,Environmental Hassles,3
+22,Male,33,23,37,27,27,Yardwork or outside home maintenance,Family Hassles,4
+22,Male,33,23,37,27,27,Overloaded with family responsibilities,Family Hassles,4
+22,Male,33,23,37,27,27,Home maintenance (inside),Family Hassles,4
+22,Male,33,23,37,27,27,Concerns about medical treatment,Health Hassles,5
+22,Male,33,23,37,27,27,Physical illness,Health Hassles,4
+22,Male,33,23,37,27,27,Side effects of medication,Health Hassles,1
+22,Male,33,23,37,27,27,Concerns about health in general,Health Hassles,5
+22,Male,33,23,37,27,27,Concerns about bodily functions,Health Hassles,5
+22,Male,33,23,37,27,27,Dissatisfaction with academic performance,Academic Hassles,4
+22,Male,33,23,37,27,27,Challenges with instructors,Academic Hassles,3
+22,Male,33,23,37,27,27,Discontent with current academic responsibilities,Academic Hassles,4
+22,Male,33,23,37,27,27,Concerns regarding academic transitions,Academic Hassles,4
+22,Male,33,23,37,27,27,Difficulties with peers or classmates,Academic Hassles,2
+22,Male,33,23,37,27,27,Challenges in managing group projects,Academic Hassles,4
+22,Male,33,23,37,27,27,Getting late to class,Academic Hassles,1
+19,Male,34,33,24,32,23,Misplacing or losing things,General Hassles,3
+19,Male,34,33,24,32,23,Silly practical mistakes,General Hassles,1
+19,Male,34,33,24,32,23,Trouble with pets,General Hassles,2
+19,Male,34,33,24,32,23,Difficulties with friends,General Hassles,4
+19,Male,34,33,24,32,23,Regrets over past decision/s,Inner Concerns,2
+19,Male,34,33,24,32,23,Concerned about the meaning of life,Inner Concerns,2
+19,Male,34,33,24,32,23,Being lonely,Inner Concerns,2
+19,Male,34,33,24,32,23,Inability to express oneself,Inner Concerns,2
+19,Male,34,33,24,32,23,Fear of rejection,Inner Concerns,4
+19,Male,34,33,24,32,23,Trouble making decisions,Inner Concerns,3
+19,Male,34,33,24,32,23,Physical appearance,Inner Concerns,3
+19,Male,34,33,24,32,23,Not seeing people,Inner Concerns,1
+19,Male,34,33,24,32,23,Troubling thoughts about one’s future,Inner Concerns,3
+19,Male,34,33,24,32,23,Not enough personal energy,Inner Concerns,1
+19,Male,34,33,24,32,23,Concerns about getting ahead,Inner Concerns,1
+19,Male,34,33,24,32,23,Fear of confrontation,Inner Concerns,5
+19,Male,34,33,24,32,23,Wasting time,Inner Concerns,2
+19,Male,34,33,24,32,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+19,Male,34,33,24,32,23,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+19,Male,34,33,24,32,23,Concerns about owing money,Financial Concerns,3
+19,Male,34,33,24,32,23,Concerns about money for emergencies,Financial Concerns,3
+19,Male,34,33,24,32,23,Financial security,Financial Concerns,5
+19,Male,34,33,24,32,23,Not enough time to do things one needs to,Time Pressures,5
+19,Male,34,33,24,32,23,Too many responsibilities,Time Pressures,5
+19,Male,34,33,24,32,23,Not getting enough rest,Time Pressures,5
+19,Male,34,33,24,32,23,Too many interruptions,Time Pressures,5
+19,Male,34,33,24,32,23,Not enough time for entertainment and recreation,Time Pressures,4
+19,Male,34,33,24,32,23,Too many meetings,Time Pressures,5
+19,Male,34,33,24,32,23,Social obligations,Time Pressures,5
+19,Male,34,33,24,32,23,Concerns about meeting high standards,Time Pressures,5
+19,Male,34,33,24,32,23,Noise,Time Pressures,4
+19,Male,34,33,24,32,23,Pollution,Environmental Hassles,3
+19,Male,34,33,24,32,23,Crime,Environmental Hassles,4
+19,Male,34,33,24,32,23,Traffic,Environmental Hassles,3
+19,Male,34,33,24,32,23,Concerns about news events,Environmental Hassles,3
+19,Male,34,33,24,32,23,Rising prices of common goods,Environmental Hassles,4
+19,Male,34,33,24,32,23,Concerns about accidents,Environmental Hassles,4
+19,Male,34,33,24,32,23,Yardwork or outside home maintenance,Family Hassles,4
+19,Male,34,33,24,32,23,Overloaded with family responsibilities,Family Hassles,5
+19,Male,34,33,24,32,23,Home maintenance (inside),Family Hassles,5
+19,Male,34,33,24,32,23,Concerns about medical treatment,Health Hassles,3
+19,Male,34,33,24,32,23,Physical illness,Health Hassles,4
+19,Male,34,33,24,32,23,Side effects of medication,Health Hassles,3
+19,Male,34,33,24,32,23,Concerns about health in general,Health Hassles,4
+19,Male,34,33,24,32,23,Concerns about bodily functions,Health Hassles,3
+19,Male,34,33,24,32,23,Dissatisfaction with academic performance,Academic Hassles,1
+19,Male,34,33,24,32,23,Challenges with instructors,Academic Hassles,3
+19,Male,34,33,24,32,23,Discontent with current academic responsibilities,Academic Hassles,1
+19,Male,34,33,24,32,23,Concerns regarding academic transitions,Academic Hassles,1
+19,Male,34,33,24,32,23,Difficulties with peers or classmates,Academic Hassles,2
+19,Male,34,33,24,32,23,Challenges in managing group projects,Academic Hassles,5
+19,Male,34,33,24,32,23,Getting late to class,Academic Hassles,4
+20,Female,33,32,22,29,31,Misplacing or losing things,General Hassles,1
+20,Female,33,32,22,29,31,Silly practical mistakes,General Hassles,2
+20,Female,33,32,22,29,31,Trouble with pets,General Hassles,3
+20,Female,33,32,22,29,31,Difficulties with friends,General Hassles,3
+20,Female,33,32,22,29,31,Regrets over past decision/s,Inner Concerns,2
+20,Female,33,32,22,29,31,Concerned about the meaning of life,Inner Concerns,1
+20,Female,33,32,22,29,31,Being lonely,Inner Concerns,3
+20,Female,33,32,22,29,31,Inability to express oneself,Inner Concerns,2
+20,Female,33,32,22,29,31,Fear of rejection,Inner Concerns,2
+20,Female,33,32,22,29,31,Trouble making decisions,Inner Concerns,2
+20,Female,33,32,22,29,31,Physical appearance,Inner Concerns,2
+20,Female,33,32,22,29,31,Not seeing people,Inner Concerns,1
+20,Female,33,32,22,29,31,Troubling thoughts about one’s future,Inner Concerns,2
+20,Female,33,32,22,29,31,Not enough personal energy,Inner Concerns,1
+20,Female,33,32,22,29,31,Concerns about getting ahead,Inner Concerns,1
+20,Female,33,32,22,29,31,Fear of confrontation,Inner Concerns,1
+20,Female,33,32,22,29,31,Wasting time,Inner Concerns,4
+20,Female,33,32,22,29,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,4
+20,Female,33,32,22,29,31,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+20,Female,33,32,22,29,31,Concerns about owing money,Financial Concerns,5
+20,Female,33,32,22,29,31,Concerns about money for emergencies,Financial Concerns,3
+20,Female,33,32,22,29,31,Financial security,Financial Concerns,3
+20,Female,33,32,22,29,31,Not enough time to do things one needs to,Time Pressures,4
+20,Female,33,32,22,29,31,Too many responsibilities,Time Pressures,3
+20,Female,33,32,22,29,31,Not getting enough rest,Time Pressures,4
+20,Female,33,32,22,29,31,Too many interruptions,Time Pressures,4
+20,Female,33,32,22,29,31,Not enough time for entertainment and recreation,Time Pressures,3
+20,Female,33,32,22,29,31,Too many meetings,Time Pressures,3
+20,Female,33,32,22,29,31,Social obligations,Time Pressures,3
+20,Female,33,32,22,29,31,Concerns about meeting high standards,Time Pressures,3
+20,Female,33,32,22,29,31,Noise,Time Pressures,3
+20,Female,33,32,22,29,31,Pollution,Environmental Hassles,4
+20,Female,33,32,22,29,31,Crime,Environmental Hassles,4
+20,Female,33,32,22,29,31,Traffic,Environmental Hassles,4
+20,Female,33,32,22,29,31,Concerns about news events,Environmental Hassles,2
+20,Female,33,32,22,29,31,Rising prices of common goods,Environmental Hassles,4
+20,Female,33,32,22,29,31,Concerns about accidents,Environmental Hassles,4
+20,Female,33,32,22,29,31,Yardwork or outside home maintenance,Family Hassles,3
+20,Female,33,32,22,29,31,Overloaded with family responsibilities,Family Hassles,4
+20,Female,33,32,22,29,31,Home maintenance (inside),Family Hassles,5
+20,Female,33,32,22,29,31,Concerns about medical treatment,Health Hassles,5
+20,Female,33,32,22,29,31,Physical illness,Health Hassles,4
+20,Female,33,32,22,29,31,Side effects of medication,Health Hassles,3
+20,Female,33,32,22,29,31,Concerns about health in general,Health Hassles,4
+20,Female,33,32,22,29,31,Concerns about bodily functions,Health Hassles,3
+20,Female,33,32,22,29,31,Dissatisfaction with academic performance,Academic Hassles,3
+20,Female,33,32,22,29,31,Challenges with instructors,Academic Hassles,3
+20,Female,33,32,22,29,31,Discontent with current academic responsibilities,Academic Hassles,4
+20,Female,33,32,22,29,31,Concerns regarding academic transitions,Academic Hassles,3
+20,Female,33,32,22,29,31,Difficulties with peers or classmates,Academic Hassles,3
+20,Female,33,32,22,29,31,Challenges in managing group projects,Academic Hassles,4
+20,Female,33,32,22,29,31,Getting late to class,Academic Hassles,4
+21,Male,43,37,29,27,30,Misplacing or losing things,General Hassles,3
+21,Male,43,37,29,27,30,Silly practical mistakes,General Hassles,1
+21,Male,43,37,29,27,30,Trouble with pets,General Hassles,3
+21,Male,43,37,29,27,30,Difficulties with friends,General Hassles,5
+21,Male,43,37,29,27,30,Regrets over past decision/s,Inner Concerns,2
+21,Male,43,37,29,27,30,Concerned about the meaning of life,Inner Concerns,1
+21,Male,43,37,29,27,30,Being lonely,Inner Concerns,3
+21,Male,43,37,29,27,30,Inability to express oneself,Inner Concerns,3
+21,Male,43,37,29,27,30,Fear of rejection,Inner Concerns,5
+21,Male,43,37,29,27,30,Trouble making decisions,Inner Concerns,3
+21,Male,43,37,29,27,30,Physical appearance,Inner Concerns,3
+21,Male,43,37,29,27,30,Not seeing people,Inner Concerns,3
+21,Male,43,37,29,27,30,Troubling thoughts about one’s future,Inner Concerns,5
+21,Male,43,37,29,27,30,Not enough personal energy,Inner Concerns,2
+21,Male,43,37,29,27,30,Concerns about getting ahead,Inner Concerns,5
+21,Male,43,37,29,27,30,Fear of confrontation,Inner Concerns,1
+21,Male,43,37,29,27,30,Wasting time,Inner Concerns,2
+21,Male,43,37,29,27,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+21,Male,43,37,29,27,30,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+21,Male,43,37,29,27,30,Concerns about owing money,Financial Concerns,5
+21,Male,43,37,29,27,30,Concerns about money for emergencies,Financial Concerns,5
+21,Male,43,37,29,27,30,Financial security,Financial Concerns,5
+21,Male,43,37,29,27,30,Not enough time to do things one needs to,Time Pressures,5
+21,Male,43,37,29,27,30,Too many responsibilities,Time Pressures,5
+21,Male,43,37,29,27,30,Not getting enough rest,Time Pressures,2
+21,Male,43,37,29,27,30,Too many interruptions,Time Pressures,5
+21,Male,43,37,29,27,30,Not enough time for entertainment and recreation,Time Pressures,5
+21,Male,43,37,29,27,30,Too many meetings,Time Pressures,5
+21,Male,43,37,29,27,30,Social obligations,Time Pressures,2
+21,Male,43,37,29,27,30,Concerns about meeting high standards,Time Pressures,5
+21,Male,43,37,29,27,30,Noise,Time Pressures,1
+21,Male,43,37,29,27,30,Pollution,Environmental Hassles,5
+21,Male,43,37,29,27,30,Crime,Environmental Hassles,5
+21,Male,43,37,29,27,30,Traffic,Environmental Hassles,3
+21,Male,43,37,29,27,30,Concerns about news events,Environmental Hassles,2
+21,Male,43,37,29,27,30,Rising prices of common goods,Environmental Hassles,5
+21,Male,43,37,29,27,30,Concerns about accidents,Environmental Hassles,1
+21,Male,43,37,29,27,30,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,43,37,29,27,30,Overloaded with family responsibilities,Family Hassles,3
+21,Male,43,37,29,27,30,Home maintenance (inside),Family Hassles,2
+21,Male,43,37,29,27,30,Concerns about medical treatment,Health Hassles,3
+21,Male,43,37,29,27,30,Physical illness,Health Hassles,5
+21,Male,43,37,29,27,30,Side effects of medication,Health Hassles,5
+21,Male,43,37,29,27,30,Concerns about health in general,Health Hassles,4
+21,Male,43,37,29,27,30,Concerns about bodily functions,Health Hassles,5
+21,Male,43,37,29,27,30,Dissatisfaction with academic performance,Academic Hassles,5
+21,Male,43,37,29,27,30,Challenges with instructors,Academic Hassles,4
+21,Male,43,37,29,27,30,Discontent with current academic responsibilities,Academic Hassles,5
+21,Male,43,37,29,27,30,Concerns regarding academic transitions,Academic Hassles,5
+21,Male,43,37,29,27,30,Difficulties with peers or classmates,Academic Hassles,3
+21,Male,43,37,29,27,30,Challenges in managing group projects,Academic Hassles,1
+21,Male,43,37,29,27,30,Getting late to class,Academic Hassles,3
+21,Female,34,31,20,28,26,Misplacing or losing things,General Hassles,2
+21,Female,34,31,20,28,26,Silly practical mistakes,General Hassles,3
+21,Female,34,31,20,28,26,Trouble with pets,General Hassles,3
+21,Female,34,31,20,28,26,Difficulties with friends,General Hassles,3
+21,Female,34,31,20,28,26,Regrets over past decision/s,Inner Concerns,4
+21,Female,34,31,20,28,26,Concerned about the meaning of life,Inner Concerns,2
+21,Female,34,31,20,28,26,Being lonely,Inner Concerns,2
+21,Female,34,31,20,28,26,Inability to express oneself,Inner Concerns,3
+21,Female,34,31,20,28,26,Fear of rejection,Inner Concerns,3
+21,Female,34,31,20,28,26,Trouble making decisions,Inner Concerns,3
+21,Female,34,31,20,28,26,Physical appearance,Inner Concerns,3
+21,Female,34,31,20,28,26,Not seeing people,Inner Concerns,2
+21,Female,34,31,20,28,26,Troubling thoughts about one’s future,Inner Concerns,3
+21,Female,34,31,20,28,26,Not enough personal energy,Inner Concerns,3
+21,Female,34,31,20,28,26,Concerns about getting ahead,Inner Concerns,3
+21,Female,34,31,20,28,26,Fear of confrontation,Inner Concerns,4
+21,Female,34,31,20,28,26,Wasting time,Inner Concerns,3
+21,Female,34,31,20,28,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,4
+21,Female,34,31,20,28,26,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+21,Female,34,31,20,28,26,Concerns about owing money,Financial Concerns,3
+21,Female,34,31,20,28,26,Concerns about money for emergencies,Financial Concerns,5
+21,Female,34,31,20,28,26,Financial security,Financial Concerns,3
+21,Female,34,31,20,28,26,Not enough time to do things one needs to,Time Pressures,3
+21,Female,34,31,20,28,26,Too many responsibilities,Time Pressures,4
+21,Female,34,31,20,28,26,Not getting enough rest,Time Pressures,3
+21,Female,34,31,20,28,26,Too many interruptions,Time Pressures,3
+21,Female,34,31,20,28,26,Not enough time for entertainment and recreation,Time Pressures,2
+21,Female,34,31,20,28,26,Too many meetings,Time Pressures,3
+21,Female,34,31,20,28,26,Social obligations,Time Pressures,3
+21,Female,34,31,20,28,26,Concerns about meeting high standards,Time Pressures,4
+21,Female,34,31,20,28,26,Noise,Time Pressures,2
+21,Female,34,31,20,28,26,Pollution,Environmental Hassles,3
+21,Female,34,31,20,28,26,Crime,Environmental Hassles,4
+21,Female,34,31,20,28,26,Traffic,Environmental Hassles,3
+21,Female,34,31,20,28,26,Concerns about news events,Environmental Hassles,3
+21,Female,34,31,20,28,26,Rising prices of common goods,Environmental Hassles,3
+21,Female,34,31,20,28,26,Concerns about accidents,Environmental Hassles,4
+21,Female,34,31,20,28,26,Yardwork or outside home maintenance,Family Hassles,3
+21,Female,34,31,20,28,26,Overloaded with family responsibilities,Family Hassles,4
+21,Female,34,31,20,28,26,Home maintenance (inside),Family Hassles,3
+21,Female,34,31,20,28,26,Concerns about medical treatment,Health Hassles,4
+21,Female,34,31,20,28,26,Physical illness,Health Hassles,4
+21,Female,34,31,20,28,26,Side effects of medication,Health Hassles,4
+21,Female,34,31,20,28,26,Concerns about health in general,Health Hassles,4
+21,Female,34,31,20,28,26,Concerns about bodily functions,Health Hassles,4
+21,Female,34,31,20,28,26,Dissatisfaction with academic performance,Academic Hassles,4
+21,Female,34,31,20,28,26,Challenges with instructors,Academic Hassles,3
+21,Female,34,31,20,28,26,Discontent with current academic responsibilities,Academic Hassles,4
+21,Female,34,31,20,28,26,Concerns regarding academic transitions,Academic Hassles,3
+21,Female,34,31,20,28,26,Difficulties with peers or classmates,Academic Hassles,4
+21,Female,34,31,20,28,26,Challenges in managing group projects,Academic Hassles,3
+21,Female,34,31,20,28,26,Getting late to class,Academic Hassles,3
+22,Female,33,37,21,35,24,Misplacing or losing things,General Hassles,3
+22,Female,33,37,21,35,24,Silly practical mistakes,General Hassles,2
+22,Female,33,37,21,35,24,Trouble with pets,General Hassles,2
+22,Female,33,37,21,35,24,Difficulties with friends,General Hassles,3
+22,Female,33,37,21,35,24,Regrets over past decision/s,Inner Concerns,1
+22,Female,33,37,21,35,24,Concerned about the meaning of life,Inner Concerns,1
+22,Female,33,37,21,35,24,Being lonely,Inner Concerns,2
+22,Female,33,37,21,35,24,Inability to express oneself,Inner Concerns,2
+22,Female,33,37,21,35,24,Fear of rejection,Inner Concerns,3
+22,Female,33,37,21,35,24,Trouble making decisions,Inner Concerns,2
+22,Female,33,37,21,35,24,Physical appearance,Inner Concerns,2
+22,Female,33,37,21,35,24,Not seeing people,Inner Concerns,1
+22,Female,33,37,21,35,24,Troubling thoughts about one’s future,Inner Concerns,3
+22,Female,33,37,21,35,24,Not enough personal energy,Inner Concerns,3
+22,Female,33,37,21,35,24,Concerns about getting ahead,Inner Concerns,3
+22,Female,33,37,21,35,24,Fear of confrontation,Inner Concerns,3
+22,Female,33,37,21,35,24,Wasting time,Inner Concerns,2
+22,Female,33,37,21,35,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,4
+22,Female,33,37,21,35,24,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+22,Female,33,37,21,35,24,Concerns about owing money,Financial Concerns,3
+22,Female,33,37,21,35,24,Concerns about money for emergencies,Financial Concerns,3
+22,Female,33,37,21,35,24,Financial security,Financial Concerns,3
+22,Female,33,37,21,35,24,Not enough time to do things one needs to,Time Pressures,4
+22,Female,33,37,21,35,24,Too many responsibilities,Time Pressures,3
+22,Female,33,37,21,35,24,Not getting enough rest,Time Pressures,3
+22,Female,33,37,21,35,24,Too many interruptions,Time Pressures,3
+22,Female,33,37,21,35,24,Not enough time for entertainment and recreation,Time Pressures,3
+22,Female,33,37,21,35,24,Too many meetings,Time Pressures,3
+22,Female,33,37,21,35,24,Social obligations,Time Pressures,2
+22,Female,33,37,21,35,24,Concerns about meeting high standards,Time Pressures,4
+22,Female,33,37,21,35,24,Noise,Time Pressures,3
+22,Female,33,37,21,35,24,Pollution,Environmental Hassles,3
+22,Female,33,37,21,35,24,Crime,Environmental Hassles,4
+22,Female,33,37,21,35,24,Traffic,Environmental Hassles,3
+22,Female,33,37,21,35,24,Concerns about news events,Environmental Hassles,3
+22,Female,33,37,21,35,24,Rising prices of common goods,Environmental Hassles,3
+22,Female,33,37,21,35,24,Concerns about accidents,Environmental Hassles,3
+22,Female,33,37,21,35,24,Yardwork or outside home maintenance,Family Hassles,1
+22,Female,33,37,21,35,24,Overloaded with family responsibilities,Family Hassles,3
+22,Female,33,37,21,35,24,Home maintenance (inside),Family Hassles,2
+22,Female,33,37,21,35,24,Concerns about medical treatment,Health Hassles,3
+22,Female,33,37,21,35,24,Physical illness,Health Hassles,3
+22,Female,33,37,21,35,24,Side effects of medication,Health Hassles,3
+22,Female,33,37,21,35,24,Concerns about health in general,Health Hassles,3
+22,Female,33,37,21,35,24,Concerns about bodily functions,Health Hassles,4
+22,Female,33,37,21,35,24,Dissatisfaction with academic performance,Academic Hassles,3
+22,Female,33,37,21,35,24,Challenges with instructors,Academic Hassles,2
+22,Female,33,37,21,35,24,Discontent with current academic responsibilities,Academic Hassles,2
+22,Female,33,37,21,35,24,Concerns regarding academic transitions,Academic Hassles,2
+22,Female,33,37,21,35,24,Difficulties with peers or classmates,Academic Hassles,2
+22,Female,33,37,21,35,24,Challenges in managing group projects,Academic Hassles,2
+22,Female,33,37,21,35,24,Getting late to class,Academic Hassles,1
+22,Female,32,42,25,37,18,Misplacing or losing things,General Hassles,5
+22,Female,32,42,25,37,18,Silly practical mistakes,General Hassles,2
+22,Female,32,42,25,37,18,Trouble with pets,General Hassles,1
+22,Female,32,42,25,37,18,Difficulties with friends,General Hassles,4
+22,Female,32,42,25,37,18,Regrets over past decision/s,Inner Concerns,3
+22,Female,32,42,25,37,18,Concerned about the meaning of life,Inner Concerns,3
+22,Female,32,42,25,37,18,Being lonely,Inner Concerns,4
+22,Female,32,42,25,37,18,Inability to express oneself,Inner Concerns,5
+22,Female,32,42,25,37,18,Fear of rejection,Inner Concerns,4
+22,Female,32,42,25,37,18,Trouble making decisions,Inner Concerns,4
+22,Female,32,42,25,37,18,Physical appearance,Inner Concerns,3
+22,Female,32,42,25,37,18,Not seeing people,Inner Concerns,4
+22,Female,32,42,25,37,18,Troubling thoughts about one’s future,Inner Concerns,4
+22,Female,32,42,25,37,18,Not enough personal energy,Inner Concerns,4
+22,Female,32,42,25,37,18,Concerns about getting ahead,Inner Concerns,4
+22,Female,32,42,25,37,18,Fear of confrontation,Inner Concerns,5
+22,Female,32,42,25,37,18,Wasting time,Inner Concerns,4
+22,Female,32,42,25,37,18,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+22,Female,32,42,25,37,18,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+22,Female,32,42,25,37,18,Concerns about owing money,Financial Concerns,4
+22,Female,32,42,25,37,18,Concerns about money for emergencies,Financial Concerns,5
+22,Female,32,42,25,37,18,Financial security,Financial Concerns,5
+22,Female,32,42,25,37,18,Not enough time to do things one needs to,Time Pressures,5
+22,Female,32,42,25,37,18,Too many responsibilities,Time Pressures,5
+22,Female,32,42,25,37,18,Not getting enough rest,Time Pressures,4
+22,Female,32,42,25,37,18,Too many interruptions,Time Pressures,4
+22,Female,32,42,25,37,18,Not enough time for entertainment and recreation,Time Pressures,2
+22,Female,32,42,25,37,18,Too many meetings,Time Pressures,5
+22,Female,32,42,25,37,18,Social obligations,Time Pressures,4
+22,Female,32,42,25,37,18,Concerns about meeting high standards,Time Pressures,5
+22,Female,32,42,25,37,18,Noise,Time Pressures,3
+22,Female,32,42,25,37,18,Pollution,Environmental Hassles,3
+22,Female,32,42,25,37,18,Crime,Environmental Hassles,5
+22,Female,32,42,25,37,18,Traffic,Environmental Hassles,5
+22,Female,32,42,25,37,18,Concerns about news events,Environmental Hassles,4
+22,Female,32,42,25,37,18,Rising prices of common goods,Environmental Hassles,4
+22,Female,32,42,25,37,18,Concerns about accidents,Environmental Hassles,4
+22,Female,32,42,25,37,18,Yardwork or outside home maintenance,Family Hassles,3
+22,Female,32,42,25,37,18,Overloaded with family responsibilities,Family Hassles,4
+22,Female,32,42,25,37,18,Home maintenance (inside),Family Hassles,2
+22,Female,32,42,25,37,18,Concerns about medical treatment,Health Hassles,5
+22,Female,32,42,25,37,18,Physical illness,Health Hassles,5
+22,Female,32,42,25,37,18,Side effects of medication,Health Hassles,5
+22,Female,32,42,25,37,18,Concerns about health in general,Health Hassles,5
+22,Female,32,42,25,37,18,Concerns about bodily functions,Health Hassles,5
+22,Female,32,42,25,37,18,Dissatisfaction with academic performance,Academic Hassles,3
+22,Female,32,42,25,37,18,Challenges with instructors,Academic Hassles,4
+22,Female,32,42,25,37,18,Discontent with current academic responsibilities,Academic Hassles,5
+22,Female,32,42,25,37,18,Concerns regarding academic transitions,Academic Hassles,3
+22,Female,32,42,25,37,18,Difficulties with peers or classmates,Academic Hassles,4
+22,Female,32,42,25,37,18,Challenges in managing group projects,Academic Hassles,5
+22,Female,32,42,25,37,18,Getting late to class,Academic Hassles,5
+21,Male,36,31,19,32,26,Misplacing or losing things,General Hassles,3
+21,Male,36,31,19,32,26,Silly practical mistakes,General Hassles,1
+21,Male,36,31,19,32,26,Trouble with pets,General Hassles,2
+21,Male,36,31,19,32,26,Difficulties with friends,General Hassles,4
+21,Male,36,31,19,32,26,Regrets over past decision/s,Inner Concerns,1
+21,Male,36,31,19,32,26,Concerned about the meaning of life,Inner Concerns,4
+21,Male,36,31,19,32,26,Being lonely,Inner Concerns,3
+21,Male,36,31,19,32,26,Inability to express oneself,Inner Concerns,2
+21,Male,36,31,19,32,26,Fear of rejection,Inner Concerns,2
+21,Male,36,31,19,32,26,Trouble making decisions,Inner Concerns,3
+21,Male,36,31,19,32,26,Physical appearance,Inner Concerns,2
+21,Male,36,31,19,32,26,Not seeing people,Inner Concerns,2
+21,Male,36,31,19,32,26,Troubling thoughts about one’s future,Inner Concerns,2
+21,Male,36,31,19,32,26,Not enough personal energy,Inner Concerns,2
+21,Male,36,31,19,32,26,Concerns about getting ahead,Inner Concerns,2
+21,Male,36,31,19,32,26,Fear of confrontation,Inner Concerns,4
+21,Male,36,31,19,32,26,Wasting time,Inner Concerns,2
+21,Male,36,31,19,32,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,36,31,19,32,26,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+21,Male,36,31,19,32,26,Concerns about owing money,Financial Concerns,1
+21,Male,36,31,19,32,26,Concerns about money for emergencies,Financial Concerns,1
+21,Male,36,31,19,32,26,Financial security,Financial Concerns,3
+21,Male,36,31,19,32,26,Not enough time to do things one needs to,Time Pressures,3
+21,Male,36,31,19,32,26,Too many responsibilities,Time Pressures,3
+21,Male,36,31,19,32,26,Not getting enough rest,Time Pressures,3
+21,Male,36,31,19,32,26,Too many interruptions,Time Pressures,3
+21,Male,36,31,19,32,26,Not enough time for entertainment and recreation,Time Pressures,2
+21,Male,36,31,19,32,26,Too many meetings,Time Pressures,2
+21,Male,36,31,19,32,26,Social obligations,Time Pressures,3
+21,Male,36,31,19,32,26,Concerns about meeting high standards,Time Pressures,3
+21,Male,36,31,19,32,26,Noise,Time Pressures,4
+21,Male,36,31,19,32,26,Pollution,Environmental Hassles,2
+21,Male,36,31,19,32,26,Crime,Environmental Hassles,3
+21,Male,36,31,19,32,26,Traffic,Environmental Hassles,3
+21,Male,36,31,19,32,26,Concerns about news events,Environmental Hassles,3
+21,Male,36,31,19,32,26,Rising prices of common goods,Environmental Hassles,2
+21,Male,36,31,19,32,26,Concerns about accidents,Environmental Hassles,2
+21,Male,36,31,19,32,26,Yardwork or outside home maintenance,Family Hassles,2
+21,Male,36,31,19,32,26,Overloaded with family responsibilities,Family Hassles,2
+21,Male,36,31,19,32,26,Home maintenance (inside),Family Hassles,2
+21,Male,36,31,19,32,26,Concerns about medical treatment,Health Hassles,3
+21,Male,36,31,19,32,26,Physical illness,Health Hassles,3
+21,Male,36,31,19,32,26,Side effects of medication,Health Hassles,3
+21,Male,36,31,19,32,26,Concerns about health in general,Health Hassles,2
+21,Male,36,31,19,32,26,Concerns about bodily functions,Health Hassles,2
+21,Male,36,31,19,32,26,Dissatisfaction with academic performance,Academic Hassles,2
+21,Male,36,31,19,32,26,Challenges with instructors,Academic Hassles,3
+21,Male,36,31,19,32,26,Discontent with current academic responsibilities,Academic Hassles,3
+21,Male,36,31,19,32,26,Concerns regarding academic transitions,Academic Hassles,2
+21,Male,36,31,19,32,26,Difficulties with peers or classmates,Academic Hassles,3
+21,Male,36,31,19,32,26,Challenges in managing group projects,Academic Hassles,3
+21,Male,36,31,19,32,26,Getting late to class,Academic Hassles,4
+20,Female,43,37,33,29,26,Misplacing or losing things,General Hassles,1
+20,Female,43,37,33,29,26,Silly practical mistakes,General Hassles,1
+20,Female,43,37,33,29,26,Trouble with pets,General Hassles,1
+20,Female,43,37,33,29,26,Difficulties with friends,General Hassles,1
+20,Female,43,37,33,29,26,Regrets over past decision/s,Inner Concerns,1
+20,Female,43,37,33,29,26,Concerned about the meaning of life,Inner Concerns,2
+20,Female,43,37,33,29,26,Being lonely,Inner Concerns,2
+20,Female,43,37,33,29,26,Inability to express oneself,Inner Concerns,3
+20,Female,43,37,33,29,26,Fear of rejection,Inner Concerns,1
+20,Female,43,37,33,29,26,Trouble making decisions,Inner Concerns,2
+20,Female,43,37,33,29,26,Physical appearance,Inner Concerns,3
+20,Female,43,37,33,29,26,Not seeing people,Inner Concerns,1
+20,Female,43,37,33,29,26,Troubling thoughts about one’s future,Inner Concerns,3
+20,Female,43,37,33,29,26,Not enough personal energy,Inner Concerns,1
+20,Female,43,37,33,29,26,Concerns about getting ahead,Inner Concerns,2
+20,Female,43,37,33,29,26,Fear of confrontation,Inner Concerns,1
+20,Female,43,37,33,29,26,Wasting time,Inner Concerns,3
+20,Female,43,37,33,29,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+20,Female,43,37,33,29,26,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+20,Female,43,37,33,29,26,Concerns about owing money,Financial Concerns,1
+20,Female,43,37,33,29,26,Concerns about money for emergencies,Financial Concerns,2
+20,Female,43,37,33,29,26,Financial security,Financial Concerns,3
+20,Female,43,37,33,29,26,Not enough time to do things one needs to,Time Pressures,3
+20,Female,43,37,33,29,26,Too many responsibilities,Time Pressures,2
+20,Female,43,37,33,29,26,Not getting enough rest,Time Pressures,3
+20,Female,43,37,33,29,26,Too many interruptions,Time Pressures,2
+20,Female,43,37,33,29,26,Not enough time for entertainment and recreation,Time Pressures,2
+20,Female,43,37,33,29,26,Too many meetings,Time Pressures,1
+20,Female,43,37,33,29,26,Social obligations,Time Pressures,2
+20,Female,43,37,33,29,26,Concerns about meeting high standards,Time Pressures,3
+20,Female,43,37,33,29,26,Noise,Time Pressures,1
+20,Female,43,37,33,29,26,Pollution,Environmental Hassles,3
+20,Female,43,37,33,29,26,Crime,Environmental Hassles,3
+20,Female,43,37,33,29,26,Traffic,Environmental Hassles,3
+20,Female,43,37,33,29,26,Concerns about news events,Environmental Hassles,1
+20,Female,43,37,33,29,26,Rising prices of common goods,Environmental Hassles,2
+20,Female,43,37,33,29,26,Concerns about accidents,Environmental Hassles,1
+20,Female,43,37,33,29,26,Yardwork or outside home maintenance,Family Hassles,2
+20,Female,43,37,33,29,26,Overloaded with family responsibilities,Family Hassles,2
+20,Female,43,37,33,29,26,Home maintenance (inside),Family Hassles,1
+20,Female,43,37,33,29,26,Concerns about medical treatment,Health Hassles,2
+20,Female,43,37,33,29,26,Physical illness,Health Hassles,2
+20,Female,43,37,33,29,26,Side effects of medication,Health Hassles,2
+20,Female,43,37,33,29,26,Concerns about health in general,Health Hassles,3
+20,Female,43,37,33,29,26,Concerns about bodily functions,Health Hassles,3
+20,Female,43,37,33,29,26,Dissatisfaction with academic performance,Academic Hassles,3
+20,Female,43,37,33,29,26,Challenges with instructors,Academic Hassles,2
+20,Female,43,37,33,29,26,Discontent with current academic responsibilities,Academic Hassles,3
+20,Female,43,37,33,29,26,Concerns regarding academic transitions,Academic Hassles,2
+20,Female,43,37,33,29,26,Difficulties with peers or classmates,Academic Hassles,2
+20,Female,43,37,33,29,26,Challenges in managing group projects,Academic Hassles,3
+20,Female,43,37,33,29,26,Getting late to class,Academic Hassles,1
+20,Others,36,20,22,31,29,Misplacing or losing things,General Hassles,3
+20,Others,36,20,22,31,29,Silly practical mistakes,General Hassles,3
+20,Others,36,20,22,31,29,Trouble with pets,General Hassles,1
+20,Others,36,20,22,31,29,Difficulties with friends,General Hassles,2
+20,Others,36,20,22,31,29,Regrets over past decision/s,Inner Concerns,5
+20,Others,36,20,22,31,29,Concerned about the meaning of life,Inner Concerns,5
+20,Others,36,20,22,31,29,Being lonely,Inner Concerns,5
+20,Others,36,20,22,31,29,Inability to express oneself,Inner Concerns,5
+20,Others,36,20,22,31,29,Fear of rejection,Inner Concerns,5
+20,Others,36,20,22,31,29,Trouble making decisions,Inner Concerns,2
+20,Others,36,20,22,31,29,Physical appearance,Inner Concerns,5
+20,Others,36,20,22,31,29,Not seeing people,Inner Concerns,4
+20,Others,36,20,22,31,29,Troubling thoughts about one’s future,Inner Concerns,5
+20,Others,36,20,22,31,29,Not enough personal energy,Inner Concerns,5
+20,Others,36,20,22,31,29,Concerns about getting ahead,Inner Concerns,5
+20,Others,36,20,22,31,29,Fear of confrontation,Inner Concerns,1
+20,Others,36,20,22,31,29,Wasting time,Inner Concerns,1
+20,Others,36,20,22,31,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,4
+20,Others,36,20,22,31,29,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+20,Others,36,20,22,31,29,Concerns about owing money,Financial Concerns,4
+20,Others,36,20,22,31,29,Concerns about money for emergencies,Financial Concerns,4
+20,Others,36,20,22,31,29,Financial security,Financial Concerns,4
+20,Others,36,20,22,31,29,Not enough time to do things one needs to,Time Pressures,2
+20,Others,36,20,22,31,29,Too many responsibilities,Time Pressures,3
+20,Others,36,20,22,31,29,Not getting enough rest,Time Pressures,3
+20,Others,36,20,22,31,29,Too many interruptions,Time Pressures,3
+20,Others,36,20,22,31,29,Not enough time for entertainment and recreation,Time Pressures,3
+20,Others,36,20,22,31,29,Too many meetings,Time Pressures,2
+20,Others,36,20,22,31,29,Social obligations,Time Pressures,3
+20,Others,36,20,22,31,29,Concerns about meeting high standards,Time Pressures,3
+20,Others,36,20,22,31,29,Noise,Time Pressures,4
+20,Others,36,20,22,31,29,Pollution,Environmental Hassles,3
+20,Others,36,20,22,31,29,Crime,Environmental Hassles,3
+20,Others,36,20,22,31,29,Traffic,Environmental Hassles,4
+20,Others,36,20,22,31,29,Concerns about news events,Environmental Hassles,4
+20,Others,36,20,22,31,29,Rising prices of common goods,Environmental Hassles,4
+20,Others,36,20,22,31,29,Concerns about accidents,Environmental Hassles,4
+20,Others,36,20,22,31,29,Yardwork or outside home maintenance,Family Hassles,1
+20,Others,36,20,22,31,29,Overloaded with family responsibilities,Family Hassles,2
+20,Others,36,20,22,31,29,Home maintenance (inside),Family Hassles,2
+20,Others,36,20,22,31,29,Concerns about medical treatment,Health Hassles,3
+20,Others,36,20,22,31,29,Physical illness,Health Hassles,2
+20,Others,36,20,22,31,29,Side effects of medication,Health Hassles,1
+20,Others,36,20,22,31,29,Concerns about health in general,Health Hassles,3
+20,Others,36,20,22,31,29,Concerns about bodily functions,Health Hassles,3
+20,Others,36,20,22,31,29,Dissatisfaction with academic performance,Academic Hassles,4
+20,Others,36,20,22,31,29,Challenges with instructors,Academic Hassles,4
+20,Others,36,20,22,31,29,Discontent with current academic responsibilities,Academic Hassles,5
+20,Others,36,20,22,31,29,Concerns regarding academic transitions,Academic Hassles,5
+20,Others,36,20,22,31,29,Difficulties with peers or classmates,Academic Hassles,5
+20,Others,36,20,22,31,29,Challenges in managing group projects,Academic Hassles,4
+20,Others,36,20,22,31,29,Getting late to class,Academic Hassles,5
+21,Male,35,30,21,31,26,Misplacing or losing things,General Hassles,4
+21,Male,35,30,21,31,26,Silly practical mistakes,General Hassles,2
+21,Male,35,30,21,31,26,Trouble with pets,General Hassles,2
+21,Male,35,30,21,31,26,Difficulties with friends,General Hassles,3
+21,Male,35,30,21,31,26,Regrets over past decision/s,Inner Concerns,4
+21,Male,35,30,21,31,26,Concerned about the meaning of life,Inner Concerns,3
+21,Male,35,30,21,31,26,Being lonely,Inner Concerns,4
+21,Male,35,30,21,31,26,Inability to express oneself,Inner Concerns,4
+21,Male,35,30,21,31,26,Fear of rejection,Inner Concerns,4
+21,Male,35,30,21,31,26,Trouble making decisions,Inner Concerns,5
+21,Male,35,30,21,31,26,Physical appearance,Inner Concerns,3
+21,Male,35,30,21,31,26,Not seeing people,Inner Concerns,3
+21,Male,35,30,21,31,26,Troubling thoughts about one’s future,Inner Concerns,5
+21,Male,35,30,21,31,26,Not enough personal energy,Inner Concerns,3
+21,Male,35,30,21,31,26,Concerns about getting ahead,Inner Concerns,4
+21,Male,35,30,21,31,26,Fear of confrontation,Inner Concerns,3
+21,Male,35,30,21,31,26,Wasting time,Inner Concerns,3
+21,Male,35,30,21,31,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,3
+21,Male,35,30,21,31,26,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+21,Male,35,30,21,31,26,Concerns about owing money,Financial Concerns,3
+21,Male,35,30,21,31,26,Concerns about money for emergencies,Financial Concerns,3
+21,Male,35,30,21,31,26,Financial security,Financial Concerns,3
+21,Male,35,30,21,31,26,Not enough time to do things one needs to,Time Pressures,5
+21,Male,35,30,21,31,26,Too many responsibilities,Time Pressures,5
+21,Male,35,30,21,31,26,Not getting enough rest,Time Pressures,4
+21,Male,35,30,21,31,26,Too many interruptions,Time Pressures,3
+21,Male,35,30,21,31,26,Not enough time for entertainment and recreation,Time Pressures,3
+21,Male,35,30,21,31,26,Too many meetings,Time Pressures,3
+21,Male,35,30,21,31,26,Social obligations,Time Pressures,3
+21,Male,35,30,21,31,26,Concerns about meeting high standards,Time Pressures,4
+21,Male,35,30,21,31,26,Noise,Time Pressures,3
+21,Male,35,30,21,31,26,Pollution,Environmental Hassles,3
+21,Male,35,30,21,31,26,Crime,Environmental Hassles,4
+21,Male,35,30,21,31,26,Traffic,Environmental Hassles,3
+21,Male,35,30,21,31,26,Concerns about news events,Environmental Hassles,2
+21,Male,35,30,21,31,26,Rising prices of common goods,Environmental Hassles,2
+21,Male,35,30,21,31,26,Concerns about accidents,Environmental Hassles,3
+21,Male,35,30,21,31,26,Yardwork or outside home maintenance,Family Hassles,3
+21,Male,35,30,21,31,26,Overloaded with family responsibilities,Family Hassles,3
+21,Male,35,30,21,31,26,Home maintenance (inside),Family Hassles,3
+21,Male,35,30,21,31,26,Concerns about medical treatment,Health Hassles,3
+21,Male,35,30,21,31,26,Physical illness,Health Hassles,4
+21,Male,35,30,21,31,26,Side effects of medication,Health Hassles,3
+21,Male,35,30,21,31,26,Concerns about health in general,Health Hassles,3
+21,Male,35,30,21,31,26,Concerns about bodily functions,Health Hassles,3
+21,Male,35,30,21,31,26,Dissatisfaction with academic performance,Academic Hassles,4
+21,Male,35,30,21,31,26,Challenges with instructors,Academic Hassles,3
+21,Male,35,30,21,31,26,Discontent with current academic responsibilities,Academic Hassles,4
+21,Male,35,30,21,31,26,Concerns regarding academic transitions,Academic Hassles,4
+21,Male,35,30,21,31,26,Difficulties with peers or classmates,Academic Hassles,4
+21,Male,35,30,21,31,26,Challenges in managing group projects,Academic Hassles,5
+21,Male,35,30,21,31,26,Getting late to class,Academic Hassles,2
+21,Male,38,25,24,36,19,Misplacing or losing things,General Hassles,1
+21,Male,38,25,24,36,19,Silly practical mistakes,General Hassles,1
+21,Male,38,25,24,36,19,Trouble with pets,General Hassles,1
+21,Male,38,25,24,36,19,Difficulties with friends,General Hassles,2
+21,Male,38,25,24,36,19,Regrets over past decision/s,Inner Concerns,1
+21,Male,38,25,24,36,19,Concerned about the meaning of life,Inner Concerns,1
+21,Male,38,25,24,36,19,Being lonely,Inner Concerns,1
+21,Male,38,25,24,36,19,Inability to express oneself,Inner Concerns,1
+21,Male,38,25,24,36,19,Fear of rejection,Inner Concerns,1
+21,Male,38,25,24,36,19,Trouble making decisions,Inner Concerns,1
+21,Male,38,25,24,36,19,Physical appearance,Inner Concerns,2
+21,Male,38,25,24,36,19,Not seeing people,Inner Concerns,1
+21,Male,38,25,24,36,19,Troubling thoughts about one’s future,Inner Concerns,2
+21,Male,38,25,24,36,19,Not enough personal energy,Inner Concerns,2
+21,Male,38,25,24,36,19,Concerns about getting ahead,Inner Concerns,2
+21,Male,38,25,24,36,19,Fear of confrontation,Inner Concerns,1
+21,Male,38,25,24,36,19,Wasting time,Inner Concerns,1
+21,Male,38,25,24,36,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,38,25,24,36,19,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Male,38,25,24,36,19,Concerns about owing money,Financial Concerns,2
+21,Male,38,25,24,36,19,Concerns about money for emergencies,Financial Concerns,1
+21,Male,38,25,24,36,19,Financial security,Financial Concerns,2
+21,Male,38,25,24,36,19,Not enough time to do things one needs to,Time Pressures,3
+21,Male,38,25,24,36,19,Too many responsibilities,Time Pressures,4
+21,Male,38,25,24,36,19,Not getting enough rest,Time Pressures,3
+21,Male,38,25,24,36,19,Too many interruptions,Time Pressures,2
+21,Male,38,25,24,36,19,Not enough time for entertainment and recreation,Time Pressures,4
+21,Male,38,25,24,36,19,Too many meetings,Time Pressures,2
+21,Male,38,25,24,36,19,Social obligations,Time Pressures,1
+21,Male,38,25,24,36,19,Concerns about meeting high standards,Time Pressures,1
+21,Male,38,25,24,36,19,Noise,Time Pressures,3
+21,Male,38,25,24,36,19,Pollution,Environmental Hassles,4
+21,Male,38,25,24,36,19,Crime,Environmental Hassles,2
+21,Male,38,25,24,36,19,Traffic,Environmental Hassles,1
+21,Male,38,25,24,36,19,Concerns about news events,Environmental Hassles,1
+21,Male,38,25,24,36,19,Rising prices of common goods,Environmental Hassles,1
+21,Male,38,25,24,36,19,Concerns about accidents,Environmental Hassles,2
+21,Male,38,25,24,36,19,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,38,25,24,36,19,Overloaded with family responsibilities,Family Hassles,1
+21,Male,38,25,24,36,19,Home maintenance (inside),Family Hassles,1
+21,Male,38,25,24,36,19,Concerns about medical treatment,Health Hassles,1
+21,Male,38,25,24,36,19,Physical illness,Health Hassles,2
+21,Male,38,25,24,36,19,Side effects of medication,Health Hassles,1
+21,Male,38,25,24,36,19,Concerns about health in general,Health Hassles,2
+21,Male,38,25,24,36,19,Concerns about bodily functions,Health Hassles,1
+21,Male,38,25,24,36,19,Dissatisfaction with academic performance,Academic Hassles,2
+21,Male,38,25,24,36,19,Challenges with instructors,Academic Hassles,2
+21,Male,38,25,24,36,19,Discontent with current academic responsibilities,Academic Hassles,3
+21,Male,38,25,24,36,19,Concerns regarding academic transitions,Academic Hassles,1
+21,Male,38,25,24,36,19,Difficulties with peers or classmates,Academic Hassles,2
+21,Male,38,25,24,36,19,Challenges in managing group projects,Academic Hassles,2
+21,Male,38,25,24,36,19,Getting late to class,Academic Hassles,1
+19,Female,43,24,30,35,25,Misplacing or losing things,General Hassles,4
+19,Female,43,24,30,35,25,Silly practical mistakes,General Hassles,2
+19,Female,43,24,30,35,25,Trouble with pets,General Hassles,5
+19,Female,43,24,30,35,25,Difficulties with friends,General Hassles,1
+19,Female,43,24,30,35,25,Regrets over past decision/s,Inner Concerns,5
+19,Female,43,24,30,35,25,Concerned about the meaning of life,Inner Concerns,5
+19,Female,43,24,30,35,25,Being lonely,Inner Concerns,3
+19,Female,43,24,30,35,25,Inability to express oneself,Inner Concerns,2
+19,Female,43,24,30,35,25,Fear of rejection,Inner Concerns,5
+19,Female,43,24,30,35,25,Trouble making decisions,Inner Concerns,4
+19,Female,43,24,30,35,25,Physical appearance,Inner Concerns,5
+19,Female,43,24,30,35,25,Not seeing people,Inner Concerns,1
+19,Female,43,24,30,35,25,Troubling thoughts about one’s future,Inner Concerns,5
+19,Female,43,24,30,35,25,Not enough personal energy,Inner Concerns,3
+19,Female,43,24,30,35,25,Concerns about getting ahead,Inner Concerns,2
+19,Female,43,24,30,35,25,Fear of confrontation,Inner Concerns,3
+19,Female,43,24,30,35,25,Wasting time,Inner Concerns,4
+19,Female,43,24,30,35,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,43,24,30,35,25,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+19,Female,43,24,30,35,25,Concerns about owing money,Financial Concerns,1
+19,Female,43,24,30,35,25,Concerns about money for emergencies,Financial Concerns,2
+19,Female,43,24,30,35,25,Financial security,Financial Concerns,3
+19,Female,43,24,30,35,25,Not enough time to do things one needs to,Time Pressures,4
+19,Female,43,24,30,35,25,Too many responsibilities,Time Pressures,3
+19,Female,43,24,30,35,25,Not getting enough rest,Time Pressures,5
+19,Female,43,24,30,35,25,Too many interruptions,Time Pressures,2
+19,Female,43,24,30,35,25,Not enough time for entertainment and recreation,Time Pressures,3
+19,Female,43,24,30,35,25,Too many meetings,Time Pressures,1
+19,Female,43,24,30,35,25,Social obligations,Time Pressures,1
+19,Female,43,24,30,35,25,Concerns about meeting high standards,Time Pressures,5
+19,Female,43,24,30,35,25,Noise,Time Pressures,3
+19,Female,43,24,30,35,25,Pollution,Environmental Hassles,4
+19,Female,43,24,30,35,25,Crime,Environmental Hassles,3
+19,Female,43,24,30,35,25,Traffic,Environmental Hassles,5
+19,Female,43,24,30,35,25,Concerns about news events,Environmental Hassles,2
+19,Female,43,24,30,35,25,Rising prices of common goods,Environmental Hassles,3
+19,Female,43,24,30,35,25,Concerns about accidents,Environmental Hassles,5
+19,Female,43,24,30,35,25,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,43,24,30,35,25,Overloaded with family responsibilities,Family Hassles,3
+19,Female,43,24,30,35,25,Home maintenance (inside),Family Hassles,2
+19,Female,43,24,30,35,25,Concerns about medical treatment,Health Hassles,1
+19,Female,43,24,30,35,25,Physical illness,Health Hassles,3
+19,Female,43,24,30,35,25,Side effects of medication,Health Hassles,2
+19,Female,43,24,30,35,25,Concerns about health in general,Health Hassles,5
+19,Female,43,24,30,35,25,Concerns about bodily functions,Health Hassles,5
+19,Female,43,24,30,35,25,Dissatisfaction with academic performance,Academic Hassles,5
+19,Female,43,24,30,35,25,Challenges with instructors,Academic Hassles,5
+19,Female,43,24,30,35,25,Discontent with current academic responsibilities,Academic Hassles,5
+19,Female,43,24,30,35,25,Concerns regarding academic transitions,Academic Hassles,5
+19,Female,43,24,30,35,25,Difficulties with peers or classmates,Academic Hassles,2
+19,Female,43,24,30,35,25,Challenges in managing group projects,Academic Hassles,2
+19,Female,43,24,30,35,25,Getting late to class,Academic Hassles,1
+19,Female,44,29,20,31,24,Misplacing or losing things,General Hassles,4
+19,Female,44,29,20,31,24,Silly practical mistakes,General Hassles,3
+19,Female,44,29,20,31,24,Trouble with pets,General Hassles,1
+19,Female,44,29,20,31,24,Difficulties with friends,General Hassles,3
+19,Female,44,29,20,31,24,Regrets over past decision/s,Inner Concerns,5
+19,Female,44,29,20,31,24,Concerned about the meaning of life,Inner Concerns,5
+19,Female,44,29,20,31,24,Being lonely,Inner Concerns,4
+19,Female,44,29,20,31,24,Inability to express oneself,Inner Concerns,2
+19,Female,44,29,20,31,24,Fear of rejection,Inner Concerns,5
+19,Female,44,29,20,31,24,Trouble making decisions,Inner Concerns,3
+19,Female,44,29,20,31,24,Physical appearance,Inner Concerns,3
+19,Female,44,29,20,31,24,Not seeing people,Inner Concerns,3
+19,Female,44,29,20,31,24,Troubling thoughts about one’s future,Inner Concerns,4
+19,Female,44,29,20,31,24,Not enough personal energy,Inner Concerns,2
+19,Female,44,29,20,31,24,Concerns about getting ahead,Inner Concerns,4
+19,Female,44,29,20,31,24,Fear of confrontation,Inner Concerns,5
+19,Female,44,29,20,31,24,Wasting time,Inner Concerns,5
+19,Female,44,29,20,31,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,44,29,20,31,24,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+19,Female,44,29,20,31,24,Concerns about owing money,Financial Concerns,1
+19,Female,44,29,20,31,24,Concerns about money for emergencies,Financial Concerns,1
+19,Female,44,29,20,31,24,Financial security,Financial Concerns,1
+19,Female,44,29,20,31,24,Not enough time to do things one needs to,Time Pressures,4
+19,Female,44,29,20,31,24,Too many responsibilities,Time Pressures,4
+19,Female,44,29,20,31,24,Not getting enough rest,Time Pressures,5
+19,Female,44,29,20,31,24,Too many interruptions,Time Pressures,3
+19,Female,44,29,20,31,24,Not enough time for entertainment and recreation,Time Pressures,3
+19,Female,44,29,20,31,24,Too many meetings,Time Pressures,4
+19,Female,44,29,20,31,24,Social obligations,Time Pressures,5
+19,Female,44,29,20,31,24,Concerns about meeting high standards,Time Pressures,5
+19,Female,44,29,20,31,24,Noise,Time Pressures,5
+19,Female,44,29,20,31,24,Pollution,Environmental Hassles,5
+19,Female,44,29,20,31,24,Crime,Environmental Hassles,2
+19,Female,44,29,20,31,24,Traffic,Environmental Hassles,3
+19,Female,44,29,20,31,24,Concerns about news events,Environmental Hassles,2
+19,Female,44,29,20,31,24,Rising prices of common goods,Environmental Hassles,3
+19,Female,44,29,20,31,24,Concerns about accidents,Environmental Hassles,3
+19,Female,44,29,20,31,24,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,44,29,20,31,24,Overloaded with family responsibilities,Family Hassles,1
+19,Female,44,29,20,31,24,Home maintenance (inside),Family Hassles,1
+19,Female,44,29,20,31,24,Concerns about medical treatment,Health Hassles,1
+19,Female,44,29,20,31,24,Physical illness,Health Hassles,1
+19,Female,44,29,20,31,24,Side effects of medication,Health Hassles,1
+19,Female,44,29,20,31,24,Concerns about health in general,Health Hassles,4
+19,Female,44,29,20,31,24,Concerns about bodily functions,Health Hassles,3
+19,Female,44,29,20,31,24,Dissatisfaction with academic performance,Academic Hassles,5
+19,Female,44,29,20,31,24,Challenges with instructors,Academic Hassles,5
+19,Female,44,29,20,31,24,Discontent with current academic responsibilities,Academic Hassles,5
+19,Female,44,29,20,31,24,Concerns regarding academic transitions,Academic Hassles,5
+19,Female,44,29,20,31,24,Difficulties with peers or classmates,Academic Hassles,3
+19,Female,44,29,20,31,24,Challenges in managing group projects,Academic Hassles,3
+19,Female,44,29,20,31,24,Getting late to class,Academic Hassles,4
+19,Female,33,24,16,35,28,Misplacing or losing things,General Hassles,3
+19,Female,33,24,16,35,28,Silly practical mistakes,General Hassles,3
+19,Female,33,24,16,35,28,Trouble with pets,General Hassles,1
+19,Female,33,24,16,35,28,Difficulties with friends,General Hassles,1
+19,Female,33,24,16,35,28,Regrets over past decision/s,Inner Concerns,3
+19,Female,33,24,16,35,28,Concerned about the meaning of life,Inner Concerns,2
+19,Female,33,24,16,35,28,Being lonely,Inner Concerns,2
+19,Female,33,24,16,35,28,Inability to express oneself,Inner Concerns,3
+19,Female,33,24,16,35,28,Fear of rejection,Inner Concerns,3
+19,Female,33,24,16,35,28,Trouble making decisions,Inner Concerns,4
+19,Female,33,24,16,35,28,Physical appearance,Inner Concerns,4
+19,Female,33,24,16,35,28,Not seeing people,Inner Concerns,1
+19,Female,33,24,16,35,28,Troubling thoughts about one’s future,Inner Concerns,3
+19,Female,33,24,16,35,28,Not enough personal energy,Inner Concerns,2
+19,Female,33,24,16,35,28,Concerns about getting ahead,Inner Concerns,3
+19,Female,33,24,16,35,28,Fear of confrontation,Inner Concerns,3
+19,Female,33,24,16,35,28,Wasting time,Inner Concerns,1
+19,Female,33,24,16,35,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,33,24,16,35,28,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+19,Female,33,24,16,35,28,Concerns about owing money,Financial Concerns,3
+19,Female,33,24,16,35,28,Concerns about money for emergencies,Financial Concerns,1
+19,Female,33,24,16,35,28,Financial security,Financial Concerns,1
+19,Female,33,24,16,35,28,Not enough time to do things one needs to,Time Pressures,1
+19,Female,33,24,16,35,28,Too many responsibilities,Time Pressures,2
+19,Female,33,24,16,35,28,Not getting enough rest,Time Pressures,2
+19,Female,33,24,16,35,28,Too many interruptions,Time Pressures,3
+19,Female,33,24,16,35,28,Not enough time for entertainment and recreation,Time Pressures,1
+19,Female,33,24,16,35,28,Too many meetings,Time Pressures,2
+19,Female,33,24,16,35,28,Social obligations,Time Pressures,1
+19,Female,33,24,16,35,28,Concerns about meeting high standards,Time Pressures,2
+19,Female,33,24,16,35,28,Noise,Time Pressures,2
+19,Female,33,24,16,35,28,Pollution,Environmental Hassles,2
+19,Female,33,24,16,35,28,Crime,Environmental Hassles,3
+19,Female,33,24,16,35,28,Traffic,Environmental Hassles,2
+19,Female,33,24,16,35,28,Concerns about news events,Environmental Hassles,2
+19,Female,33,24,16,35,28,Rising prices of common goods,Environmental Hassles,4
+19,Female,33,24,16,35,28,Concerns about accidents,Environmental Hassles,4
+19,Female,33,24,16,35,28,Yardwork or outside home maintenance,Family Hassles,2
+19,Female,33,24,16,35,28,Overloaded with family responsibilities,Family Hassles,2
+19,Female,33,24,16,35,28,Home maintenance (inside),Family Hassles,2
+19,Female,33,24,16,35,28,Concerns about medical treatment,Health Hassles,2
+19,Female,33,24,16,35,28,Physical illness,Health Hassles,3
+19,Female,33,24,16,35,28,Side effects of medication,Health Hassles,2
+19,Female,33,24,16,35,28,Concerns about health in general,Health Hassles,4
+19,Female,33,24,16,35,28,Concerns about bodily functions,Health Hassles,2
+19,Female,33,24,16,35,28,Dissatisfaction with academic performance,Academic Hassles,2
+19,Female,33,24,16,35,28,Challenges with instructors,Academic Hassles,2
+19,Female,33,24,16,35,28,Discontent with current academic responsibilities,Academic Hassles,3
+19,Female,33,24,16,35,28,Concerns regarding academic transitions,Academic Hassles,2
+19,Female,33,24,16,35,28,Difficulties with peers or classmates,Academic Hassles,1
+19,Female,33,24,16,35,28,Challenges in managing group projects,Academic Hassles,1
+19,Female,33,24,16,35,28,Getting late to class,Academic Hassles,1
+19,Female,40,39,28,30,17,Misplacing or losing things,General Hassles,2
+19,Female,40,39,28,30,17,Silly practical mistakes,General Hassles,2
+19,Female,40,39,28,30,17,Trouble with pets,General Hassles,1
+19,Female,40,39,28,30,17,Difficulties with friends,General Hassles,1
+19,Female,40,39,28,30,17,Regrets over past decision/s,Inner Concerns,2
+19,Female,40,39,28,30,17,Concerned about the meaning of life,Inner Concerns,2
+19,Female,40,39,28,30,17,Being lonely,Inner Concerns,1
+19,Female,40,39,28,30,17,Inability to express oneself,Inner Concerns,1
+19,Female,40,39,28,30,17,Fear of rejection,Inner Concerns,2
+19,Female,40,39,28,30,17,Trouble making decisions,Inner Concerns,1
+19,Female,40,39,28,30,17,Physical appearance,Inner Concerns,2
+19,Female,40,39,28,30,17,Not seeing people,Inner Concerns,1
+19,Female,40,39,28,30,17,Troubling thoughts about one’s future,Inner Concerns,3
+19,Female,40,39,28,30,17,Not enough personal energy,Inner Concerns,2
+19,Female,40,39,28,30,17,Concerns about getting ahead,Inner Concerns,1
+19,Female,40,39,28,30,17,Fear of confrontation,Inner Concerns,1
+19,Female,40,39,28,30,17,Wasting time,Inner Concerns,3
+19,Female,40,39,28,30,17,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,2
+19,Female,40,39,28,30,17,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+19,Female,40,39,28,30,17,Concerns about owing money,Financial Concerns,1
+19,Female,40,39,28,30,17,Concerns about money for emergencies,Financial Concerns,1
+19,Female,40,39,28,30,17,Financial security,Financial Concerns,2
+19,Female,40,39,28,30,17,Not enough time to do things one needs to,Time Pressures,3
+19,Female,40,39,28,30,17,Too many responsibilities,Time Pressures,2
+19,Female,40,39,28,30,17,Not getting enough rest,Time Pressures,3
+19,Female,40,39,28,30,17,Too many interruptions,Time Pressures,2
+19,Female,40,39,28,30,17,Not enough time for entertainment and recreation,Time Pressures,2
+19,Female,40,39,28,30,17,Too many meetings,Time Pressures,3
+19,Female,40,39,28,30,17,Social obligations,Time Pressures,1
+19,Female,40,39,28,30,17,Concerns about meeting high standards,Time Pressures,2
+19,Female,40,39,28,30,17,Noise,Time Pressures,2
+19,Female,40,39,28,30,17,Pollution,Environmental Hassles,3
+19,Female,40,39,28,30,17,Crime,Environmental Hassles,3
+19,Female,40,39,28,30,17,Traffic,Environmental Hassles,3
+19,Female,40,39,28,30,17,Concerns about news events,Environmental Hassles,2
+19,Female,40,39,28,30,17,Rising prices of common goods,Environmental Hassles,2
+19,Female,40,39,28,30,17,Concerns about accidents,Environmental Hassles,2
+19,Female,40,39,28,30,17,Yardwork or outside home maintenance,Family Hassles,2
+19,Female,40,39,28,30,17,Overloaded with family responsibilities,Family Hassles,2
+19,Female,40,39,28,30,17,Home maintenance (inside),Family Hassles,2
+19,Female,40,39,28,30,17,Concerns about medical treatment,Health Hassles,1
+19,Female,40,39,28,30,17,Physical illness,Health Hassles,1
+19,Female,40,39,28,30,17,Side effects of medication,Health Hassles,1
+19,Female,40,39,28,30,17,Concerns about health in general,Health Hassles,1
+19,Female,40,39,28,30,17,Concerns about bodily functions,Health Hassles,2
+19,Female,40,39,28,30,17,Dissatisfaction with academic performance,Academic Hassles,2
+19,Female,40,39,28,30,17,Challenges with instructors,Academic Hassles,3
+19,Female,40,39,28,30,17,Discontent with current academic responsibilities,Academic Hassles,2
+19,Female,40,39,28,30,17,Concerns regarding academic transitions,Academic Hassles,2
+19,Female,40,39,28,30,17,Difficulties with peers or classmates,Academic Hassles,2
+19,Female,40,39,28,30,17,Challenges in managing group projects,Academic Hassles,1
+19,Female,40,39,28,30,17,Getting late to class,Academic Hassles,1
+19,Female,36,23,32,25,26,Misplacing or losing things,General Hassles,4
+19,Female,36,23,32,25,26,Silly practical mistakes,General Hassles,4
+19,Female,36,23,32,25,26,Trouble with pets,General Hassles,2
+19,Female,36,23,32,25,26,Difficulties with friends,General Hassles,2
+19,Female,36,23,32,25,26,Regrets over past decision/s,Inner Concerns,4
+19,Female,36,23,32,25,26,Concerned about the meaning of life,Inner Concerns,3
+19,Female,36,23,32,25,26,Being lonely,Inner Concerns,3
+19,Female,36,23,32,25,26,Inability to express oneself,Inner Concerns,3
+19,Female,36,23,32,25,26,Fear of rejection,Inner Concerns,4
+19,Female,36,23,32,25,26,Trouble making decisions,Inner Concerns,4
+19,Female,36,23,32,25,26,Physical appearance,Inner Concerns,4
+19,Female,36,23,32,25,26,Not seeing people,Inner Concerns,3
+19,Female,36,23,32,25,26,Troubling thoughts about one’s future,Inner Concerns,4
+19,Female,36,23,32,25,26,Not enough personal energy,Inner Concerns,3
+19,Female,36,23,32,25,26,Concerns about getting ahead,Inner Concerns,3
+19,Female,36,23,32,25,26,Fear of confrontation,Inner Concerns,2
+19,Female,36,23,32,25,26,Wasting time,Inner Concerns,3
+19,Female,36,23,32,25,26,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,3
+19,Female,36,23,32,25,26,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+19,Female,36,23,32,25,26,Concerns about owing money,Financial Concerns,2
+19,Female,36,23,32,25,26,Concerns about money for emergencies,Financial Concerns,4
+19,Female,36,23,32,25,26,Financial security,Financial Concerns,4
+19,Female,36,23,32,25,26,Not enough time to do things one needs to,Time Pressures,3
+19,Female,36,23,32,25,26,Too many responsibilities,Time Pressures,3
+19,Female,36,23,32,25,26,Not getting enough rest,Time Pressures,3
+19,Female,36,23,32,25,26,Too many interruptions,Time Pressures,3
+19,Female,36,23,32,25,26,Not enough time for entertainment and recreation,Time Pressures,3
+19,Female,36,23,32,25,26,Too many meetings,Time Pressures,2
+19,Female,36,23,32,25,26,Social obligations,Time Pressures,3
+19,Female,36,23,32,25,26,Concerns about meeting high standards,Time Pressures,4
+19,Female,36,23,32,25,26,Noise,Time Pressures,2
+19,Female,36,23,32,25,26,Pollution,Environmental Hassles,5
+19,Female,36,23,32,25,26,Crime,Environmental Hassles,5
+19,Female,36,23,32,25,26,Traffic,Environmental Hassles,5
+19,Female,36,23,32,25,26,Concerns about news events,Environmental Hassles,3
+19,Female,36,23,32,25,26,Rising prices of common goods,Environmental Hassles,5
+19,Female,36,23,32,25,26,Concerns about accidents,Environmental Hassles,4
+19,Female,36,23,32,25,26,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,36,23,32,25,26,Overloaded with family responsibilities,Family Hassles,1
+19,Female,36,23,32,25,26,Home maintenance (inside),Family Hassles,1
+19,Female,36,23,32,25,26,Concerns about medical treatment,Health Hassles,3
+19,Female,36,23,32,25,26,Physical illness,Health Hassles,3
+19,Female,36,23,32,25,26,Side effects of medication,Health Hassles,1
+19,Female,36,23,32,25,26,Concerns about health in general,Health Hassles,4
+19,Female,36,23,32,25,26,Concerns about bodily functions,Health Hassles,3
+19,Female,36,23,32,25,26,Dissatisfaction with academic performance,Academic Hassles,5
+19,Female,36,23,32,25,26,Challenges with instructors,Academic Hassles,3
+19,Female,36,23,32,25,26,Discontent with current academic responsibilities,Academic Hassles,4
+19,Female,36,23,32,25,26,Concerns regarding academic transitions,Academic Hassles,3
+19,Female,36,23,32,25,26,Difficulties with peers or classmates,Academic Hassles,2
+19,Female,36,23,32,25,26,Challenges in managing group projects,Academic Hassles,2
+19,Female,36,23,32,25,26,Getting late to class,Academic Hassles,2
+21,Female,40,27,20,18,27,Misplacing or losing things,General Hassles,3
+21,Female,40,27,20,18,27,Silly practical mistakes,General Hassles,2
+21,Female,40,27,20,18,27,Trouble with pets,General Hassles,1
+21,Female,40,27,20,18,27,Difficulties with friends,General Hassles,2
+21,Female,40,27,20,18,27,Regrets over past decision/s,Inner Concerns,2
+21,Female,40,27,20,18,27,Concerned about the meaning of life,Inner Concerns,1
+21,Female,40,27,20,18,27,Being lonely,Inner Concerns,2
+21,Female,40,27,20,18,27,Inability to express oneself,Inner Concerns,1
+21,Female,40,27,20,18,27,Fear of rejection,Inner Concerns,2
+21,Female,40,27,20,18,27,Trouble making decisions,Inner Concerns,3
+21,Female,40,27,20,18,27,Physical appearance,Inner Concerns,3
+21,Female,40,27,20,18,27,Not seeing people,Inner Concerns,2
+21,Female,40,27,20,18,27,Troubling thoughts about one’s future,Inner Concerns,3
+21,Female,40,27,20,18,27,Not enough personal energy,Inner Concerns,1
+21,Female,40,27,20,18,27,Concerns about getting ahead,Inner Concerns,3
+21,Female,40,27,20,18,27,Fear of confrontation,Inner Concerns,1
+21,Female,40,27,20,18,27,Wasting time,Inner Concerns,1
+21,Female,40,27,20,18,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Female,40,27,20,18,27,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Female,40,27,20,18,27,Concerns about owing money,Financial Concerns,1
+21,Female,40,27,20,18,27,Concerns about money for emergencies,Financial Concerns,1
+21,Female,40,27,20,18,27,Financial security,Financial Concerns,1
+21,Female,40,27,20,18,27,Not enough time to do things one needs to,Time Pressures,1
+21,Female,40,27,20,18,27,Too many responsibilities,Time Pressures,2
+21,Female,40,27,20,18,27,Not getting enough rest,Time Pressures,3
+21,Female,40,27,20,18,27,Too many interruptions,Time Pressures,2
+21,Female,40,27,20,18,27,Not enough time for entertainment and recreation,Time Pressures,1
+21,Female,40,27,20,18,27,Too many meetings,Time Pressures,1
+21,Female,40,27,20,18,27,Social obligations,Time Pressures,1
+21,Female,40,27,20,18,27,Concerns about meeting high standards,Time Pressures,3
+21,Female,40,27,20,18,27,Noise,Time Pressures,2
+21,Female,40,27,20,18,27,Pollution,Environmental Hassles,1
+21,Female,40,27,20,18,27,Crime,Environmental Hassles,2
+21,Female,40,27,20,18,27,Traffic,Environmental Hassles,2
+21,Female,40,27,20,18,27,Concerns about news events,Environmental Hassles,1
+21,Female,40,27,20,18,27,Rising prices of common goods,Environmental Hassles,1
+21,Female,40,27,20,18,27,Concerns about accidents,Environmental Hassles,1
+21,Female,40,27,20,18,27,Yardwork or outside home maintenance,Family Hassles,1
+21,Female,40,27,20,18,27,Overloaded with family responsibilities,Family Hassles,1
+21,Female,40,27,20,18,27,Home maintenance (inside),Family Hassles,2
+21,Female,40,27,20,18,27,Concerns about medical treatment,Health Hassles,1
+21,Female,40,27,20,18,27,Physical illness,Health Hassles,1
+21,Female,40,27,20,18,27,Side effects of medication,Health Hassles,1
+21,Female,40,27,20,18,27,Concerns about health in general,Health Hassles,2
+21,Female,40,27,20,18,27,Concerns about bodily functions,Health Hassles,1
+21,Female,40,27,20,18,27,Dissatisfaction with academic performance,Academic Hassles,1
+21,Female,40,27,20,18,27,Challenges with instructors,Academic Hassles,1
+21,Female,40,27,20,18,27,Discontent with current academic responsibilities,Academic Hassles,1
+21,Female,40,27,20,18,27,Concerns regarding academic transitions,Academic Hassles,1
+21,Female,40,27,20,18,27,Difficulties with peers or classmates,Academic Hassles,1
+21,Female,40,27,20,18,27,Challenges in managing group projects,Academic Hassles,1
+21,Female,40,27,20,18,27,Getting late to class,Academic Hassles,1
+22,Male,32,31,27,35,23,Misplacing or losing things,General Hassles,2
+22,Male,32,31,27,35,23,Silly practical mistakes,General Hassles,1
+22,Male,32,31,27,35,23,Trouble with pets,General Hassles,1
+22,Male,32,31,27,35,23,Difficulties with friends,General Hassles,1
+22,Male,32,31,27,35,23,Regrets over past decision/s,Inner Concerns,3
+22,Male,32,31,27,35,23,Concerned about the meaning of life,Inner Concerns,4
+22,Male,32,31,27,35,23,Being lonely,Inner Concerns,1
+22,Male,32,31,27,35,23,Inability to express oneself,Inner Concerns,2
+22,Male,32,31,27,35,23,Fear of rejection,Inner Concerns,2
+22,Male,32,31,27,35,23,Trouble making decisions,Inner Concerns,1
+22,Male,32,31,27,35,23,Physical appearance,Inner Concerns,3
+22,Male,32,31,27,35,23,Not seeing people,Inner Concerns,1
+22,Male,32,31,27,35,23,Troubling thoughts about one’s future,Inner Concerns,3
+22,Male,32,31,27,35,23,Not enough personal energy,Inner Concerns,1
+22,Male,32,31,27,35,23,Concerns about getting ahead,Inner Concerns,2
+22,Male,32,31,27,35,23,Fear of confrontation,Inner Concerns,2
+22,Male,32,31,27,35,23,Wasting time,Inner Concerns,1
+22,Male,32,31,27,35,23,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,2
+22,Male,32,31,27,35,23,Not enough money for wants (entertainment and recreation),Financial Concerns,5
+22,Male,32,31,27,35,23,Concerns about owing money,Financial Concerns,1
+22,Male,32,31,27,35,23,Concerns about money for emergencies,Financial Concerns,1
+22,Male,32,31,27,35,23,Financial security,Financial Concerns,4
+22,Male,32,31,27,35,23,Not enough time to do things one needs to,Time Pressures,4
+22,Male,32,31,27,35,23,Too many responsibilities,Time Pressures,2
+22,Male,32,31,27,35,23,Not getting enough rest,Time Pressures,4
+22,Male,32,31,27,35,23,Too many interruptions,Time Pressures,2
+22,Male,32,31,27,35,23,Not enough time for entertainment and recreation,Time Pressures,4
+22,Male,32,31,27,35,23,Too many meetings,Time Pressures,2
+22,Male,32,31,27,35,23,Social obligations,Time Pressures,1
+22,Male,32,31,27,35,23,Concerns about meeting high standards,Time Pressures,5
+22,Male,32,31,27,35,23,Noise,Time Pressures,1
+22,Male,32,31,27,35,23,Pollution,Environmental Hassles,4
+22,Male,32,31,27,35,23,Crime,Environmental Hassles,3
+22,Male,32,31,27,35,23,Traffic,Environmental Hassles,5
+22,Male,32,31,27,35,23,Concerns about news events,Environmental Hassles,4
+22,Male,32,31,27,35,23,Rising prices of common goods,Environmental Hassles,4
+22,Male,32,31,27,35,23,Concerns about accidents,Environmental Hassles,2
+22,Male,32,31,27,35,23,Yardwork or outside home maintenance,Family Hassles,1
+22,Male,32,31,27,35,23,Overloaded with family responsibilities,Family Hassles,1
+22,Male,32,31,27,35,23,Home maintenance (inside),Family Hassles,1
+22,Male,32,31,27,35,23,Concerns about medical treatment,Health Hassles,2
+22,Male,32,31,27,35,23,Physical illness,Health Hassles,1
+22,Male,32,31,27,35,23,Side effects of medication,Health Hassles,1
+22,Male,32,31,27,35,23,Concerns about health in general,Health Hassles,2
+22,Male,32,31,27,35,23,Concerns about bodily functions,Health Hassles,2
+22,Male,32,31,27,35,23,Dissatisfaction with academic performance,Academic Hassles,2
+22,Male,32,31,27,35,23,Challenges with instructors,Academic Hassles,1
+22,Male,32,31,27,35,23,Discontent with current academic responsibilities,Academic Hassles,3
+22,Male,32,31,27,35,23,Concerns regarding academic transitions,Academic Hassles,2
+22,Male,32,31,27,35,23,Difficulties with peers or classmates,Academic Hassles,1
+22,Male,32,31,27,35,23,Challenges in managing group projects,Academic Hassles,1
+22,Male,32,31,27,35,23,Getting late to class,Academic Hassles,1
+19,Female,30,21,19,32,24,Misplacing or losing things,General Hassles,3
+19,Female,30,21,19,32,24,Silly practical mistakes,General Hassles,3
+19,Female,30,21,19,32,24,Trouble with pets,General Hassles,3
+19,Female,30,21,19,32,24,Difficulties with friends,General Hassles,4
+19,Female,30,21,19,32,24,Regrets over past decision/s,Inner Concerns,4
+19,Female,30,21,19,32,24,Concerned about the meaning of life,Inner Concerns,2
+19,Female,30,21,19,32,24,Being lonely,Inner Concerns,2
+19,Female,30,21,19,32,24,Inability to express oneself,Inner Concerns,2
+19,Female,30,21,19,32,24,Fear of rejection,Inner Concerns,5
+19,Female,30,21,19,32,24,Trouble making decisions,Inner Concerns,4
+19,Female,30,21,19,32,24,Physical appearance,Inner Concerns,4
+19,Female,30,21,19,32,24,Not seeing people,Inner Concerns,2
+19,Female,30,21,19,32,24,Troubling thoughts about one’s future,Inner Concerns,2
+19,Female,30,21,19,32,24,Not enough personal energy,Inner Concerns,3
+19,Female,30,21,19,32,24,Concerns about getting ahead,Inner Concerns,3
+19,Female,30,21,19,32,24,Fear of confrontation,Inner Concerns,3
+19,Female,30,21,19,32,24,Wasting time,Inner Concerns,2
+19,Female,30,21,19,32,24,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+19,Female,30,21,19,32,24,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+19,Female,30,21,19,32,24,Concerns about owing money,Financial Concerns,4
+19,Female,30,21,19,32,24,Concerns about money for emergencies,Financial Concerns,5
+19,Female,30,21,19,32,24,Financial security,Financial Concerns,4
+19,Female,30,21,19,32,24,Not enough time to do things one needs to,Time Pressures,5
+19,Female,30,21,19,32,24,Too many responsibilities,Time Pressures,5
+19,Female,30,21,19,32,24,Not getting enough rest,Time Pressures,4
+19,Female,30,21,19,32,24,Too many interruptions,Time Pressures,4
+19,Female,30,21,19,32,24,Not enough time for entertainment and recreation,Time Pressures,4
+19,Female,30,21,19,32,24,Too many meetings,Time Pressures,4
+19,Female,30,21,19,32,24,Social obligations,Time Pressures,4
+19,Female,30,21,19,32,24,Concerns about meeting high standards,Time Pressures,4
+19,Female,30,21,19,32,24,Noise,Time Pressures,3
+19,Female,30,21,19,32,24,Pollution,Environmental Hassles,3
+19,Female,30,21,19,32,24,Crime,Environmental Hassles,3
+19,Female,30,21,19,32,24,Traffic,Environmental Hassles,3
+19,Female,30,21,19,32,24,Concerns about news events,Environmental Hassles,3
+19,Female,30,21,19,32,24,Rising prices of common goods,Environmental Hassles,3
+19,Female,30,21,19,32,24,Concerns about accidents,Environmental Hassles,3
+19,Female,30,21,19,32,24,Yardwork or outside home maintenance,Family Hassles,3
+19,Female,30,21,19,32,24,Overloaded with family responsibilities,Family Hassles,4
+19,Female,30,21,19,32,24,Home maintenance (inside),Family Hassles,3
+19,Female,30,21,19,32,24,Concerns about medical treatment,Health Hassles,4
+19,Female,30,21,19,32,24,Physical illness,Health Hassles,5
+19,Female,30,21,19,32,24,Side effects of medication,Health Hassles,4
+19,Female,30,21,19,32,24,Concerns about health in general,Health Hassles,4
+19,Female,30,21,19,32,24,Concerns about bodily functions,Health Hassles,4
+19,Female,30,21,19,32,24,Dissatisfaction with academic performance,Academic Hassles,4
+19,Female,30,21,19,32,24,Challenges with instructors,Academic Hassles,4
+19,Female,30,21,19,32,24,Discontent with current academic responsibilities,Academic Hassles,4
+19,Female,30,21,19,32,24,Concerns regarding academic transitions,Academic Hassles,3
+19,Female,30,21,19,32,24,Difficulties with peers or classmates,Academic Hassles,3
+19,Female,30,21,19,32,24,Challenges in managing group projects,Academic Hassles,3
+19,Female,30,21,19,32,24,Getting late to class,Academic Hassles,3
+21,Female,39,30,34,39,19,Misplacing or losing things,General Hassles,4
+21,Female,39,30,34,39,19,Silly practical mistakes,General Hassles,1
+21,Female,39,30,34,39,19,Trouble with pets,General Hassles,1
+21,Female,39,30,34,39,19,Difficulties with friends,General Hassles,5
+21,Female,39,30,34,39,19,Regrets over past decision/s,Inner Concerns,3
+21,Female,39,30,34,39,19,Concerned about the meaning of life,Inner Concerns,1
+21,Female,39,30,34,39,19,Being lonely,Inner Concerns,1
+21,Female,39,30,34,39,19,Inability to express oneself,Inner Concerns,1
+21,Female,39,30,34,39,19,Fear of rejection,Inner Concerns,2
+21,Female,39,30,34,39,19,Trouble making decisions,Inner Concerns,4
+21,Female,39,30,34,39,19,Physical appearance,Inner Concerns,3
+21,Female,39,30,34,39,19,Not seeing people,Inner Concerns,1
+21,Female,39,30,34,39,19,Troubling thoughts about one’s future,Inner Concerns,2
+21,Female,39,30,34,39,19,Not enough personal energy,Inner Concerns,1
+21,Female,39,30,34,39,19,Concerns about getting ahead,Inner Concerns,1
+21,Female,39,30,34,39,19,Fear of confrontation,Inner Concerns,3
+21,Female,39,30,34,39,19,Wasting time,Inner Concerns,3
+21,Female,39,30,34,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+21,Female,39,30,34,39,19,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+21,Female,39,30,34,39,19,Concerns about owing money,Financial Concerns,2
+21,Female,39,30,34,39,19,Concerns about money for emergencies,Financial Concerns,3
+21,Female,39,30,34,39,19,Financial security,Financial Concerns,5
+21,Female,39,30,34,39,19,Not enough time to do things one needs to,Time Pressures,3
+21,Female,39,30,34,39,19,Too many responsibilities,Time Pressures,4
+21,Female,39,30,34,39,19,Not getting enough rest,Time Pressures,3
+21,Female,39,30,34,39,19,Too many interruptions,Time Pressures,3
+21,Female,39,30,34,39,19,Not enough time for entertainment and recreation,Time Pressures,2
+21,Female,39,30,34,39,19,Too many meetings,Time Pressures,3
+21,Female,39,30,34,39,19,Social obligations,Time Pressures,2
+21,Female,39,30,34,39,19,Concerns about meeting high standards,Time Pressures,3
+21,Female,39,30,34,39,19,Noise,Time Pressures,3
+21,Female,39,30,34,39,19,Pollution,Environmental Hassles,3
+21,Female,39,30,34,39,19,Crime,Environmental Hassles,5
+21,Female,39,30,34,39,19,Traffic,Environmental Hassles,4
+21,Female,39,30,34,39,19,Concerns about news events,Environmental Hassles,2
+21,Female,39,30,34,39,19,Rising prices of common goods,Environmental Hassles,3
+21,Female,39,30,34,39,19,Concerns about accidents,Environmental Hassles,3
+21,Female,39,30,34,39,19,Yardwork or outside home maintenance,Family Hassles,3
+21,Female,39,30,34,39,19,Overloaded with family responsibilities,Family Hassles,3
+21,Female,39,30,34,39,19,Home maintenance (inside),Family Hassles,3
+21,Female,39,30,34,39,19,Concerns about medical treatment,Health Hassles,5
+21,Female,39,30,34,39,19,Physical illness,Health Hassles,5
+21,Female,39,30,34,39,19,Side effects of medication,Health Hassles,4
+21,Female,39,30,34,39,19,Concerns about health in general,Health Hassles,3
+21,Female,39,30,34,39,19,Concerns about bodily functions,Health Hassles,3
+21,Female,39,30,34,39,19,Dissatisfaction with academic performance,Academic Hassles,4
+21,Female,39,30,34,39,19,Challenges with instructors,Academic Hassles,4
+21,Female,39,30,34,39,19,Discontent with current academic responsibilities,Academic Hassles,3
+21,Female,39,30,34,39,19,Concerns regarding academic transitions,Academic Hassles,2
+21,Female,39,30,34,39,19,Difficulties with peers or classmates,Academic Hassles,3
+21,Female,39,30,34,39,19,Challenges in managing group projects,Academic Hassles,3
+21,Female,39,30,34,39,19,Getting late to class,Academic Hassles,3
+19,Others,38,20,19,28,31,Misplacing or losing things,General Hassles,3
+19,Others,38,20,19,28,31,Silly practical mistakes,General Hassles,3
+19,Others,38,20,19,28,31,Trouble with pets,General Hassles,2
+19,Others,38,20,19,28,31,Difficulties with friends,General Hassles,2
+19,Others,38,20,19,28,31,Regrets over past decision/s,Inner Concerns,4
+19,Others,38,20,19,28,31,Concerned about the meaning of life,Inner Concerns,3
+19,Others,38,20,19,28,31,Being lonely,Inner Concerns,3
+19,Others,38,20,19,28,31,Inability to express oneself,Inner Concerns,3
+19,Others,38,20,19,28,31,Fear of rejection,Inner Concerns,5
+19,Others,38,20,19,28,31,Trouble making decisions,Inner Concerns,3
+19,Others,38,20,19,28,31,Physical appearance,Inner Concerns,4
+19,Others,38,20,19,28,31,Not seeing people,Inner Concerns,2
+19,Others,38,20,19,28,31,Troubling thoughts about one’s future,Inner Concerns,5
+19,Others,38,20,19,28,31,Not enough personal energy,Inner Concerns,5
+19,Others,38,20,19,28,31,Concerns about getting ahead,Inner Concerns,3
+19,Others,38,20,19,28,31,Fear of confrontation,Inner Concerns,4
+19,Others,38,20,19,28,31,Wasting time,Inner Concerns,4
+19,Others,38,20,19,28,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Others,38,20,19,28,31,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+19,Others,38,20,19,28,31,Concerns about owing money,Financial Concerns,3
+19,Others,38,20,19,28,31,Concerns about money for emergencies,Financial Concerns,4
+19,Others,38,20,19,28,31,Financial security,Financial Concerns,1
+19,Others,38,20,19,28,31,Not enough time to do things one needs to,Time Pressures,4
+19,Others,38,20,19,28,31,Too many responsibilities,Time Pressures,4
+19,Others,38,20,19,28,31,Not getting enough rest,Time Pressures,5
+19,Others,38,20,19,28,31,Too many interruptions,Time Pressures,5
+19,Others,38,20,19,28,31,Not enough time for entertainment and recreation,Time Pressures,2
+19,Others,38,20,19,28,31,Too many meetings,Time Pressures,1
+19,Others,38,20,19,28,31,Social obligations,Time Pressures,2
+19,Others,38,20,19,28,31,Concerns about meeting high standards,Time Pressures,4
+19,Others,38,20,19,28,31,Noise,Time Pressures,2
+19,Others,38,20,19,28,31,Pollution,Environmental Hassles,5
+19,Others,38,20,19,28,31,Crime,Environmental Hassles,5
+19,Others,38,20,19,28,31,Traffic,Environmental Hassles,5
+19,Others,38,20,19,28,31,Concerns about news events,Environmental Hassles,5
+19,Others,38,20,19,28,31,Rising prices of common goods,Environmental Hassles,5
+19,Others,38,20,19,28,31,Concerns about accidents,Environmental Hassles,5
+19,Others,38,20,19,28,31,Yardwork or outside home maintenance,Family Hassles,1
+19,Others,38,20,19,28,31,Overloaded with family responsibilities,Family Hassles,2
+19,Others,38,20,19,28,31,Home maintenance (inside),Family Hassles,1
+19,Others,38,20,19,28,31,Concerns about medical treatment,Health Hassles,3
+19,Others,38,20,19,28,31,Physical illness,Health Hassles,3
+19,Others,38,20,19,28,31,Side effects of medication,Health Hassles,1
+19,Others,38,20,19,28,31,Concerns about health in general,Health Hassles,5
+19,Others,38,20,19,28,31,Concerns about bodily functions,Health Hassles,5
+19,Others,38,20,19,28,31,Dissatisfaction with academic performance,Academic Hassles,3
+19,Others,38,20,19,28,31,Challenges with instructors,Academic Hassles,4
+19,Others,38,20,19,28,31,Discontent with current academic responsibilities,Academic Hassles,5
+19,Others,38,20,19,28,31,Concerns regarding academic transitions,Academic Hassles,1
+19,Others,38,20,19,28,31,Difficulties with peers or classmates,Academic Hassles,2
+19,Others,38,20,19,28,31,Challenges in managing group projects,Academic Hassles,1
+19,Others,38,20,19,28,31,Getting late to class,Academic Hassles,2
+19,Female,44,30,20,25,37,Misplacing or losing things,General Hassles,4
+19,Female,44,30,20,25,37,Silly practical mistakes,General Hassles,3
+19,Female,44,30,20,25,37,Trouble with pets,General Hassles,2
+19,Female,44,30,20,25,37,Difficulties with friends,General Hassles,2
+19,Female,44,30,20,25,37,Regrets over past decision/s,Inner Concerns,5
+19,Female,44,30,20,25,37,Concerned about the meaning of life,Inner Concerns,5
+19,Female,44,30,20,25,37,Being lonely,Inner Concerns,5
+19,Female,44,30,20,25,37,Inability to express oneself,Inner Concerns,5
+19,Female,44,30,20,25,37,Fear of rejection,Inner Concerns,5
+19,Female,44,30,20,25,37,Trouble making decisions,Inner Concerns,5
+19,Female,44,30,20,25,37,Physical appearance,Inner Concerns,5
+19,Female,44,30,20,25,37,Not seeing people,Inner Concerns,2
+19,Female,44,30,20,25,37,Troubling thoughts about one’s future,Inner Concerns,5
+19,Female,44,30,20,25,37,Not enough personal energy,Inner Concerns,5
+19,Female,44,30,20,25,37,Concerns about getting ahead,Inner Concerns,5
+19,Female,44,30,20,25,37,Fear of confrontation,Inner Concerns,5
+19,Female,44,30,20,25,37,Wasting time,Inner Concerns,4
+19,Female,44,30,20,25,37,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,44,30,20,25,37,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+19,Female,44,30,20,25,37,Concerns about owing money,Financial Concerns,5
+19,Female,44,30,20,25,37,Concerns about money for emergencies,Financial Concerns,5
+19,Female,44,30,20,25,37,Financial security,Financial Concerns,5
+19,Female,44,30,20,25,37,Not enough time to do things one needs to,Time Pressures,4
+19,Female,44,30,20,25,37,Too many responsibilities,Time Pressures,5
+19,Female,44,30,20,25,37,Not getting enough rest,Time Pressures,5
+19,Female,44,30,20,25,37,Too many interruptions,Time Pressures,5
+19,Female,44,30,20,25,37,Not enough time for entertainment and recreation,Time Pressures,5
+19,Female,44,30,20,25,37,Too many meetings,Time Pressures,2
+19,Female,44,30,20,25,37,Social obligations,Time Pressures,3
+19,Female,44,30,20,25,37,Concerns about meeting high standards,Time Pressures,5
+19,Female,44,30,20,25,37,Noise,Time Pressures,5
+19,Female,44,30,20,25,37,Pollution,Environmental Hassles,5
+19,Female,44,30,20,25,37,Crime,Environmental Hassles,5
+19,Female,44,30,20,25,37,Traffic,Environmental Hassles,4
+19,Female,44,30,20,25,37,Concerns about news events,Environmental Hassles,4
+19,Female,44,30,20,25,37,Rising prices of common goods,Environmental Hassles,5
+19,Female,44,30,20,25,37,Concerns about accidents,Environmental Hassles,4
+19,Female,44,30,20,25,37,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,44,30,20,25,37,Overloaded with family responsibilities,Family Hassles,3
+19,Female,44,30,20,25,37,Home maintenance (inside),Family Hassles,1
+19,Female,44,30,20,25,37,Concerns about medical treatment,Health Hassles,1
+19,Female,44,30,20,25,37,Physical illness,Health Hassles,4
+19,Female,44,30,20,25,37,Side effects of medication,Health Hassles,1
+19,Female,44,30,20,25,37,Concerns about health in general,Health Hassles,4
+19,Female,44,30,20,25,37,Concerns about bodily functions,Health Hassles,4
+19,Female,44,30,20,25,37,Dissatisfaction with academic performance,Academic Hassles,5
+19,Female,44,30,20,25,37,Challenges with instructors,Academic Hassles,5
+19,Female,44,30,20,25,37,Discontent with current academic responsibilities,Academic Hassles,5
+19,Female,44,30,20,25,37,Concerns regarding academic transitions,Academic Hassles,5
+19,Female,44,30,20,25,37,Difficulties with peers or classmates,Academic Hassles,5
+19,Female,44,30,20,25,37,Challenges in managing group projects,Academic Hassles,5
+19,Female,44,30,20,25,37,Getting late to class,Academic Hassles,2
+21,Female,33,29,31,29,30,Misplacing or losing things,General Hassles,3
+21,Female,33,29,31,29,30,Silly practical mistakes,General Hassles,3
+21,Female,33,29,31,29,30,Trouble with pets,General Hassles,1
+21,Female,33,29,31,29,30,Difficulties with friends,General Hassles,4
+21,Female,33,29,31,29,30,Regrets over past decision/s,Inner Concerns,5
+21,Female,33,29,31,29,30,Concerned about the meaning of life,Inner Concerns,1
+21,Female,33,29,31,29,30,Being lonely,Inner Concerns,5
+21,Female,33,29,31,29,30,Inability to express oneself,Inner Concerns,4
+21,Female,33,29,31,29,30,Fear of rejection,Inner Concerns,1
+21,Female,33,29,31,29,30,Trouble making decisions,Inner Concerns,4
+21,Female,33,29,31,29,30,Physical appearance,Inner Concerns,5
+21,Female,33,29,31,29,30,Not seeing people,Inner Concerns,1
+21,Female,33,29,31,29,30,Troubling thoughts about one’s future,Inner Concerns,3
+21,Female,33,29,31,29,30,Not enough personal energy,Inner Concerns,3
+21,Female,33,29,31,29,30,Concerns about getting ahead,Inner Concerns,2
+21,Female,33,29,31,29,30,Fear of confrontation,Inner Concerns,1
+21,Female,33,29,31,29,30,Wasting time,Inner Concerns,4
+21,Female,33,29,31,29,30,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+21,Female,33,29,31,29,30,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+21,Female,33,29,31,29,30,Concerns about owing money,Financial Concerns,5
+21,Female,33,29,31,29,30,Concerns about money for emergencies,Financial Concerns,5
+21,Female,33,29,31,29,30,Financial security,Financial Concerns,5
+21,Female,33,29,31,29,30,Not enough time to do things one needs to,Time Pressures,5
+21,Female,33,29,31,29,30,Too many responsibilities,Time Pressures,5
+21,Female,33,29,31,29,30,Not getting enough rest,Time Pressures,1
+21,Female,33,29,31,29,30,Too many interruptions,Time Pressures,5
+21,Female,33,29,31,29,30,Not enough time for entertainment and recreation,Time Pressures,1
+21,Female,33,29,31,29,30,Too many meetings,Time Pressures,5
+21,Female,33,29,31,29,30,Social obligations,Time Pressures,5
+21,Female,33,29,31,29,30,Concerns about meeting high standards,Time Pressures,5
+21,Female,33,29,31,29,30,Noise,Time Pressures,5
+21,Female,33,29,31,29,30,Pollution,Environmental Hassles,1
+21,Female,33,29,31,29,30,Crime,Environmental Hassles,1
+21,Female,33,29,31,29,30,Traffic,Environmental Hassles,4
+21,Female,33,29,31,29,30,Concerns about news events,Environmental Hassles,1
+21,Female,33,29,31,29,30,Rising prices of common goods,Environmental Hassles,1
+21,Female,33,29,31,29,30,Concerns about accidents,Environmental Hassles,1
+21,Female,33,29,31,29,30,Yardwork or outside home maintenance,Family Hassles,2
+21,Female,33,29,31,29,30,Overloaded with family responsibilities,Family Hassles,2
+21,Female,33,29,31,29,30,Home maintenance (inside),Family Hassles,2
+21,Female,33,29,31,29,30,Concerns about medical treatment,Health Hassles,5
+21,Female,33,29,31,29,30,Physical illness,Health Hassles,5
+21,Female,33,29,31,29,30,Side effects of medication,Health Hassles,5
+21,Female,33,29,31,29,30,Concerns about health in general,Health Hassles,5
+21,Female,33,29,31,29,30,Concerns about bodily functions,Health Hassles,5
+21,Female,33,29,31,29,30,Dissatisfaction with academic performance,Academic Hassles,5
+21,Female,33,29,31,29,30,Challenges with instructors,Academic Hassles,5
+21,Female,33,29,31,29,30,Discontent with current academic responsibilities,Academic Hassles,5
+21,Female,33,29,31,29,30,Concerns regarding academic transitions,Academic Hassles,5
+21,Female,33,29,31,29,30,Difficulties with peers or classmates,Academic Hassles,5
+21,Female,33,29,31,29,30,Challenges in managing group projects,Academic Hassles,5
+21,Female,33,29,31,29,30,Getting late to class,Academic Hassles,5
+21,Male,34,28,16,23,33,Misplacing or losing things,General Hassles,5
+21,Male,34,28,16,23,33,Silly practical mistakes,General Hassles,3
+21,Male,34,28,16,23,33,Trouble with pets,General Hassles,2
+21,Male,34,28,16,23,33,Difficulties with friends,General Hassles,3
+21,Male,34,28,16,23,33,Regrets over past decision/s,Inner Concerns,5
+21,Male,34,28,16,23,33,Concerned about the meaning of life,Inner Concerns,4
+21,Male,34,28,16,23,33,Being lonely,Inner Concerns,3
+21,Male,34,28,16,23,33,Inability to express oneself,Inner Concerns,3
+21,Male,34,28,16,23,33,Fear of rejection,Inner Concerns,5
+21,Male,34,28,16,23,33,Trouble making decisions,Inner Concerns,4
+21,Male,34,28,16,23,33,Physical appearance,Inner Concerns,3
+21,Male,34,28,16,23,33,Not seeing people,Inner Concerns,2
+21,Male,34,28,16,23,33,Troubling thoughts about one’s future,Inner Concerns,4
+21,Male,34,28,16,23,33,Not enough personal energy,Inner Concerns,2
+21,Male,34,28,16,23,33,Concerns about getting ahead,Inner Concerns,1
+21,Male,34,28,16,23,33,Fear of confrontation,Inner Concerns,5
+21,Male,34,28,16,23,33,Wasting time,Inner Concerns,2
+21,Male,34,28,16,23,33,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,34,28,16,23,33,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Male,34,28,16,23,33,Concerns about owing money,Financial Concerns,3
+21,Male,34,28,16,23,33,Concerns about money for emergencies,Financial Concerns,3
+21,Male,34,28,16,23,33,Financial security,Financial Concerns,3
+21,Male,34,28,16,23,33,Not enough time to do things one needs to,Time Pressures,2
+21,Male,34,28,16,23,33,Too many responsibilities,Time Pressures,5
+21,Male,34,28,16,23,33,Not getting enough rest,Time Pressures,4
+21,Male,34,28,16,23,33,Too many interruptions,Time Pressures,2
+21,Male,34,28,16,23,33,Not enough time for entertainment and recreation,Time Pressures,1
+21,Male,34,28,16,23,33,Too many meetings,Time Pressures,3
+21,Male,34,28,16,23,33,Social obligations,Time Pressures,3
+21,Male,34,28,16,23,33,Concerns about meeting high standards,Time Pressures,5
+21,Male,34,28,16,23,33,Noise,Time Pressures,2
+21,Male,34,28,16,23,33,Pollution,Environmental Hassles,3
+21,Male,34,28,16,23,33,Crime,Environmental Hassles,3
+21,Male,34,28,16,23,33,Traffic,Environmental Hassles,4
+21,Male,34,28,16,23,33,Concerns about news events,Environmental Hassles,1
+21,Male,34,28,16,23,33,Rising prices of common goods,Environmental Hassles,1
+21,Male,34,28,16,23,33,Concerns about accidents,Environmental Hassles,3
+21,Male,34,28,16,23,33,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,34,28,16,23,33,Overloaded with family responsibilities,Family Hassles,1
+21,Male,34,28,16,23,33,Home maintenance (inside),Family Hassles,1
+21,Male,34,28,16,23,33,Concerns about medical treatment,Health Hassles,3
+21,Male,34,28,16,23,33,Physical illness,Health Hassles,3
+21,Male,34,28,16,23,33,Side effects of medication,Health Hassles,1
+21,Male,34,28,16,23,33,Concerns about health in general,Health Hassles,3
+21,Male,34,28,16,23,33,Concerns about bodily functions,Health Hassles,3
+21,Male,34,28,16,23,33,Dissatisfaction with academic performance,Academic Hassles,3
+21,Male,34,28,16,23,33,Challenges with instructors,Academic Hassles,3
+21,Male,34,28,16,23,33,Discontent with current academic responsibilities,Academic Hassles,4
+21,Male,34,28,16,23,33,Concerns regarding academic transitions,Academic Hassles,2
+21,Male,34,28,16,23,33,Difficulties with peers or classmates,Academic Hassles,1
+21,Male,34,28,16,23,33,Challenges in managing group projects,Academic Hassles,3
+21,Male,34,28,16,23,33,Getting late to class,Academic Hassles,1
+18,Female,43,39,21,31,25,Misplacing or losing things,General Hassles,2
+18,Female,43,39,21,31,25,Silly practical mistakes,General Hassles,2
+18,Female,43,39,21,31,25,Trouble with pets,General Hassles,1
+18,Female,43,39,21,31,25,Difficulties with friends,General Hassles,1
+18,Female,43,39,21,31,25,Regrets over past decision/s,Inner Concerns,3
+18,Female,43,39,21,31,25,Concerned about the meaning of life,Inner Concerns,5
+18,Female,43,39,21,31,25,Being lonely,Inner Concerns,2
+18,Female,43,39,21,31,25,Inability to express oneself,Inner Concerns,3
+18,Female,43,39,21,31,25,Fear of rejection,Inner Concerns,4
+18,Female,43,39,21,31,25,Trouble making decisions,Inner Concerns,3
+18,Female,43,39,21,31,25,Physical appearance,Inner Concerns,3
+18,Female,43,39,21,31,25,Not seeing people,Inner Concerns,2
+18,Female,43,39,21,31,25,Troubling thoughts about one’s future,Inner Concerns,5
+18,Female,43,39,21,31,25,Not enough personal energy,Inner Concerns,3
+18,Female,43,39,21,31,25,Concerns about getting ahead,Inner Concerns,3
+18,Female,43,39,21,31,25,Fear of confrontation,Inner Concerns,1
+18,Female,43,39,21,31,25,Wasting time,Inner Concerns,5
+18,Female,43,39,21,31,25,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,2
+18,Female,43,39,21,31,25,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+18,Female,43,39,21,31,25,Concerns about owing money,Financial Concerns,1
+18,Female,43,39,21,31,25,Concerns about money for emergencies,Financial Concerns,2
+18,Female,43,39,21,31,25,Financial security,Financial Concerns,2
+18,Female,43,39,21,31,25,Not enough time to do things one needs to,Time Pressures,2
+18,Female,43,39,21,31,25,Too many responsibilities,Time Pressures,3
+18,Female,43,39,21,31,25,Not getting enough rest,Time Pressures,3
+18,Female,43,39,21,31,25,Too many interruptions,Time Pressures,2
+18,Female,43,39,21,31,25,Not enough time for entertainment and recreation,Time Pressures,2
+18,Female,43,39,21,31,25,Too many meetings,Time Pressures,2
+18,Female,43,39,21,31,25,Social obligations,Time Pressures,2
+18,Female,43,39,21,31,25,Concerns about meeting high standards,Time Pressures,4
+18,Female,43,39,21,31,25,Noise,Time Pressures,3
+18,Female,43,39,21,31,25,Pollution,Environmental Hassles,3
+18,Female,43,39,21,31,25,Crime,Environmental Hassles,1
+18,Female,43,39,21,31,25,Traffic,Environmental Hassles,5
+18,Female,43,39,21,31,25,Concerns about news events,Environmental Hassles,3
+18,Female,43,39,21,31,25,Rising prices of common goods,Environmental Hassles,4
+18,Female,43,39,21,31,25,Concerns about accidents,Environmental Hassles,3
+18,Female,43,39,21,31,25,Yardwork or outside home maintenance,Family Hassles,1
+18,Female,43,39,21,31,25,Overloaded with family responsibilities,Family Hassles,1
+18,Female,43,39,21,31,25,Home maintenance (inside),Family Hassles,2
+18,Female,43,39,21,31,25,Concerns about medical treatment,Health Hassles,1
+18,Female,43,39,21,31,25,Physical illness,Health Hassles,3
+18,Female,43,39,21,31,25,Side effects of medication,Health Hassles,3
+18,Female,43,39,21,31,25,Concerns about health in general,Health Hassles,4
+18,Female,43,39,21,31,25,Concerns about bodily functions,Health Hassles,3
+18,Female,43,39,21,31,25,Dissatisfaction with academic performance,Academic Hassles,1
+18,Female,43,39,21,31,25,Challenges with instructors,Academic Hassles,2
+18,Female,43,39,21,31,25,Discontent with current academic responsibilities,Academic Hassles,1
+18,Female,43,39,21,31,25,Concerns regarding academic transitions,Academic Hassles,3
+18,Female,43,39,21,31,25,Difficulties with peers or classmates,Academic Hassles,1
+18,Female,43,39,21,31,25,Challenges in managing group projects,Academic Hassles,1
+18,Female,43,39,21,31,25,Getting late to class,Academic Hassles,3
+21,Male,38,29,22,27,27,Misplacing or losing things,General Hassles,2
+21,Male,38,29,22,27,27,Silly practical mistakes,General Hassles,2
+21,Male,38,29,22,27,27,Trouble with pets,General Hassles,1
+21,Male,38,29,22,27,27,Difficulties with friends,General Hassles,2
+21,Male,38,29,22,27,27,Regrets over past decision/s,Inner Concerns,3
+21,Male,38,29,22,27,27,Concerned about the meaning of life,Inner Concerns,3
+21,Male,38,29,22,27,27,Being lonely,Inner Concerns,4
+21,Male,38,29,22,27,27,Inability to express oneself,Inner Concerns,2
+21,Male,38,29,22,27,27,Fear of rejection,Inner Concerns,2
+21,Male,38,29,22,27,27,Trouble making decisions,Inner Concerns,3
+21,Male,38,29,22,27,27,Physical appearance,Inner Concerns,4
+21,Male,38,29,22,27,27,Not seeing people,Inner Concerns,4
+21,Male,38,29,22,27,27,Troubling thoughts about one’s future,Inner Concerns,4
+21,Male,38,29,22,27,27,Not enough personal energy,Inner Concerns,2
+21,Male,38,29,22,27,27,Concerns about getting ahead,Inner Concerns,3
+21,Male,38,29,22,27,27,Fear of confrontation,Inner Concerns,3
+21,Male,38,29,22,27,27,Wasting time,Inner Concerns,3
+21,Male,38,29,22,27,27,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,38,29,22,27,27,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Male,38,29,22,27,27,Concerns about owing money,Financial Concerns,1
+21,Male,38,29,22,27,27,Concerns about money for emergencies,Financial Concerns,1
+21,Male,38,29,22,27,27,Financial security,Financial Concerns,2
+21,Male,38,29,22,27,27,Not enough time to do things one needs to,Time Pressures,4
+21,Male,38,29,22,27,27,Too many responsibilities,Time Pressures,4
+21,Male,38,29,22,27,27,Not getting enough rest,Time Pressures,4
+21,Male,38,29,22,27,27,Too many interruptions,Time Pressures,4
+21,Male,38,29,22,27,27,Not enough time for entertainment and recreation,Time Pressures,3
+21,Male,38,29,22,27,27,Too many meetings,Time Pressures,2
+21,Male,38,29,22,27,27,Social obligations,Time Pressures,2
+21,Male,38,29,22,27,27,Concerns about meeting high standards,Time Pressures,3
+21,Male,38,29,22,27,27,Noise,Time Pressures,2
+21,Male,38,29,22,27,27,Pollution,Environmental Hassles,2
+21,Male,38,29,22,27,27,Crime,Environmental Hassles,1
+21,Male,38,29,22,27,27,Traffic,Environmental Hassles,4
+21,Male,38,29,22,27,27,Concerns about news events,Environmental Hassles,4
+21,Male,38,29,22,27,27,Rising prices of common goods,Environmental Hassles,4
+21,Male,38,29,22,27,27,Concerns about accidents,Environmental Hassles,3
+21,Male,38,29,22,27,27,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,38,29,22,27,27,Overloaded with family responsibilities,Family Hassles,3
+21,Male,38,29,22,27,27,Home maintenance (inside),Family Hassles,3
+21,Male,38,29,22,27,27,Concerns about medical treatment,Health Hassles,2
+21,Male,38,29,22,27,27,Physical illness,Health Hassles,2
+21,Male,38,29,22,27,27,Side effects of medication,Health Hassles,1
+21,Male,38,29,22,27,27,Concerns about health in general,Health Hassles,3
+21,Male,38,29,22,27,27,Concerns about bodily functions,Health Hassles,3
+21,Male,38,29,22,27,27,Dissatisfaction with academic performance,Academic Hassles,3
+21,Male,38,29,22,27,27,Challenges with instructors,Academic Hassles,3
+21,Male,38,29,22,27,27,Discontent with current academic responsibilities,Academic Hassles,4
+21,Male,38,29,22,27,27,Concerns regarding academic transitions,Academic Hassles,3
+21,Male,38,29,22,27,27,Difficulties with peers or classmates,Academic Hassles,2
+21,Male,38,29,22,27,27,Challenges in managing group projects,Academic Hassles,4
+21,Male,38,29,22,27,27,Getting late to class,Academic Hassles,3
+20,Male,48,27,23,33,28,Misplacing or losing things,General Hassles,5
+20,Male,48,27,23,33,28,Silly practical mistakes,General Hassles,4
+20,Male,48,27,23,33,28,Trouble with pets,General Hassles,3
+20,Male,48,27,23,33,28,Difficulties with friends,General Hassles,3
+20,Male,48,27,23,33,28,Regrets over past decision/s,Inner Concerns,4
+20,Male,48,27,23,33,28,Concerned about the meaning of life,Inner Concerns,5
+20,Male,48,27,23,33,28,Being lonely,Inner Concerns,5
+20,Male,48,27,23,33,28,Inability to express oneself,Inner Concerns,4
+20,Male,48,27,23,33,28,Fear of rejection,Inner Concerns,4
+20,Male,48,27,23,33,28,Trouble making decisions,Inner Concerns,5
+20,Male,48,27,23,33,28,Physical appearance,Inner Concerns,3
+20,Male,48,27,23,33,28,Not seeing people,Inner Concerns,3
+20,Male,48,27,23,33,28,Troubling thoughts about one’s future,Inner Concerns,4
+20,Male,48,27,23,33,28,Not enough personal energy,Inner Concerns,4
+20,Male,48,27,23,33,28,Concerns about getting ahead,Inner Concerns,4
+20,Male,48,27,23,33,28,Fear of confrontation,Inner Concerns,3
+20,Male,48,27,23,33,28,Wasting time,Inner Concerns,5
+20,Male,48,27,23,33,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,3
+20,Male,48,27,23,33,28,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+20,Male,48,27,23,33,28,Concerns about owing money,Financial Concerns,2
+20,Male,48,27,23,33,28,Concerns about money for emergencies,Financial Concerns,3
+20,Male,48,27,23,33,28,Financial security,Financial Concerns,3
+20,Male,48,27,23,33,28,Not enough time to do things one needs to,Time Pressures,4
+20,Male,48,27,23,33,28,Too many responsibilities,Time Pressures,3
+20,Male,48,27,23,33,28,Not getting enough rest,Time Pressures,3
+20,Male,48,27,23,33,28,Too many interruptions,Time Pressures,4
+20,Male,48,27,23,33,28,Not enough time for entertainment and recreation,Time Pressures,5
+20,Male,48,27,23,33,28,Too many meetings,Time Pressures,3
+20,Male,48,27,23,33,28,Social obligations,Time Pressures,3
+20,Male,48,27,23,33,28,Concerns about meeting high standards,Time Pressures,5
+20,Male,48,27,23,33,28,Noise,Time Pressures,4
+20,Male,48,27,23,33,28,Pollution,Environmental Hassles,5
+20,Male,48,27,23,33,28,Crime,Environmental Hassles,4
+20,Male,48,27,23,33,28,Traffic,Environmental Hassles,4
+20,Male,48,27,23,33,28,Concerns about news events,Environmental Hassles,3
+20,Male,48,27,23,33,28,Rising prices of common goods,Environmental Hassles,5
+20,Male,48,27,23,33,28,Concerns about accidents,Environmental Hassles,3
+20,Male,48,27,23,33,28,Yardwork or outside home maintenance,Family Hassles,2
+20,Male,48,27,23,33,28,Overloaded with family responsibilities,Family Hassles,2
+20,Male,48,27,23,33,28,Home maintenance (inside),Family Hassles,2
+20,Male,48,27,23,33,28,Concerns about medical treatment,Health Hassles,3
+20,Male,48,27,23,33,28,Physical illness,Health Hassles,3
+20,Male,48,27,23,33,28,Side effects of medication,Health Hassles,3
+20,Male,48,27,23,33,28,Concerns about health in general,Health Hassles,3
+20,Male,48,27,23,33,28,Concerns about bodily functions,Health Hassles,4
+20,Male,48,27,23,33,28,Dissatisfaction with academic performance,Academic Hassles,5
+20,Male,48,27,23,33,28,Challenges with instructors,Academic Hassles,4
+20,Male,48,27,23,33,28,Discontent with current academic responsibilities,Academic Hassles,4
+20,Male,48,27,23,33,28,Concerns regarding academic transitions,Academic Hassles,2
+20,Male,48,27,23,33,28,Difficulties with peers or classmates,Academic Hassles,3
+20,Male,48,27,23,33,28,Challenges in managing group projects,Academic Hassles,2
+20,Male,48,27,23,33,28,Getting late to class,Academic Hassles,1
+21,Male,36,27,18,31,32,Misplacing or losing things,General Hassles,2
+21,Male,36,27,18,31,32,Silly practical mistakes,General Hassles,3
+21,Male,36,27,18,31,32,Trouble with pets,General Hassles,3
+21,Male,36,27,18,31,32,Difficulties with friends,General Hassles,4
+21,Male,36,27,18,31,32,Regrets over past decision/s,Inner Concerns,5
+21,Male,36,27,18,31,32,Concerned about the meaning of life,Inner Concerns,3
+21,Male,36,27,18,31,32,Being lonely,Inner Concerns,3
+21,Male,36,27,18,31,32,Inability to express oneself,Inner Concerns,4
+21,Male,36,27,18,31,32,Fear of rejection,Inner Concerns,3
+21,Male,36,27,18,31,32,Trouble making decisions,Inner Concerns,3
+21,Male,36,27,18,31,32,Physical appearance,Inner Concerns,3
+21,Male,36,27,18,31,32,Not seeing people,Inner Concerns,3
+21,Male,36,27,18,31,32,Troubling thoughts about one’s future,Inner Concerns,5
+21,Male,36,27,18,31,32,Not enough personal energy,Inner Concerns,2
+21,Male,36,27,18,31,32,Concerns about getting ahead,Inner Concerns,4
+21,Male,36,27,18,31,32,Fear of confrontation,Inner Concerns,3
+21,Male,36,27,18,31,32,Wasting time,Inner Concerns,5
+21,Male,36,27,18,31,32,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,5
+21,Male,36,27,18,31,32,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+21,Male,36,27,18,31,32,Concerns about owing money,Financial Concerns,4
+21,Male,36,27,18,31,32,Concerns about money for emergencies,Financial Concerns,4
+21,Male,36,27,18,31,32,Financial security,Financial Concerns,3
+21,Male,36,27,18,31,32,Not enough time to do things one needs to,Time Pressures,4
+21,Male,36,27,18,31,32,Too many responsibilities,Time Pressures,5
+21,Male,36,27,18,31,32,Not getting enough rest,Time Pressures,5
+21,Male,36,27,18,31,32,Too many interruptions,Time Pressures,4
+21,Male,36,27,18,31,32,Not enough time for entertainment and recreation,Time Pressures,2
+21,Male,36,27,18,31,32,Too many meetings,Time Pressures,3
+21,Male,36,27,18,31,32,Social obligations,Time Pressures,4
+21,Male,36,27,18,31,32,Concerns about meeting high standards,Time Pressures,3
+21,Male,36,27,18,31,32,Noise,Time Pressures,2
+21,Male,36,27,18,31,32,Pollution,Environmental Hassles,5
+21,Male,36,27,18,31,32,Crime,Environmental Hassles,5
+21,Male,36,27,18,31,32,Traffic,Environmental Hassles,4
+21,Male,36,27,18,31,32,Concerns about news events,Environmental Hassles,4
+21,Male,36,27,18,31,32,Rising prices of common goods,Environmental Hassles,4
+21,Male,36,27,18,31,32,Concerns about accidents,Environmental Hassles,5
+21,Male,36,27,18,31,32,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,36,27,18,31,32,Overloaded with family responsibilities,Family Hassles,2
+21,Male,36,27,18,31,32,Home maintenance (inside),Family Hassles,1
+21,Male,36,27,18,31,32,Concerns about medical treatment,Health Hassles,5
+21,Male,36,27,18,31,32,Physical illness,Health Hassles,5
+21,Male,36,27,18,31,32,Side effects of medication,Health Hassles,3
+21,Male,36,27,18,31,32,Concerns about health in general,Health Hassles,5
+21,Male,36,27,18,31,32,Concerns about bodily functions,Health Hassles,5
+21,Male,36,27,18,31,32,Dissatisfaction with academic performance,Academic Hassles,5
+21,Male,36,27,18,31,32,Challenges with instructors,Academic Hassles,4
+21,Male,36,27,18,31,32,Discontent with current academic responsibilities,Academic Hassles,3
+21,Male,36,27,18,31,32,Concerns regarding academic transitions,Academic Hassles,3
+21,Male,36,27,18,31,32,Difficulties with peers or classmates,Academic Hassles,4
+21,Male,36,27,18,31,32,Challenges in managing group projects,Academic Hassles,4
+21,Male,36,27,18,31,32,Getting late to class,Academic Hassles,3
+21,Male,33,25,20,28,19,Misplacing or losing things,General Hassles,1
+21,Male,33,25,20,28,19,Silly practical mistakes,General Hassles,2
+21,Male,33,25,20,28,19,Trouble with pets,General Hassles,1
+21,Male,33,25,20,28,19,Difficulties with friends,General Hassles,3
+21,Male,33,25,20,28,19,Regrets over past decision/s,Inner Concerns,3
+21,Male,33,25,20,28,19,Concerned about the meaning of life,Inner Concerns,2
+21,Male,33,25,20,28,19,Being lonely,Inner Concerns,1
+21,Male,33,25,20,28,19,Inability to express oneself,Inner Concerns,2
+21,Male,33,25,20,28,19,Fear of rejection,Inner Concerns,2
+21,Male,33,25,20,28,19,Trouble making decisions,Inner Concerns,2
+21,Male,33,25,20,28,19,Physical appearance,Inner Concerns,1
+21,Male,33,25,20,28,19,Not seeing people,Inner Concerns,1
+21,Male,33,25,20,28,19,Troubling thoughts about one’s future,Inner Concerns,2
+21,Male,33,25,20,28,19,Not enough personal energy,Inner Concerns,1
+21,Male,33,25,20,28,19,Concerns about getting ahead,Inner Concerns,1
+21,Male,33,25,20,28,19,Fear of confrontation,Inner Concerns,2
+21,Male,33,25,20,28,19,Wasting time,Inner Concerns,2
+21,Male,33,25,20,28,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,33,25,20,28,19,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Male,33,25,20,28,19,Concerns about owing money,Financial Concerns,1
+21,Male,33,25,20,28,19,Concerns about money for emergencies,Financial Concerns,1
+21,Male,33,25,20,28,19,Financial security,Financial Concerns,2
+21,Male,33,25,20,28,19,Not enough time to do things one needs to,Time Pressures,3
+21,Male,33,25,20,28,19,Too many responsibilities,Time Pressures,2
+21,Male,33,25,20,28,19,Not getting enough rest,Time Pressures,2
+21,Male,33,25,20,28,19,Too many interruptions,Time Pressures,2
+21,Male,33,25,20,28,19,Not enough time for entertainment and recreation,Time Pressures,1
+21,Male,33,25,20,28,19,Too many meetings,Time Pressures,1
+21,Male,33,25,20,28,19,Social obligations,Time Pressures,2
+21,Male,33,25,20,28,19,Concerns about meeting high standards,Time Pressures,2
+21,Male,33,25,20,28,19,Noise,Time Pressures,1
+21,Male,33,25,20,28,19,Pollution,Environmental Hassles,3
+21,Male,33,25,20,28,19,Crime,Environmental Hassles,2
+21,Male,33,25,20,28,19,Traffic,Environmental Hassles,2
+21,Male,33,25,20,28,19,Concerns about news events,Environmental Hassles,1
+21,Male,33,25,20,28,19,Rising prices of common goods,Environmental Hassles,3
+21,Male,33,25,20,28,19,Concerns about accidents,Environmental Hassles,2
+21,Male,33,25,20,28,19,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,33,25,20,28,19,Overloaded with family responsibilities,Family Hassles,1
+21,Male,33,25,20,28,19,Home maintenance (inside),Family Hassles,2
+21,Male,33,25,20,28,19,Concerns about medical treatment,Health Hassles,1
+21,Male,33,25,20,28,19,Physical illness,Health Hassles,1
+21,Male,33,25,20,28,19,Side effects of medication,Health Hassles,1
+21,Male,33,25,20,28,19,Concerns about health in general,Health Hassles,2
+21,Male,33,25,20,28,19,Concerns about bodily functions,Health Hassles,2
+21,Male,33,25,20,28,19,Dissatisfaction with academic performance,Academic Hassles,3
+21,Male,33,25,20,28,19,Challenges with instructors,Academic Hassles,2
+21,Male,33,25,20,28,19,Discontent with current academic responsibilities,Academic Hassles,2
+21,Male,33,25,20,28,19,Concerns regarding academic transitions,Academic Hassles,2
+21,Male,33,25,20,28,19,Difficulties with peers or classmates,Academic Hassles,2
+21,Male,33,25,20,28,19,Challenges in managing group projects,Academic Hassles,1
+21,Male,33,25,20,28,19,Getting late to class,Academic Hassles,2
+20,Female,40,26,23,25,28,Misplacing or losing things,General Hassles,1
+20,Female,40,26,23,25,28,Silly practical mistakes,General Hassles,2
+20,Female,40,26,23,25,28,Trouble with pets,General Hassles,5
+20,Female,40,26,23,25,28,Difficulties with friends,General Hassles,3
+20,Female,40,26,23,25,28,Regrets over past decision/s,Inner Concerns,5
+20,Female,40,26,23,25,28,Concerned about the meaning of life,Inner Concerns,3
+20,Female,40,26,23,25,28,Being lonely,Inner Concerns,2
+20,Female,40,26,23,25,28,Inability to express oneself,Inner Concerns,5
+20,Female,40,26,23,25,28,Fear of rejection,Inner Concerns,5
+20,Female,40,26,23,25,28,Trouble making decisions,Inner Concerns,4
+20,Female,40,26,23,25,28,Physical appearance,Inner Concerns,3
+20,Female,40,26,23,25,28,Not seeing people,Inner Concerns,2
+20,Female,40,26,23,25,28,Troubling thoughts about one’s future,Inner Concerns,5
+20,Female,40,26,23,25,28,Not enough personal energy,Inner Concerns,3
+20,Female,40,26,23,25,28,Concerns about getting ahead,Inner Concerns,5
+20,Female,40,26,23,25,28,Fear of confrontation,Inner Concerns,2
+20,Female,40,26,23,25,28,Wasting time,Inner Concerns,2
+20,Female,40,26,23,25,28,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+20,Female,40,26,23,25,28,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+20,Female,40,26,23,25,28,Concerns about owing money,Financial Concerns,1
+20,Female,40,26,23,25,28,Concerns about money for emergencies,Financial Concerns,1
+20,Female,40,26,23,25,28,Financial security,Financial Concerns,2
+20,Female,40,26,23,25,28,Not enough time to do things one needs to,Time Pressures,3
+20,Female,40,26,23,25,28,Too many responsibilities,Time Pressures,3
+20,Female,40,26,23,25,28,Not getting enough rest,Time Pressures,4
+20,Female,40,26,23,25,28,Too many interruptions,Time Pressures,3
+20,Female,40,26,23,25,28,Not enough time for entertainment and recreation,Time Pressures,2
+20,Female,40,26,23,25,28,Too many meetings,Time Pressures,2
+20,Female,40,26,23,25,28,Social obligations,Time Pressures,3
+20,Female,40,26,23,25,28,Concerns about meeting high standards,Time Pressures,5
+20,Female,40,26,23,25,28,Noise,Time Pressures,1
+20,Female,40,26,23,25,28,Pollution,Environmental Hassles,2
+20,Female,40,26,23,25,28,Crime,Environmental Hassles,2
+20,Female,40,26,23,25,28,Traffic,Environmental Hassles,3
+20,Female,40,26,23,25,28,Concerns about news events,Environmental Hassles,2
+20,Female,40,26,23,25,28,Rising prices of common goods,Environmental Hassles,3
+20,Female,40,26,23,25,28,Concerns about accidents,Environmental Hassles,3
+20,Female,40,26,23,25,28,Yardwork or outside home maintenance,Family Hassles,1
+20,Female,40,26,23,25,28,Overloaded with family responsibilities,Family Hassles,1
+20,Female,40,26,23,25,28,Home maintenance (inside),Family Hassles,1
+20,Female,40,26,23,25,28,Concerns about medical treatment,Health Hassles,1
+20,Female,40,26,23,25,28,Physical illness,Health Hassles,1
+20,Female,40,26,23,25,28,Side effects of medication,Health Hassles,2
+20,Female,40,26,23,25,28,Concerns about health in general,Health Hassles,2
+20,Female,40,26,23,25,28,Concerns about bodily functions,Health Hassles,2
+20,Female,40,26,23,25,28,Dissatisfaction with academic performance,Academic Hassles,5
+20,Female,40,26,23,25,28,Challenges with instructors,Academic Hassles,3
+20,Female,40,26,23,25,28,Discontent with current academic responsibilities,Academic Hassles,5
+20,Female,40,26,23,25,28,Concerns regarding academic transitions,Academic Hassles,4
+20,Female,40,26,23,25,28,Difficulties with peers or classmates,Academic Hassles,3
+20,Female,40,26,23,25,28,Challenges in managing group projects,Academic Hassles,3
+20,Female,40,26,23,25,28,Getting late to class,Academic Hassles,1
+22,Male,33,33,26,37,17,Misplacing or losing things,General Hassles,3
+22,Male,33,33,26,37,17,Silly practical mistakes,General Hassles,3
+22,Male,33,33,26,37,17,Trouble with pets,General Hassles,1
+22,Male,33,33,26,37,17,Difficulties with friends,General Hassles,1
+22,Male,33,33,26,37,17,Regrets over past decision/s,Inner Concerns,3
+22,Male,33,33,26,37,17,Concerned about the meaning of life,Inner Concerns,2
+22,Male,33,33,26,37,17,Being lonely,Inner Concerns,1
+22,Male,33,33,26,37,17,Inability to express oneself,Inner Concerns,1
+22,Male,33,33,26,37,17,Fear of rejection,Inner Concerns,3
+22,Male,33,33,26,37,17,Trouble making decisions,Inner Concerns,2
+22,Male,33,33,26,37,17,Physical appearance,Inner Concerns,3
+22,Male,33,33,26,37,17,Not seeing people,Inner Concerns,2
+22,Male,33,33,26,37,17,Troubling thoughts about one’s future,Inner Concerns,3
+22,Male,33,33,26,37,17,Not enough personal energy,Inner Concerns,2
+22,Male,33,33,26,37,17,Concerns about getting ahead,Inner Concerns,2
+22,Male,33,33,26,37,17,Fear of confrontation,Inner Concerns,2
+22,Male,33,33,26,37,17,Wasting time,Inner Concerns,3
+22,Male,33,33,26,37,17,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+22,Male,33,33,26,37,17,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+22,Male,33,33,26,37,17,Concerns about owing money,Financial Concerns,2
+22,Male,33,33,26,37,17,Concerns about money for emergencies,Financial Concerns,1
+22,Male,33,33,26,37,17,Financial security,Financial Concerns,1
+22,Male,33,33,26,37,17,Not enough time to do things one needs to,Time Pressures,3
+22,Male,33,33,26,37,17,Too many responsibilities,Time Pressures,2
+22,Male,33,33,26,37,17,Not getting enough rest,Time Pressures,2
+22,Male,33,33,26,37,17,Too many interruptions,Time Pressures,2
+22,Male,33,33,26,37,17,Not enough time for entertainment and recreation,Time Pressures,2
+22,Male,33,33,26,37,17,Too many meetings,Time Pressures,1
+22,Male,33,33,26,37,17,Social obligations,Time Pressures,1
+22,Male,33,33,26,37,17,Concerns about meeting high standards,Time Pressures,2
+22,Male,33,33,26,37,17,Noise,Time Pressures,2
+22,Male,33,33,26,37,17,Pollution,Environmental Hassles,3
+22,Male,33,33,26,37,17,Crime,Environmental Hassles,3
+22,Male,33,33,26,37,17,Traffic,Environmental Hassles,4
+22,Male,33,33,26,37,17,Concerns about news events,Environmental Hassles,3
+22,Male,33,33,26,37,17,Rising prices of common goods,Environmental Hassles,4
+22,Male,33,33,26,37,17,Concerns about accidents,Environmental Hassles,2
+22,Male,33,33,26,37,17,Yardwork or outside home maintenance,Family Hassles,1
+22,Male,33,33,26,37,17,Overloaded with family responsibilities,Family Hassles,1
+22,Male,33,33,26,37,17,Home maintenance (inside),Family Hassles,2
+22,Male,33,33,26,37,17,Concerns about medical treatment,Health Hassles,1
+22,Male,33,33,26,37,17,Physical illness,Health Hassles,1
+22,Male,33,33,26,37,17,Side effects of medication,Health Hassles,1
+22,Male,33,33,26,37,17,Concerns about health in general,Health Hassles,1
+22,Male,33,33,26,37,17,Concerns about bodily functions,Health Hassles,1
+22,Male,33,33,26,37,17,Dissatisfaction with academic performance,Academic Hassles,3
+22,Male,33,33,26,37,17,Challenges with instructors,Academic Hassles,2
+22,Male,33,33,26,37,17,Discontent with current academic responsibilities,Academic Hassles,3
+22,Male,33,33,26,37,17,Concerns regarding academic transitions,Academic Hassles,3
+22,Male,33,33,26,37,17,Difficulties with peers or classmates,Academic Hassles,2
+22,Male,33,33,26,37,17,Challenges in managing group projects,Academic Hassles,3
+22,Male,33,33,26,37,17,Getting late to class,Academic Hassles,1
+21,Female,42,28,20,39,19,Misplacing or losing things,General Hassles,3
+21,Female,42,28,20,39,19,Silly practical mistakes,General Hassles,3
+21,Female,42,28,20,39,19,Trouble with pets,General Hassles,1
+21,Female,42,28,20,39,19,Difficulties with friends,General Hassles,2
+21,Female,42,28,20,39,19,Regrets over past decision/s,Inner Concerns,1
+21,Female,42,28,20,39,19,Concerned about the meaning of life,Inner Concerns,2
+21,Female,42,28,20,39,19,Being lonely,Inner Concerns,2
+21,Female,42,28,20,39,19,Inability to express oneself,Inner Concerns,2
+21,Female,42,28,20,39,19,Fear of rejection,Inner Concerns,2
+21,Female,42,28,20,39,19,Trouble making decisions,Inner Concerns,3
+21,Female,42,28,20,39,19,Physical appearance,Inner Concerns,1
+21,Female,42,28,20,39,19,Not seeing people,Inner Concerns,2
+21,Female,42,28,20,39,19,Troubling thoughts about one’s future,Inner Concerns,2
+21,Female,42,28,20,39,19,Not enough personal energy,Inner Concerns,3
+21,Female,42,28,20,39,19,Concerns about getting ahead,Inner Concerns,3
+21,Female,42,28,20,39,19,Fear of confrontation,Inner Concerns,3
+21,Female,42,28,20,39,19,Wasting time,Inner Concerns,4
+21,Female,42,28,20,39,19,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Female,42,28,20,39,19,Not enough money for wants (entertainment and recreation),Financial Concerns,1
+21,Female,42,28,20,39,19,Concerns about owing money,Financial Concerns,1
+21,Female,42,28,20,39,19,Concerns about money for emergencies,Financial Concerns,1
+21,Female,42,28,20,39,19,Financial security,Financial Concerns,1
+21,Female,42,28,20,39,19,Not enough time to do things one needs to,Time Pressures,3
+21,Female,42,28,20,39,19,Too many responsibilities,Time Pressures,2
+21,Female,42,28,20,39,19,Not getting enough rest,Time Pressures,3
+21,Female,42,28,20,39,19,Too many interruptions,Time Pressures,3
+21,Female,42,28,20,39,19,Not enough time for entertainment and recreation,Time Pressures,2
+21,Female,42,28,20,39,19,Too many meetings,Time Pressures,2
+21,Female,42,28,20,39,19,Social obligations,Time Pressures,2
+21,Female,42,28,20,39,19,Concerns about meeting high standards,Time Pressures,3
+21,Female,42,28,20,39,19,Noise,Time Pressures,3
+21,Female,42,28,20,39,19,Pollution,Environmental Hassles,5
+21,Female,42,28,20,39,19,Crime,Environmental Hassles,3
+21,Female,42,28,20,39,19,Traffic,Environmental Hassles,3
+21,Female,42,28,20,39,19,Concerns about news events,Environmental Hassles,2
+21,Female,42,28,20,39,19,Rising prices of common goods,Environmental Hassles,5
+21,Female,42,28,20,39,19,Concerns about accidents,Environmental Hassles,3
+21,Female,42,28,20,39,19,Yardwork or outside home maintenance,Family Hassles,2
+21,Female,42,28,20,39,19,Overloaded with family responsibilities,Family Hassles,1
+21,Female,42,28,20,39,19,Home maintenance (inside),Family Hassles,1
+21,Female,42,28,20,39,19,Concerns about medical treatment,Health Hassles,3
+21,Female,42,28,20,39,19,Physical illness,Health Hassles,1
+21,Female,42,28,20,39,19,Side effects of medication,Health Hassles,1
+21,Female,42,28,20,39,19,Concerns about health in general,Health Hassles,3
+21,Female,42,28,20,39,19,Concerns about bodily functions,Health Hassles,1
+21,Female,42,28,20,39,19,Dissatisfaction with academic performance,Academic Hassles,4
+21,Female,42,28,20,39,19,Challenges with instructors,Academic Hassles,2
+21,Female,42,28,20,39,19,Discontent with current academic responsibilities,Academic Hassles,2
+21,Female,42,28,20,39,19,Concerns regarding academic transitions,Academic Hassles,2
+21,Female,42,28,20,39,19,Difficulties with peers or classmates,Academic Hassles,2
+21,Female,42,28,20,39,19,Challenges in managing group projects,Academic Hassles,2
+21,Female,42,28,20,39,19,Getting late to class,Academic Hassles,1
+19,Female,39,36,23,27,29,Misplacing or losing things,General Hassles,5
+19,Female,39,36,23,27,29,Silly practical mistakes,General Hassles,4
+19,Female,39,36,23,27,29,Trouble with pets,General Hassles,3
+19,Female,39,36,23,27,29,Difficulties with friends,General Hassles,4
+19,Female,39,36,23,27,29,Regrets over past decision/s,Inner Concerns,4
+19,Female,39,36,23,27,29,Concerned about the meaning of life,Inner Concerns,4
+19,Female,39,36,23,27,29,Being lonely,Inner Concerns,5
+19,Female,39,36,23,27,29,Inability to express oneself,Inner Concerns,1
+19,Female,39,36,23,27,29,Fear of rejection,Inner Concerns,2
+19,Female,39,36,23,27,29,Trouble making decisions,Inner Concerns,4
+19,Female,39,36,23,27,29,Physical appearance,Inner Concerns,3
+19,Female,39,36,23,27,29,Not seeing people,Inner Concerns,1
+19,Female,39,36,23,27,29,Troubling thoughts about one’s future,Inner Concerns,5
+19,Female,39,36,23,27,29,Not enough personal energy,Inner Concerns,1
+19,Female,39,36,23,27,29,Concerns about getting ahead,Inner Concerns,1
+19,Female,39,36,23,27,29,Fear of confrontation,Inner Concerns,4
+19,Female,39,36,23,27,29,Wasting time,Inner Concerns,4
+19,Female,39,36,23,27,29,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+19,Female,39,36,23,27,29,Not enough money for wants (entertainment and recreation),Financial Concerns,4
+19,Female,39,36,23,27,29,Concerns about owing money,Financial Concerns,2
+19,Female,39,36,23,27,29,Concerns about money for emergencies,Financial Concerns,1
+19,Female,39,36,23,27,29,Financial security,Financial Concerns,2
+19,Female,39,36,23,27,29,Not enough time to do things one needs to,Time Pressures,2
+19,Female,39,36,23,27,29,Too many responsibilities,Time Pressures,2
+19,Female,39,36,23,27,29,Not getting enough rest,Time Pressures,3
+19,Female,39,36,23,27,29,Too many interruptions,Time Pressures,3
+19,Female,39,36,23,27,29,Not enough time for entertainment and recreation,Time Pressures,4
+19,Female,39,36,23,27,29,Too many meetings,Time Pressures,2
+19,Female,39,36,23,27,29,Social obligations,Time Pressures,1
+19,Female,39,36,23,27,29,Concerns about meeting high standards,Time Pressures,1
+19,Female,39,36,23,27,29,Noise,Time Pressures,4
+19,Female,39,36,23,27,29,Pollution,Environmental Hassles,3
+19,Female,39,36,23,27,29,Crime,Environmental Hassles,4
+19,Female,39,36,23,27,29,Traffic,Environmental Hassles,3
+19,Female,39,36,23,27,29,Concerns about news events,Environmental Hassles,1
+19,Female,39,36,23,27,29,Rising prices of common goods,Environmental Hassles,3
+19,Female,39,36,23,27,29,Concerns about accidents,Environmental Hassles,2
+19,Female,39,36,23,27,29,Yardwork or outside home maintenance,Family Hassles,1
+19,Female,39,36,23,27,29,Overloaded with family responsibilities,Family Hassles,1
+19,Female,39,36,23,27,29,Home maintenance (inside),Family Hassles,1
+19,Female,39,36,23,27,29,Concerns about medical treatment,Health Hassles,1
+19,Female,39,36,23,27,29,Physical illness,Health Hassles,1
+19,Female,39,36,23,27,29,Side effects of medication,Health Hassles,1
+19,Female,39,36,23,27,29,Concerns about health in general,Health Hassles,1
+19,Female,39,36,23,27,29,Concerns about bodily functions,Health Hassles,1
+19,Female,39,36,23,27,29,Dissatisfaction with academic performance,Academic Hassles,4
+19,Female,39,36,23,27,29,Challenges with instructors,Academic Hassles,2
+19,Female,39,36,23,27,29,Discontent with current academic responsibilities,Academic Hassles,5
+19,Female,39,36,23,27,29,Concerns regarding academic transitions,Academic Hassles,1
+19,Female,39,36,23,27,29,Difficulties with peers or classmates,Academic Hassles,5
+19,Female,39,36,23,27,29,Challenges in managing group projects,Academic Hassles,2
+19,Female,39,36,23,27,29,Getting late to class,Academic Hassles,1
+21,Male,38,18,18,29,20,Misplacing or losing things,General Hassles,1
+21,Male,38,18,18,29,20,Silly practical mistakes,General Hassles,2
+21,Male,38,18,18,29,20,Trouble with pets,General Hassles,1
+21,Male,38,18,18,29,20,Difficulties with friends,General Hassles,3
+21,Male,38,18,18,29,20,Regrets over past decision/s,Inner Concerns,3
+21,Male,38,18,18,29,20,Concerned about the meaning of life,Inner Concerns,2
+21,Male,38,18,18,29,20,Being lonely,Inner Concerns,4
+21,Male,38,18,18,29,20,Inability to express oneself,Inner Concerns,4
+21,Male,38,18,18,29,20,Fear of rejection,Inner Concerns,3
+21,Male,38,18,18,29,20,Trouble making decisions,Inner Concerns,5
+21,Male,38,18,18,29,20,Physical appearance,Inner Concerns,3
+21,Male,38,18,18,29,20,Not seeing people,Inner Concerns,4
+21,Male,38,18,18,29,20,Troubling thoughts about one’s future,Inner Concerns,4
+21,Male,38,18,18,29,20,Not enough personal energy,Inner Concerns,3
+21,Male,38,18,18,29,20,Concerns about getting ahead,Inner Concerns,2
+21,Male,38,18,18,29,20,Fear of confrontation,Inner Concerns,2
+21,Male,38,18,18,29,20,Wasting time,Inner Concerns,3
+21,Male,38,18,18,29,20,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,1
+21,Male,38,18,18,29,20,Not enough money for wants (entertainment and recreation),Financial Concerns,2
+21,Male,38,18,18,29,20,Concerns about owing money,Financial Concerns,1
+21,Male,38,18,18,29,20,Concerns about money for emergencies,Financial Concerns,2
+21,Male,38,18,18,29,20,Financial security,Financial Concerns,1
+21,Male,38,18,18,29,20,Not enough time to do things one needs to,Time Pressures,4
+21,Male,38,18,18,29,20,Too many responsibilities,Time Pressures,3
+21,Male,38,18,18,29,20,Not getting enough rest,Time Pressures,3
+21,Male,38,18,18,29,20,Too many interruptions,Time Pressures,4
+21,Male,38,18,18,29,20,Not enough time for entertainment and recreation,Time Pressures,1
+21,Male,38,18,18,29,20,Too many meetings,Time Pressures,2
+21,Male,38,18,18,29,20,Social obligations,Time Pressures,1
+21,Male,38,18,18,29,20,Concerns about meeting high standards,Time Pressures,3
+21,Male,38,18,18,29,20,Noise,Time Pressures,3
+21,Male,38,18,18,29,20,Pollution,Environmental Hassles,3
+21,Male,38,18,18,29,20,Crime,Environmental Hassles,3
+21,Male,38,18,18,29,20,Traffic,Environmental Hassles,3
+21,Male,38,18,18,29,20,Concerns about news events,Environmental Hassles,3
+21,Male,38,18,18,29,20,Rising prices of common goods,Environmental Hassles,3
+21,Male,38,18,18,29,20,Concerns about accidents,Environmental Hassles,2
+21,Male,38,18,18,29,20,Yardwork or outside home maintenance,Family Hassles,1
+21,Male,38,18,18,29,20,Overloaded with family responsibilities,Family Hassles,2
+21,Male,38,18,18,29,20,Home maintenance (inside),Family Hassles,2
+21,Male,38,18,18,29,20,Concerns about medical treatment,Health Hassles,2
+21,Male,38,18,18,29,20,Physical illness,Health Hassles,2
+21,Male,38,18,18,29,20,Side effects of medication,Health Hassles,1
+21,Male,38,18,18,29,20,Concerns about health in general,Health Hassles,3
+21,Male,38,18,18,29,20,Concerns about bodily functions,Health Hassles,3
+21,Male,38,18,18,29,20,Dissatisfaction with academic performance,Academic Hassles,3
+21,Male,38,18,18,29,20,Challenges with instructors,Academic Hassles,3
+21,Male,38,18,18,29,20,Discontent with current academic responsibilities,Academic Hassles,2
+21,Male,38,18,18,29,20,Concerns regarding academic transitions,Academic Hassles,3
+21,Male,38,18,18,29,20,Difficulties with peers or classmates,Academic Hassles,1
+21,Male,38,18,18,29,20,Challenges in managing group projects,Academic Hassles,3
+21,Male,38,18,18,29,20,Getting late to class,Academic Hassles,1
+19,Female,38,27,19,30,31,Misplacing or losing things,General Hassles,4
+19,Female,38,27,19,30,31,Silly practical mistakes,General Hassles,3
+19,Female,38,27,19,30,31,Trouble with pets,General Hassles,2
+19,Female,38,27,19,30,31,Difficulties with friends,General Hassles,2
+19,Female,38,27,19,30,31,Regrets over past decision/s,Inner Concerns,4
+19,Female,38,27,19,30,31,Concerned about the meaning of life,Inner Concerns,4
+19,Female,38,27,19,30,31,Being lonely,Inner Concerns,4
+19,Female,38,27,19,30,31,Inability to express oneself,Inner Concerns,4
+19,Female,38,27,19,30,31,Fear of rejection,Inner Concerns,5
+19,Female,38,27,19,30,31,Trouble making decisions,Inner Concerns,4
+19,Female,38,27,19,30,31,Physical appearance,Inner Concerns,3
+19,Female,38,27,19,30,31,Not seeing people,Inner Concerns,3
+19,Female,38,27,19,30,31,Troubling thoughts about one’s future,Inner Concerns,5
+19,Female,38,27,19,30,31,Not enough personal energy,Inner Concerns,4
+19,Female,38,27,19,30,31,Concerns about getting ahead,Inner Concerns,4
+19,Female,38,27,19,30,31,Fear of confrontation,Inner Concerns,4
+19,Female,38,27,19,30,31,Wasting time,Inner Concerns,4
+19,Female,38,27,19,30,31,"Not enough money for basic necessities (food, clothing, transportation, housing, healthcare etc.)",Financial Concerns,2
+19,Female,38,27,19,30,31,Not enough money for wants (entertainment and recreation),Financial Concerns,3
+19,Female,38,27,19,30,31,Concerns about owing money,Financial Concerns,2
+19,Female,38,27,19,30,31,Concerns about money for emergencies,Financial Concerns,2
+19,Female,38,27,19,30,31,Financial security,Financial Concerns,3
+19,Female,38,27,19,30,31,Not enough time to do things one needs to,Time Pressures,4
+19,Female,38,27,19,30,31,Too many responsibilities,Time Pressures,4
+19,Female,38,27,19,30,31,Not getting enough rest,Time Pressures,3
+19,Female,38,27,19,30,31,Too many interruptions,Time Pressures,4
+19,Female,38,27,19,30,31,Not enough time for entertainment and recreation,Time Pressures,3
+19,Female,38,27,19,30,31,Too many meetings,Time Pressures,3
+19,Female,38,27,19,30,31,Social obligations,Time Pressures,3
+19,Female,38,27,19,30,31,Concerns about meeting high standards,Time Pressures,4
+19,Female,38,27,19,30,31,Noise,Time Pressures,4
+19,Female,38,27,19,30,31,Pollution,Environmental Hassles,4
+19,Female,38,27,19,30,31,Crime,Environmental Hassles,4
+19,Female,38,27,19,30,31,Traffic,Environmental Hassles,4
+19,Female,38,27,19,30,31,Concerns about news events,Environmental Hassles,4
+19,Female,38,27,19,30,31,Rising prices of common goods,Environmental Hassles,4
+19,Female,38,27,19,30,31,Concerns about accidents,Environmental Hassles,4
+19,Female,38,27,19,30,31,Yardwork or outside home maintenance,Family Hassles,2
+19,Female,38,27,19,30,31,Overloaded with family responsibilities,Family Hassles,3
+19,Female,38,27,19,30,31,Home maintenance (inside),Family Hassles,1
+19,Female,38,27,19,30,31,Concerns about medical treatment,Health Hassles,1
+19,Female,38,27,19,30,31,Physical illness,Health Hassles,1
+19,Female,38,27,19,30,31,Side effects of medication,Health Hassles,1
+19,Female,38,27,19,30,31,Concerns about health in general,Health Hassles,2
+19,Female,38,27,19,30,31,Concerns about bodily functions,Health Hassles,1
+19,Female,38,27,19,30,31,Dissatisfaction with academic performance,Academic Hassles,4
+19,Female,38,27,19,30,31,Challenges with instructors,Academic Hassles,4
+19,Female,38,27,19,30,31,Discontent with current academic responsibilities,Academic Hassles,4
+19,Female,38,27,19,30,31,Concerns regarding academic transitions,Academic Hassles,4
+19,Female,38,27,19,30,31,Difficulties with peers or classmates,Academic Hassles,4
+19,Female,38,27,19,30,31,Challenges in managing group projects,Academic Hassles,5
+19,Female,38,27,19,30,31,Getting late to class,Academic Hassles,2

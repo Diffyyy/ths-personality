@@ -1,141 +1,216 @@
 Age,Gender,O,C,E,A,N,Hassle,Severity
-21,Male,31,27,17,33,24,Concerns about medical treatment,4
-21,Male,31,27,17,33,24,Physical illness,3
-21,Male,31,27,17,33,24,Side effects of medication,1
-21,Male,31,27,17,33,24,Concerns about health in general,3
-21,Male,31,27,17,33,24,Concerns about bodily functions,3
-21,Female,40,27,20,18,27,Concerns about medical treatment,1
-21,Female,40,27,20,18,27,Physical illness,1
-21,Female,40,27,20,18,27,Side effects of medication,1
-21,Female,40,27,20,18,27,Concerns about health in general,2
-21,Female,40,27,20,18,27,Concerns about bodily functions,1
-19,Female,30,21,19,32,24,Concerns about medical treatment,4
-19,Female,30,21,19,32,24,Physical illness,5
-19,Female,30,21,19,32,24,Side effects of medication,4
-19,Female,30,21,19,32,24,Concerns about health in general,4
-19,Female,30,21,19,32,24,Concerns about bodily functions,4
-20,Female,34,25,13,26,26,Concerns about medical treatment,3
-20,Female,34,25,13,26,26,Physical illness,4
-20,Female,34,25,13,26,26,Side effects of medication,2
-20,Female,34,25,13,26,26,Concerns about health in general,2
-20,Female,34,25,13,26,26,Concerns about bodily functions,2
-22,Female,31,29,30,34,25,Concerns about medical treatment,5
-22,Female,31,29,30,34,25,Physical illness,5
-22,Female,31,29,30,34,25,Side effects of medication,4
-22,Female,31,29,30,34,25,Concerns about health in general,4
-22,Female,31,29,30,34,25,Concerns about bodily functions,4
-21,Female,39,33,31,31,26,Concerns about medical treatment,1
-21,Female,39,33,31,31,26,Physical illness,1
-21,Female,39,33,31,31,26,Side effects of medication,1
-21,Female,39,33,31,31,26,Concerns about health in general,1
-21,Female,39,33,31,31,26,Concerns about bodily functions,1
-20,Female,40,26,23,25,28,Concerns about medical treatment,1
-20,Female,40,26,23,25,28,Physical illness,1
-20,Female,40,26,23,25,28,Side effects of medication,2
-20,Female,40,26,23,25,28,Concerns about health in general,2
-20,Female,40,26,23,25,28,Concerns about bodily functions,2
-21,Female,34,31,20,28,26,Concerns about medical treatment,4
-21,Female,34,31,20,28,26,Physical illness,4
-21,Female,34,31,20,28,26,Side effects of medication,4
-21,Female,34,31,20,28,26,Concerns about health in general,4
-21,Female,34,31,20,28,26,Concerns about bodily functions,4
-18,Female,43,39,21,31,25,Concerns about medical treatment,1
-18,Female,43,39,21,31,25,Physical illness,3
-18,Female,43,39,21,31,25,Side effects of medication,3
-18,Female,43,39,21,31,25,Concerns about health in general,4
-18,Female,43,39,21,31,25,Concerns about bodily functions,3
-21,Male,38,25,24,36,19,Concerns about medical treatment,1
-21,Male,38,25,24,36,19,Physical illness,2
-21,Male,38,25,24,36,19,Side effects of medication,1
-21,Male,38,25,24,36,19,Concerns about health in general,2
-21,Male,38,25,24,36,19,Concerns about bodily functions,1
-22,Male,31,26,21,26,30,Concerns about medical treatment,1
-22,Male,31,26,21,26,30,Physical illness,1
-22,Male,31,26,21,26,30,Side effects of medication,1
-22,Male,31,26,21,26,30,Concerns about health in general,2
-22,Male,31,26,21,26,30,Concerns about bodily functions,1
-21,Female,28,32,28,34,20,Concerns about medical treatment,4
-21,Female,28,32,28,34,20,Physical illness,4
-21,Female,28,32,28,34,20,Side effects of medication,3
-21,Female,28,32,28,34,20,Concerns about health in general,3
-21,Female,28,32,28,34,20,Concerns about bodily functions,3
-21,Female,42,28,20,39,19,Concerns about medical treatment,3
-21,Female,42,28,20,39,19,Physical illness,1
-21,Female,42,28,20,39,19,Side effects of medication,1
-21,Female,42,28,20,39,19,Concerns about health in general,3
-21,Female,42,28,20,39,19,Concerns about bodily functions,1
-21,Male,43,37,29,27,30,Concerns about medical treatment,3
-21,Male,43,37,29,27,30,Physical illness,5
-21,Male,43,37,29,27,30,Side effects of medication,5
-21,Male,43,37,29,27,30,Concerns about health in general,4
-21,Male,43,37,29,27,30,Concerns about bodily functions,5
-22,Female,33,37,21,35,24,Concerns about medical treatment,3
-22,Female,33,37,21,35,24,Physical illness,3
-22,Female,33,37,21,35,24,Side effects of medication,3
-22,Female,33,37,21,35,24,Concerns about health in general,3
-22,Female,33,37,21,35,24,Concerns about bodily functions,4
+20,Female,44,42,33,37,22,Concerns about medical treatment,3
+20,Female,44,42,33,37,22,Physical illness,1
+20,Female,44,42,33,37,22,Side effects of medication,1
+20,Female,44,42,33,37,22,Concerns about health in general,5
+20,Female,44,42,33,37,22,Concerns about bodily functions,5
+20,Male,34,30,23,28,30,Concerns about medical treatment,4
+20,Male,34,30,23,28,30,Physical illness,2
+20,Male,34,30,23,28,30,Side effects of medication,2
+20,Male,34,30,23,28,30,Concerns about health in general,2
+20,Male,34,30,23,28,30,Concerns about bodily functions,2
 21,Female,39,31,22,30,32,Concerns about medical treatment,5
 21,Female,39,31,22,30,32,Physical illness,5
 21,Female,39,31,22,30,32,Side effects of medication,5
 21,Female,39,31,22,30,32,Concerns about health in general,5
 21,Female,39,31,22,30,32,Concerns about bodily functions,5
-20,Male,48,27,23,33,28,Concerns about medical treatment,3
-20,Male,48,27,23,33,28,Physical illness,3
-20,Male,48,27,23,33,28,Side effects of medication,3
-20,Male,48,27,23,33,28,Concerns about health in general,3
-20,Male,48,27,23,33,28,Concerns about bodily functions,4
-19,Female,38,32,30,33,25,Concerns about medical treatment,2
-19,Female,38,32,30,33,25,Physical illness,2
-19,Female,38,32,30,33,25,Side effects of medication,2
-19,Female,38,32,30,33,25,Concerns about health in general,2
-19,Female,38,32,30,33,25,Concerns about bodily functions,2
-21,Male,33,25,20,28,19,Concerns about medical treatment,1
-21,Male,33,25,20,28,19,Physical illness,1
-21,Male,33,25,20,28,19,Side effects of medication,1
-21,Male,33,25,20,28,19,Concerns about health in general,2
-21,Male,33,25,20,28,19,Concerns about bodily functions,2
-22,Male,32,31,27,35,23,Concerns about medical treatment,2
-22,Male,32,31,27,35,23,Physical illness,1
-22,Male,32,31,27,35,23,Side effects of medication,1
-22,Male,32,31,27,35,23,Concerns about health in general,2
-22,Male,32,31,27,35,23,Concerns about bodily functions,2
-21,Male,38,29,22,27,27,Concerns about medical treatment,2
-21,Male,38,29,22,27,27,Physical illness,2
-21,Male,38,29,22,27,27,Side effects of medication,1
-21,Male,38,29,22,27,27,Concerns about health in general,3
-21,Male,38,29,22,27,27,Concerns about bodily functions,3
-21,Female,33,29,31,29,30,Concerns about medical treatment,5
-21,Female,33,29,31,29,30,Physical illness,5
-21,Female,33,29,31,29,30,Side effects of medication,5
-21,Female,33,29,31,29,30,Concerns about health in general,5
-21,Female,33,29,31,29,30,Concerns about bodily functions,5
+21,Female,39,33,31,31,26,Concerns about medical treatment,1
+21,Female,39,33,31,31,26,Physical illness,1
+21,Female,39,33,31,31,26,Side effects of medication,1
+21,Female,39,33,31,31,26,Concerns about health in general,1
+21,Female,39,33,31,31,26,Concerns about bodily functions,1
+19,Female,39,17,22,25,36,Concerns about medical treatment,1
+19,Female,39,17,22,25,36,Physical illness,1
+19,Female,39,17,22,25,36,Side effects of medication,1
+19,Female,39,17,22,25,36,Concerns about health in general,2
+19,Female,39,17,22,25,36,Concerns about bodily functions,1
+20,Female,38,26,29,24,19,Concerns about medical treatment,1
+20,Female,38,26,29,24,19,Physical illness,1
+20,Female,38,26,29,24,19,Side effects of medication,1
+20,Female,38,26,29,24,19,Concerns about health in general,1
+20,Female,38,26,29,24,19,Concerns about bodily functions,1
+19,Female,35,24,23,31,29,Concerns about medical treatment,3
+19,Female,35,24,23,31,29,Physical illness,3
+19,Female,35,24,23,31,29,Side effects of medication,1
+19,Female,35,24,23,31,29,Concerns about health in general,3
+19,Female,35,24,23,31,29,Concerns about bodily functions,3
+22,Male,33,23,37,27,27,Concerns about medical treatment,5
+22,Male,33,23,37,27,27,Physical illness,4
+22,Male,33,23,37,27,27,Side effects of medication,1
+22,Male,33,23,37,27,27,Concerns about health in general,5
+22,Male,33,23,37,27,27,Concerns about bodily functions,5
+19,Male,34,33,24,32,23,Concerns about medical treatment,3
+19,Male,34,33,24,32,23,Physical illness,4
+19,Male,34,33,24,32,23,Side effects of medication,3
+19,Male,34,33,24,32,23,Concerns about health in general,4
+19,Male,34,33,24,32,23,Concerns about bodily functions,3
+20,Female,33,32,22,29,31,Concerns about medical treatment,5
+20,Female,33,32,22,29,31,Physical illness,4
+20,Female,33,32,22,29,31,Side effects of medication,3
+20,Female,33,32,22,29,31,Concerns about health in general,4
+20,Female,33,32,22,29,31,Concerns about bodily functions,3
+21,Male,43,37,29,27,30,Concerns about medical treatment,3
+21,Male,43,37,29,27,30,Physical illness,5
+21,Male,43,37,29,27,30,Side effects of medication,5
+21,Male,43,37,29,27,30,Concerns about health in general,4
+21,Male,43,37,29,27,30,Concerns about bodily functions,5
+21,Female,34,31,20,28,26,Concerns about medical treatment,4
+21,Female,34,31,20,28,26,Physical illness,4
+21,Female,34,31,20,28,26,Side effects of medication,4
+21,Female,34,31,20,28,26,Concerns about health in general,4
+21,Female,34,31,20,28,26,Concerns about bodily functions,4
+22,Female,33,37,21,35,24,Concerns about medical treatment,3
+22,Female,33,37,21,35,24,Physical illness,3
+22,Female,33,37,21,35,24,Side effects of medication,3
+22,Female,33,37,21,35,24,Concerns about health in general,3
+22,Female,33,37,21,35,24,Concerns about bodily functions,4
 22,Female,32,42,25,37,18,Concerns about medical treatment,5
 22,Female,32,42,25,37,18,Physical illness,5
 22,Female,32,42,25,37,18,Side effects of medication,5
 22,Female,32,42,25,37,18,Concerns about health in general,5
 22,Female,32,42,25,37,18,Concerns about bodily functions,5
+21,Male,36,31,19,32,26,Concerns about medical treatment,3
+21,Male,36,31,19,32,26,Physical illness,3
+21,Male,36,31,19,32,26,Side effects of medication,3
+21,Male,36,31,19,32,26,Concerns about health in general,2
+21,Male,36,31,19,32,26,Concerns about bodily functions,2
+20,Female,43,37,33,29,26,Concerns about medical treatment,2
+20,Female,43,37,33,29,26,Physical illness,2
+20,Female,43,37,33,29,26,Side effects of medication,2
+20,Female,43,37,33,29,26,Concerns about health in general,3
+20,Female,43,37,33,29,26,Concerns about bodily functions,3
+20,Others,36,20,22,31,29,Concerns about medical treatment,3
+20,Others,36,20,22,31,29,Physical illness,2
+20,Others,36,20,22,31,29,Side effects of medication,1
+20,Others,36,20,22,31,29,Concerns about health in general,3
+20,Others,36,20,22,31,29,Concerns about bodily functions,3
 21,Male,35,30,21,31,26,Concerns about medical treatment,3
 21,Male,35,30,21,31,26,Physical illness,4
 21,Male,35,30,21,31,26,Side effects of medication,3
 21,Male,35,30,21,31,26,Concerns about health in general,3
 21,Male,35,30,21,31,26,Concerns about bodily functions,3
-20,Genderfluid,39,31,28,28,27,Concerns about medical treatment,5
-20,Genderfluid,39,31,28,28,27,Physical illness,3
-20,Genderfluid,39,31,28,28,27,Side effects of medication,5
-20,Genderfluid,39,31,28,28,27,Concerns about health in general,4
-20,Genderfluid,39,31,28,28,27,Concerns about bodily functions,3
-19,Female,31,32,25,29,29,Concerns about medical treatment,3
-19,Female,31,32,25,29,29,Physical illness,3
-19,Female,31,32,25,29,29,Side effects of medication,1
-19,Female,31,32,25,29,29,Concerns about health in general,3
-19,Female,31,32,25,29,29,Concerns about bodily functions,3
-19,Female,37,32,31,31,31,Concerns about medical treatment,1
-19,Female,37,32,31,31,31,Physical illness,1
-19,Female,37,32,31,31,31,Side effects of medication,1
-19,Female,37,32,31,31,31,Concerns about health in general,1
-19,Female,37,32,31,31,31,Concerns about bodily functions,1
-19,Female,36,33,28,28,23,Concerns about medical treatment,1
-19,Female,36,33,28,28,23,Physical illness,1
-19,Female,36,33,28,28,23,Side effects of medication,1
-19,Female,36,33,28,28,23,Concerns about health in general,1
-19,Female,36,33,28,28,23,Concerns about bodily functions,2
+21,Male,38,25,24,36,19,Concerns about medical treatment,1
+21,Male,38,25,24,36,19,Physical illness,2
+21,Male,38,25,24,36,19,Side effects of medication,1
+21,Male,38,25,24,36,19,Concerns about health in general,2
+21,Male,38,25,24,36,19,Concerns about bodily functions,1
+19,Female,43,24,30,35,25,Concerns about medical treatment,1
+19,Female,43,24,30,35,25,Physical illness,3
+19,Female,43,24,30,35,25,Side effects of medication,2
+19,Female,43,24,30,35,25,Concerns about health in general,5
+19,Female,43,24,30,35,25,Concerns about bodily functions,5
+19,Female,44,29,20,31,24,Concerns about medical treatment,1
+19,Female,44,29,20,31,24,Physical illness,1
+19,Female,44,29,20,31,24,Side effects of medication,1
+19,Female,44,29,20,31,24,Concerns about health in general,4
+19,Female,44,29,20,31,24,Concerns about bodily functions,3
+19,Female,33,24,16,35,28,Concerns about medical treatment,2
+19,Female,33,24,16,35,28,Physical illness,3
+19,Female,33,24,16,35,28,Side effects of medication,2
+19,Female,33,24,16,35,28,Concerns about health in general,4
+19,Female,33,24,16,35,28,Concerns about bodily functions,2
+19,Female,40,39,28,30,17,Concerns about medical treatment,1
+19,Female,40,39,28,30,17,Physical illness,1
+19,Female,40,39,28,30,17,Side effects of medication,1
+19,Female,40,39,28,30,17,Concerns about health in general,1
+19,Female,40,39,28,30,17,Concerns about bodily functions,2
+19,Female,36,23,32,25,26,Concerns about medical treatment,3
+19,Female,36,23,32,25,26,Physical illness,3
+19,Female,36,23,32,25,26,Side effects of medication,1
+19,Female,36,23,32,25,26,Concerns about health in general,4
+19,Female,36,23,32,25,26,Concerns about bodily functions,3
+21,Female,40,27,20,18,27,Concerns about medical treatment,1
+21,Female,40,27,20,18,27,Physical illness,1
+21,Female,40,27,20,18,27,Side effects of medication,1
+21,Female,40,27,20,18,27,Concerns about health in general,2
+21,Female,40,27,20,18,27,Concerns about bodily functions,1
+22,Male,32,31,27,35,23,Concerns about medical treatment,2
+22,Male,32,31,27,35,23,Physical illness,1
+22,Male,32,31,27,35,23,Side effects of medication,1
+22,Male,32,31,27,35,23,Concerns about health in general,2
+22,Male,32,31,27,35,23,Concerns about bodily functions,2
+19,Female,30,21,19,32,24,Concerns about medical treatment,4
+19,Female,30,21,19,32,24,Physical illness,5
+19,Female,30,21,19,32,24,Side effects of medication,4
+19,Female,30,21,19,32,24,Concerns about health in general,4
+19,Female,30,21,19,32,24,Concerns about bodily functions,4
+21,Female,39,30,34,39,19,Concerns about medical treatment,5
+21,Female,39,30,34,39,19,Physical illness,5
+21,Female,39,30,34,39,19,Side effects of medication,4
+21,Female,39,30,34,39,19,Concerns about health in general,3
+21,Female,39,30,34,39,19,Concerns about bodily functions,3
+19,Others,38,20,19,28,31,Concerns about medical treatment,3
+19,Others,38,20,19,28,31,Physical illness,3
+19,Others,38,20,19,28,31,Side effects of medication,1
+19,Others,38,20,19,28,31,Concerns about health in general,5
+19,Others,38,20,19,28,31,Concerns about bodily functions,5
+19,Female,44,30,20,25,37,Concerns about medical treatment,1
+19,Female,44,30,20,25,37,Physical illness,4
+19,Female,44,30,20,25,37,Side effects of medication,1
+19,Female,44,30,20,25,37,Concerns about health in general,4
+19,Female,44,30,20,25,37,Concerns about bodily functions,4
+21,Female,33,29,31,29,30,Concerns about medical treatment,5
+21,Female,33,29,31,29,30,Physical illness,5
+21,Female,33,29,31,29,30,Side effects of medication,5
+21,Female,33,29,31,29,30,Concerns about health in general,5
+21,Female,33,29,31,29,30,Concerns about bodily functions,5
+21,Male,34,28,16,23,33,Concerns about medical treatment,3
+21,Male,34,28,16,23,33,Physical illness,3
+21,Male,34,28,16,23,33,Side effects of medication,1
+21,Male,34,28,16,23,33,Concerns about health in general,3
+21,Male,34,28,16,23,33,Concerns about bodily functions,3
+18,Female,43,39,21,31,25,Concerns about medical treatment,1
+18,Female,43,39,21,31,25,Physical illness,3
+18,Female,43,39,21,31,25,Side effects of medication,3
+18,Female,43,39,21,31,25,Concerns about health in general,4
+18,Female,43,39,21,31,25,Concerns about bodily functions,3
+21,Male,38,29,22,27,27,Concerns about medical treatment,2
+21,Male,38,29,22,27,27,Physical illness,2
+21,Male,38,29,22,27,27,Side effects of medication,1
+21,Male,38,29,22,27,27,Concerns about health in general,3
+21,Male,38,29,22,27,27,Concerns about bodily functions,3
+20,Male,48,27,23,33,28,Concerns about medical treatment,3
+20,Male,48,27,23,33,28,Physical illness,3
+20,Male,48,27,23,33,28,Side effects of medication,3
+20,Male,48,27,23,33,28,Concerns about health in general,3
+20,Male,48,27,23,33,28,Concerns about bodily functions,4
+21,Male,36,27,18,31,32,Concerns about medical treatment,5
+21,Male,36,27,18,31,32,Physical illness,5
+21,Male,36,27,18,31,32,Side effects of medication,3
+21,Male,36,27,18,31,32,Concerns about health in general,5
+21,Male,36,27,18,31,32,Concerns about bodily functions,5
+21,Male,33,25,20,28,19,Concerns about medical treatment,1
+21,Male,33,25,20,28,19,Physical illness,1
+21,Male,33,25,20,28,19,Side effects of medication,1
+21,Male,33,25,20,28,19,Concerns about health in general,2
+21,Male,33,25,20,28,19,Concerns about bodily functions,2
+20,Female,40,26,23,25,28,Concerns about medical treatment,1
+20,Female,40,26,23,25,28,Physical illness,1
+20,Female,40,26,23,25,28,Side effects of medication,2
+20,Female,40,26,23,25,28,Concerns about health in general,2
+20,Female,40,26,23,25,28,Concerns about bodily functions,2
+22,Male,33,33,26,37,17,Concerns about medical treatment,1
+22,Male,33,33,26,37,17,Physical illness,1
+22,Male,33,33,26,37,17,Side effects of medication,1
+22,Male,33,33,26,37,17,Concerns about health in general,1
+22,Male,33,33,26,37,17,Concerns about bodily functions,1
+21,Female,42,28,20,39,19,Concerns about medical treatment,3
+21,Female,42,28,20,39,19,Physical illness,1
+21,Female,42,28,20,39,19,Side effects of medication,1
+21,Female,42,28,20,39,19,Concerns about health in general,3
+21,Female,42,28,20,39,19,Concerns about bodily functions,1
+19,Female,39,36,23,27,29,Concerns about medical treatment,1
+19,Female,39,36,23,27,29,Physical illness,1
+19,Female,39,36,23,27,29,Side effects of medication,1
+19,Female,39,36,23,27,29,Concerns about health in general,1
+19,Female,39,36,23,27,29,Concerns about bodily functions,1
+21,Male,38,18,18,29,20,Concerns about medical treatment,2
+21,Male,38,18,18,29,20,Physical illness,2
+21,Male,38,18,18,29,20,Side effects of medication,1
+21,Male,38,18,18,29,20,Concerns about health in general,3
+21,Male,38,18,18,29,20,Concerns about bodily functions,3
+19,Female,38,27,19,30,31,Concerns about medical treatment,1
+19,Female,38,27,19,30,31,Physical illness,1
+19,Female,38,27,19,30,31,Side effects of medication,1
+19,Female,38,27,19,30,31,Concerns about health in general,2
+19,Female,38,27,19,30,31,Concerns about bodily functions,1
